@@ -1,0 +1,32 @@
+{
+  "name": "sci-latitude39-dossier-banque",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0 -p 43125",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0 -p 43125",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^14.1.0",
+    "gray-matter": "^4.0.3",
+    "next": "^15.5.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-markdown": "^10.1.0",
+    "recharts": "^3.10.1",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20.19.43",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

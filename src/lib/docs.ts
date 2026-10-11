@@ -6,8 +6,7 @@ const contentDir = path.join(process.cwd(), "content");
 export type DocSlug =
   | "business-plan-banque"
   | "etude-marche-greoux"
-  | "etude-marche-graphiques"
-  | "pieces-perso-associes";
+  | "etude-marche-graphiques";
 
 export const DOC_META: Record<
   DocSlug,
@@ -29,11 +28,6 @@ export const DOC_META: Record<
     title: "Données & graphiques",
     nav: "Graphiques",
     description: "Tableaux sourcés prêts à visualiser (PriceLabs, AirDNA, Insee).",
-  },
-  "pieces-perso-associes": {
-    title: "Pièces & checklist",
-    nav: "Pièces",
-    description: "Checklist pièces personnelles, bien et assurance.",
   },
 };
 

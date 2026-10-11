@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     template: "%s · SCI Latitude 39",
   },
   description:
-    "Dossier banque SCI Latitude 39 — acquisition Domaine Gréoux-les-Bains : business plan, étude de marché, graphiques et pièces.",
+    "Dossier banque SCI Latitude 39 — acquisition Domaine Gréoux-les-Bains : business plan, étude de marché et graphiques.",
 };
 
 export default function RootLayout({

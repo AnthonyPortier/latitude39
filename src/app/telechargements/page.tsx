@@ -11,7 +11,6 @@ const LABELS: Record<string, string> = {
   "SCI-Latitude39-business-plan-banque.pdf": "Business plan banque",
   "SCI-Latitude39-etude-marche-greoux.pdf": "Étude de marché Gréoux",
   "SCI-Latitude39-etude-marche-graphiques.pdf": "Étude — données / graphiques",
-  "SCI-Latitude39-pieces-perso-associes.pdf": "Pièces personnelles associés",
   "SCI-Latitude39-dossier-banque-V2.pdf": "Dossier banque V2 (compilé)",
   "SCI-Latitude39-dossier-banque-V1.pdf": "Dossier banque V1",
   "SCI-Latitude39-dossier-banque.pdf": "Dossier banque (version initiale)",
@@ -44,8 +43,8 @@ export default function TelechargementsPage() {
         Téléchargements PDF
       </h1>
       <p className="mt-3 text-pierre-700">
-        Versions PDF générées pour le dossier banque. Les pages du site
-        affichent aussi le markdown source intégral.
+        Versions PDF du business plan et de l’étude de marché. Les pages du
+        site affichent aussi le markdown source intégral.
       </p>
 
       <ul className="mt-10 divide-y divide-[var(--line)] border-y border-[var(--line)]">

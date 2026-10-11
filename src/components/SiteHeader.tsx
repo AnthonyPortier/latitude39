@@ -9,7 +9,6 @@ const links = [
   { href: "/business-plan", label: "Business plan" },
   { href: "/etude-marche", label: "Étude de marché" },
   { href: "/graphiques", label: "Graphiques" },
-  { href: "/pieces", label: "Pièces" },
   { href: "/telechargements", label: "PDF" },
 ];
 

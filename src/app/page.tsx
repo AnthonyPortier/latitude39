@@ -42,14 +42,9 @@ const sections = [
     text: "Occupation, CA mensuel Vinon, AirDNA villes, répartition chambres, 133 k€.",
   },
   {
-    href: "/pieces",
-    title: "Pièces / checklist",
-    text: "Liste des pièces personnelles, relatives au bien et assurances.",
-  },
-  {
     href: "/telechargements",
     title: "Téléchargements PDF",
-    text: "Versions PDF du business plan, de l’étude et des pièces.",
+    text: "Versions PDF du business plan et de l’étude de marché.",
   },
 ];
 

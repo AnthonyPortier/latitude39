@@ -5,7 +5,7 @@
 **Date :** 10 octobre 2026  
 **Objet :** Demande de financement pour l’acquisition du domaine et les travaux associés  
 **Emprunteur :** SCI Latitude 39 (à l’IS) — **création en cours**  
-**Associés (25 % chacun) :** Michaël Lezzi · Pauline Renaux · Anthony Portier · Manon Pénicaud
+**Associés (25 % chacun) :** Pauline Renaux · Manon Pénicaud · Michaël Lezzi · Anthony Portier
 
 ---
 
@@ -61,10 +61,10 @@ Nous demandons un emprunt de **650 000 €** afin de financer l’intégralité 
 
 | Associé      | Parts     | Apport       | Rôle opérationnel                    |
 | ------------ | --------- | ------------ | ------------------------------------ |
-| M. Lezzi     | 25 %      | 15 000 €     | Entretien du jardin et de la piscine |
 | Mme Renaux   | 25 %      | 15 000 €     | Relation clients et messages         |
-| M. Portier   | 25 %      | 15 000 €     | Ménage et travaux courants           |
 | Mme Pénicaud | 25 %      | 15 000 €     | Suivi administratif                  |
+| M. Lezzi     | 25 %      | 15 000 €     | Entretien du jardin et de la piscine |
+| M. Portier   | 25 %      | 15 000 €     | Ménage et travaux courants           |
 | **Total**    | **100 %** | **60 000 €** |                                      |
 
 
@@ -368,7 +368,7 @@ Ces évolutions renforcent la capacité de croissance du domaine, sans modifier 
 | ---------------- | ------------------------------------------------------------------------------------------- |
 | Fait — 9/10/2026 | Compromis de vente signé                                                                    |
 | En cours         | Création de la **SCI Latitude 39**                                                          |
-| ≤ 29/01/2027     | Condition suspensive — vente du bien Portier / Pénicaud (**147 000 €**)                     |
+| ≤ 29/01/2027     | Condition suspensive — vente du bien Pénicaud / Portier (**147 000 €**)                     |
 | ≤ 01/03/2027     | Acte authentique                                                                            |
 | Post-acte        | Travaux de 50 k€, puis mise en location des lots 1 à 7                                      |
 

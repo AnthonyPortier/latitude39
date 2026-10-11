@@ -242,7 +242,7 @@ Répartition des annonces par **nombre de chambres** (AirDNA, même période) �
 **Lecture favorable et crédible :**
 
 - Gréoux affiche une **occupation de marché de 65 %** et un **score de demande locative de 85/100** (sous-score AirDNA) — signe d’un marché **profond et liquide**.
-- Le chiffre d’affaires moyen AirDNA (≈ 12 600 €) est une **moyenne tous logements** (studios curistes inclus). Un T2 bien géré, ouvert 12 mois, avec piscine et capacité famille, se situe **au-dessus** de cette moyenne — cohérent avec la cible du business plan (~18 000 € / T2) et avec le chiffre déjà réalisé sur le T2 de Vinon-sur-Verdon exploité par Anthony Portier et Manon Pénicaud : **18 257 €**.
+- Le chiffre d’affaires moyen AirDNA (≈ 12 600 €) est une **moyenne tous logements** (studios curistes inclus). Un T2 bien géré, ouvert 12 mois, avec piscine et capacité famille, se situe **au-dessus** de cette moyenne — cohérent avec la cible du business plan (~18 000 € / T2) et avec le chiffre déjà réalisé sur le T2 de Vinon-sur-Verdon exploité par Manon Pénicaud et Anthony Portier : **18 257 €**.
 - Le prix moyen par nuit AirDNA à Gréoux (≈ **65 €**) est aligné avec la médiane PriceLabs 1 chambre (**66 €**) et le prix moyen de quartier (**72 €**).
 
 ### 7.2 PriceLabs — marché de quartier Vinon / Gréoux
@@ -259,7 +259,7 @@ PriceLabs est un outil d’analyse du marché locatif saisonnier, au même titre
 
 Le **prix moyen de quartier** est le tarif moyen par nuit de l’ensemble des annonces du secteur autour du T2 de Vinon-sur-Verdon (tous types de logements confondus), tel que calculé par PriceLabs. Ce n’est pas le prix du T2 de Manon Pénicaud et Anthony Portier : c’est la moyenne du marché local, utile pour se situer par rapport aux concurrents.
 
-Occupation mensuelle du **marché de quartier** (moyenne de toutes les annonces du secteur, pas celle du T2 en location meublée non professionnelle de Manon Pénicaud et Anthony Portier à Vinon-sur-Verdon) : octobre 71 %, novembre 62 %, décembre 36 %, janvier 35 %, février 40 %, mars 52 %, avril 65 %, mai 65 %, juin 69 %, juillet 76 %, août 80 %, septembre 66 %. La moyenne annuelle de ce marché s’établit à **62 %**. Le T2 de Vinon-sur-Verdon exploité par Anthony Portier et Manon Pénicaud affiche déjà **76 %** d’occupation sur les réservations enregistrées en 2026, pour une prévision annuelle PriceLabs de **87 %** : nettement au-dessus de la moyenne, grâce à une gestion active (ouverture 12 mois, tarification dynamique PriceLabs, annonce soignée). Les mois d’hiver restent plus bas pour le marché dans son ensemble ; un logement bien géré peut nettement dépasser cette moyenne. L’écart d’occupation en hiver entre ce T2 et la moyenne du marché s’explique, d’instinct, par l’**adaptation des prix à la demande** : baisser le tarif quand la fréquentation baisse (par exemple en janvier–février) permet de garder un bon remplissage, alors que beaucoup d’annonces restent à des prix trop élevés pour la basse saison. Sur ce T2, PriceLabs montre par exemple **948 €** de revenu en février pour **85 %** d’occupation, contre **2 739 €** en juillet à **100 %** d’occupation.
+Occupation mensuelle du **marché de quartier** (moyenne de toutes les annonces du secteur, pas celle du T2 en location meublée non professionnelle de Manon Pénicaud et Anthony Portier à Vinon-sur-Verdon) : octobre 71 %, novembre 62 %, décembre 36 %, janvier 35 %, février 40 %, mars 52 %, avril 65 %, mai 65 %, juin 69 %, juillet 76 %, août 80 %, septembre 66 %. La moyenne annuelle de ce marché s’établit à **62 %**. Le T2 de Vinon-sur-Verdon exploité par Manon Pénicaud et Anthony Portier affiche déjà **76 %** d’occupation sur les réservations enregistrées en 2026, pour une prévision annuelle PriceLabs de **87 %** : nettement au-dessus de la moyenne, grâce à une gestion active (ouverture 12 mois, tarification dynamique PriceLabs, annonce soignée). Les mois d’hiver restent plus bas pour le marché dans son ensemble ; un logement bien géré peut nettement dépasser cette moyenne. L’écart d’occupation en hiver entre ce T2 et la moyenne du marché s’explique, d’instinct, par l’**adaptation des prix à la demande** : baisser le tarif quand la fréquentation baisse (par exemple en janvier–février) permet de garder un bon remplissage, alors que beaucoup d’annonces restent à des prix trop élevés pour la basse saison. Sur ce T2, PriceLabs montre par exemple **948 €** de revenu en février pour **85 %** d’occupation, contre **2 739 €** en juillet à **100 %** d’occupation.
 
 ### 7.3 Concurrents locaux (hôtels, résidences, meublés)
 
@@ -292,7 +292,7 @@ L’historique vendeur (chiffre d’affaires loyers ~**40 à 49 k€** sur 5 log
 
 ## 9. Preuve de performance locale
 
-Référence : T2 Vinon-sur-Verdon (Anthony Portier / Manon Pénicaud), PriceLabs octobre 2026.
+Référence : T2 Vinon-sur-Verdon (Manon Pénicaud / Anthony Portier), PriceLabs octobre 2026.
 
 | Indicateur | Valeur retenue |
 | ---------- | -------------- |
@@ -336,7 +336,7 @@ Le chiffre d’affaires cible du domaine se construit ainsi :
 | 2 T3 | **21 600 €** chacun (un peu plus qu’un T2, car plus grands / 6 couchages) | 2 × 21 600 € | **43 200 €** |
 | **Total** | | | **133 200 €** → arrondi **133 000 €** |
 
-D’où vient le **18 000 €** par T2 ? Du T2 déjà exploité à Vinon-sur-Verdon par Anthony Portier et Manon Pénicaud : **18 257 €** selon la prévision annuelle PriceLabs (occupation **87 %**). Les **+5 € par nuit et par couchage** au-delà de 2 personnes ne sont **pas** comptés dans ce total : c’est une marge de sécurité supplémentaire.
+D’où vient le **18 000 €** par T2 ? Du T2 déjà exploité à Vinon-sur-Verdon par Manon Pénicaud et Anthony Portier : **18 257 €** selon la prévision annuelle PriceLabs (occupation **87 %**). Les **+5 € par nuit et par couchage** au-delà de 2 personnes ne sont **pas** comptés dans ce total : c’est une marge de sécurité supplémentaire.
 
 **Comment atteindre environ 18 000 € sur un T2 ?** Plusieurs combinaisons prix × remplissage marchent. Plus le prix moyen par nuit est élevé, moins il faut de nuits louées :
 

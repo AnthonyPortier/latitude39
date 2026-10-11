@@ -6,12 +6,12 @@ import { motion } from "framer-motion";
 
 export function HomeHero() {
   return (
-    <section className="relative h-[100svh] min-h-[36rem] w-full overflow-hidden">
+    <section className="relative h-[70svh] min-h-[24rem] w-full overflow-hidden md:h-[78svh]">
       <motion.div
         className="absolute inset-0"
-        initial={{ scale: 1.08 }}
+        initial={{ scale: 1.06 }}
         animate={{ scale: 1 }}
-        transition={{ duration: 1.6, ease: [0.22, 1, 0.36, 1] }}
+        transition={{ duration: 1.5, ease: [0.22, 1, 0.36, 1] }}
       >
         <Image
           src="/photos/hero-facade.webp"
@@ -39,7 +39,7 @@ export function HomeHero() {
             initial={{ opacity: 0, y: 28 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.85, ease: [0.22, 1, 0.36, 1] }}
-            className="font-display text-[clamp(3.25rem,9vw,7.5rem)] font-semibold leading-[0.92] tracking-tight text-white"
+            className="font-display text-[clamp(2.5rem,6.5vw,5.25rem)] font-semibold leading-[0.92] tracking-tight text-white"
           >
             SCI Latitude 39
           </motion.p>

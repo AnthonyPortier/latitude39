@@ -54,7 +54,7 @@ export default function HomePage() {
 
       <ChapterIntro
         title="Le domaine"
-        text="Piscine, jardin, terrasses et pétanque — le cadre du mas à Gréoux-les-Bains, entre pierre et lumière du Verdon."
+        text="Piscine, jardin et chalet — le cadre du mas à Gréoux-les-Bains, entre pierre et lumière du Verdon."
       />
 
       <FullBleedPhoto
@@ -65,10 +65,17 @@ export default function HomePage() {
       />
 
       <FullBleedPhoto
-        src="/photos/domaine-terrasse.webp"
-        alt="Terrasse ombragée du mas"
-        caption="Terrasse ombragée — vie extérieure dès le printemps."
+        src="/photos/domaine-jardin.webp"
+        alt="Jardin et terrasse avec roses"
+        caption="Jardin et terrasse — roses, ombre et vie extérieure."
         objectPosition="50% 45%"
+      />
+
+      <FullBleedPhoto
+        src="/photos/domaine-chalet.webp"
+        alt="Terrasse du chalet en bois"
+        caption="Chalet et terrasse bois — un des lots du domaine."
+        objectPosition="50% 55%"
       />
 
       <section className="mx-auto max-w-6xl px-5 py-16 sm:px-8 md:px-12 md:py-24 lg:px-16">
@@ -98,37 +105,23 @@ export default function HomePage() {
         </div>
       </section>
 
-      <FullBleedPhoto
-        src="/photos/domaine-jardin.webp"
-        alt="Jardin et roses devant la maison"
-        caption="Jardin et façade — lecture concrète du bien pour le dossier."
-        objectPosition="center"
-      />
-
-      <FullBleedPhoto
-        src="/photos/domaine-petanque.webp"
-        alt="Terrain de pétanque au coucher du soleil"
-        caption="Terrain de pétanque — annexe de loisirs du domaine."
-        objectPosition="50% 55%"
-        heightClass="h-[70svh] min-h-[20rem] md:h-[80svh]"
-      />
-
       <ChapterIntro
         title="Ambiance"
-        text="Intérieurs du mas — volumes, poutres et lumière naturelle. Une lecture du bien, sans mise en scène artificielle."
+        text="Vue sur Gréoux et pièce de vie — volumes, cheminée et lumière naturelle."
       />
 
       <FullBleedPhoto
         src="/photos/ambiance-fenetre.webp"
-        alt="Vue depuis une fenêtre du domaine"
-        caption="Vue depuis l’intérieur — rapport au jardin et à la lumière."
+        alt="Vue depuis une fenêtre du domaine vers le château de Gréoux"
+        caption="Vue depuis l’intérieur — jardin, pétanque et château de Gréoux."
         objectPosition="center"
+        heightClass="h-[55svh] min-h-[18rem] md:h-[65svh]"
       />
 
       <FullBleedPhoto
-        src="/photos/ambiance-salon.webp"
-        alt="Salon avec poutres et baies vitrées"
-        caption="Pièce de vie — poutres et baies vers l’extérieur."
+        src="/photos/ambiance-cheminee.webp"
+        alt="Salon avec cheminée et mezzanine"
+        caption="Pièce de vie — cheminée en pierre, poutres et mezzanine."
         objectPosition="50% 40%"
       />
 

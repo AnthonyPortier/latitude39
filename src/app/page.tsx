@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { HomeHero } from "@/components/HomeHero";
-import { PhotoBand } from "@/components/PhotoBand";
+import { ChapterIntro, FullBleedPhoto } from "@/components/FullBleedPhoto";
 import { Reveal } from "@/components/Reveal";
 
 const highlights = [
@@ -49,101 +49,108 @@ export default function HomePage() {
     <>
       <HomeHero />
 
-      <PhotoBand
+      <ChapterIntro
         title="Le domaine"
-        subtitle="Piscine, jardin, terrasses et pétanque — cadre du mas à Gréoux-les-Bains."
-        photos={[
-          {
-            src: "/photos/domaine-piscine.webp",
-            alt: "Piscine et jardin du domaine",
-          },
-          {
-            src: "/photos/domaine-terrasse.webp",
-            alt: "Terrasse ombragée du mas",
-          },
-          {
-            src: "/photos/domaine-jardin.webp",
-            alt: "Jardin et roses devant la maison",
-          },
-          {
-            src: "/photos/domaine-petanque.webp",
-            alt: "Terrain de pétanque au coucher du soleil",
-          },
-        ]}
+        text="Piscine, jardin, terrasses et pétanque — le cadre du mas à Gréoux-les-Bains, entre pierre et lumière du Verdon."
       />
 
-      <section className="mx-auto max-w-6xl px-4 py-16 md:px-6 md:py-20">
+      <FullBleedPhoto
+        src="/photos/domaine-piscine.webp"
+        alt="Piscine et jardin du domaine"
+        caption="Piscine et parc arboré — cœur de l’offre saisonnière."
+        objectPosition="50% 60%"
+      />
+
+      <FullBleedPhoto
+        src="/photos/domaine-terrasse.webp"
+        alt="Terrasse ombragée du mas"
+        caption="Terrasse ombragée — vie extérieure dès le printemps."
+        objectPosition="50% 45%"
+      />
+
+      <section className="mx-auto max-w-6xl px-5 py-16 sm:px-8 md:px-12 md:py-24 lg:px-16">
         <Reveal>
-          <h2 className="font-display text-3xl text-verdon-900 md:text-4xl">
+          <h2 className="font-display text-[clamp(2rem,4vw,3.25rem)] leading-tight text-verdon-900">
             Synthèse du dossier
           </h2>
-          <p className="mt-3 max-w-2xl text-pierre-700">
+          <p className="mt-4 max-w-2xl text-lg leading-relaxed text-pierre-700">
             Chiffres clés issus du business plan — pour la lecture complète,
             ouvrir les pages documents.
           </p>
         </Reveal>
 
-        <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="mt-14 grid gap-12 border-t border-[var(--line)] pt-12 sm:grid-cols-2 lg:grid-cols-4">
           {highlights.map((item, index) => (
-            <Reveal key={item.label} delay={index * 0.06}>
-              <p className="text-xs uppercase tracking-[0.14em] text-pierre-500">
+            <Reveal key={item.label} delay={index * 0.05}>
+              <p className="text-xs uppercase tracking-[0.16em] text-pierre-500">
                 {item.label}
               </p>
-              <p className="mt-2 font-display text-3xl text-verdon-800">
+              <p className="mt-3 font-display text-3xl tracking-tight text-verdon-800 md:text-4xl">
                 {item.value}
               </p>
-              <p className="mt-1 text-sm text-pierre-600">{item.hint}</p>
+              <p className="mt-2 text-sm text-pierre-600">{item.hint}</p>
             </Reveal>
           ))}
         </div>
       </section>
 
-      <PhotoBand
-        title="Ambiance"
-        subtitle="Intérieurs du mas — lumière, pierre et volumes pour une lecture concrète du bien."
-        photos={[
-          {
-            src: "/photos/ambiance-fenetre.webp",
-            alt: "Vue depuis une fenêtre du domaine",
-          },
-          {
-            src: "/photos/ambiance-salon.webp",
-            alt: "Salon avec poutres et baies vitrées",
-          },
-          {
-            src: "/photos/ambiance-cheminee.webp",
-            alt: "Pièce de vie avec cheminée",
-          },
-          {
-            src: "/photos/ambiance-cuisine.webp",
-            alt: "Cuisine et salle à manger",
-          },
-        ]}
+      <FullBleedPhoto
+        src="/photos/domaine-jardin.webp"
+        alt="Jardin et roses devant la maison"
+        caption="Jardin et façade — lecture concrète du bien pour le dossier."
+        objectPosition="center"
       />
 
-      <section className="border-y border-[var(--line)] bg-white/40">
-        <div className="mx-auto max-w-6xl px-4 py-16 md:px-6 md:py-20">
+      <FullBleedPhoto
+        src="/photos/domaine-petanque.webp"
+        alt="Terrain de pétanque au coucher du soleil"
+        caption="Terrain de pétanque — annexe de loisirs du domaine."
+        objectPosition="50% 55%"
+        heightClass="h-[70svh] min-h-[20rem] md:h-[80svh]"
+      />
+
+      <ChapterIntro
+        title="Ambiance"
+        text="Intérieurs du mas — volumes, poutres et lumière naturelle. Une lecture du bien, sans mise en scène artificielle."
+      />
+
+      <FullBleedPhoto
+        src="/photos/ambiance-fenetre.webp"
+        alt="Vue depuis une fenêtre du domaine"
+        caption="Vue depuis l’intérieur — rapport au jardin et à la lumière."
+        objectPosition="center"
+      />
+
+      <FullBleedPhoto
+        src="/photos/ambiance-salon.webp"
+        alt="Salon avec poutres et baies vitrées"
+        caption="Pièce de vie — poutres et baies vers l’extérieur."
+        objectPosition="50% 40%"
+      />
+
+      <section className="border-t border-[var(--line)] bg-[#eef2ef]/70">
+        <div className="mx-auto max-w-6xl px-5 py-16 sm:px-8 md:px-12 md:py-24 lg:px-16">
           <Reveal>
-            <h2 className="font-display text-3xl text-verdon-900 md:text-4xl">
+            <h2 className="font-display text-[clamp(2rem,4vw,3.25rem)] leading-tight text-verdon-900">
               Documents du dossier
             </h2>
-            <p className="mt-3 max-w-2xl text-pierre-700">
-              Chaque page affiche le markdown source en intégralité — sans
-              raccourci. Les graphiques sont intégrés dans l’étude de marché.
+            <p className="mt-4 max-w-2xl text-lg leading-relaxed text-pierre-700">
+              Markdown source en intégralité. Les graphiques sont ancrés dans
+              l’étude de marché.
             </p>
           </Reveal>
 
-          <div className="mt-10 divide-y divide-[var(--line)] border-y border-[var(--line)]">
+          <div className="mt-12 divide-y divide-[var(--line)] border-y border-[var(--line)]">
             {sections.map((section, index) => (
               <Reveal key={section.href} delay={index * 0.05}>
                 <Link
                   href={section.href}
-                  className="group flex flex-col gap-2 py-6 transition md:flex-row md:items-baseline md:justify-between md:gap-8"
+                  className="group flex flex-col gap-2 py-7 transition md:flex-row md:items-baseline md:justify-between md:gap-10"
                 >
-                  <span className="font-display text-2xl text-verdon-900 group-hover:text-olivier-700">
+                  <span className="font-display text-2xl text-verdon-900 transition group-hover:text-olivier-700 md:text-3xl">
                     {section.title}
                   </span>
-                  <span className="max-w-xl text-sm leading-relaxed text-pierre-600 md:text-right">
+                  <span className="max-w-md text-sm leading-relaxed text-pierre-600 md:text-right">
                     {section.text}
                   </span>
                 </Link>

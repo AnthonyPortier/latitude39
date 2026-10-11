@@ -16,14 +16,14 @@ export function SiteHeader() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-40 border-b border-[var(--line)] bg-[rgba(243,241,236,0.88)] backdrop-blur-md">
-      <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3 md:px-6">
+    <header className="sticky top-0 z-40 border-b border-[var(--line)] bg-[rgba(238,242,239,0.82)] backdrop-blur-md">
+      <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-5 py-3 sm:px-8 md:px-12 lg:px-16">
         <Link href="/" className="group min-w-0" onClick={() => setOpen(false)}>
-          <span className="block font-display text-lg font-semibold tracking-tight text-verdon-800 group-hover:text-verdon-600 md:text-xl">
+          <span className="block font-display text-lg font-semibold tracking-tight text-verdon-900 group-hover:text-verdon-700 md:text-xl">
             SCI Latitude 39
           </span>
-          <span className="block truncate text-xs text-pierre-600 md:text-sm">
-            Domaine Gréoux · dossier banque
+          <span className="block truncate text-xs tracking-wide text-pierre-600 md:text-sm">
+            Domaine Gréoux
           </span>
         </Link>
 

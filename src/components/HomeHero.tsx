@@ -51,7 +51,7 @@ export function HomeHero() {
           className="mt-5 max-w-xl text-base leading-relaxed text-pierre-100 md:text-lg"
         >
           Acquisition d’un domaine à Gréoux-les-Bains pour une exploitation en
-          meublé de tourisme — business plan, étude de marché et pièces du dossier.
+          meublé de tourisme — business plan, étude de marché et graphiques.
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 16 }}

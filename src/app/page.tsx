@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { HomeHero } from "@/components/HomeHero";
+import { PhotoBand } from "@/components/PhotoBand";
 import { Reveal } from "@/components/Reveal";
 
 const highlights = [
@@ -34,12 +35,7 @@ const sections = [
   {
     href: "/etude-marche",
     title: "Étude de marché",
-    text: "Gréoux, Verdon, thermalisme, Cadarache / ITER, ancrages PriceLabs et AirDNA.",
-  },
-  {
-    href: "/graphiques",
-    title: "Graphiques",
-    text: "Occupation, CA mensuel Vinon, AirDNA villes, répartition chambres, 133 k€.",
+    text: "Texte complet avec graphiques ancrés (saisonnalité, AirDNA, Vinon, 133 k€).",
   },
   {
     href: "/telechargements",
@@ -52,6 +48,29 @@ export default function HomePage() {
   return (
     <>
       <HomeHero />
+
+      <PhotoBand
+        title="Le domaine"
+        subtitle="Piscine, jardin, terrasses et pétanque — cadre du mas à Gréoux-les-Bains."
+        photos={[
+          {
+            src: "/photos/domaine-piscine.webp",
+            alt: "Piscine et jardin du domaine",
+          },
+          {
+            src: "/photos/domaine-terrasse.webp",
+            alt: "Terrasse ombragée du mas",
+          },
+          {
+            src: "/photos/domaine-jardin.webp",
+            alt: "Jardin et roses devant la maison",
+          },
+          {
+            src: "/photos/domaine-petanque.webp",
+            alt: "Terrain de pétanque au coucher du soleil",
+          },
+        ]}
+      />
 
       <section className="mx-auto max-w-6xl px-4 py-16 md:px-6 md:py-20">
         <Reveal>
@@ -79,6 +98,29 @@ export default function HomePage() {
         </div>
       </section>
 
+      <PhotoBand
+        title="Ambiance"
+        subtitle="Intérieurs du mas — lumière, pierre et volumes pour une lecture concrète du bien."
+        photos={[
+          {
+            src: "/photos/ambiance-fenetre.webp",
+            alt: "Vue depuis une fenêtre du domaine",
+          },
+          {
+            src: "/photos/ambiance-salon.webp",
+            alt: "Salon avec poutres et baies vitrées",
+          },
+          {
+            src: "/photos/ambiance-cheminee.webp",
+            alt: "Pièce de vie avec cheminée",
+          },
+          {
+            src: "/photos/ambiance-cuisine.webp",
+            alt: "Cuisine et salle à manger",
+          },
+        ]}
+      />
+
       <section className="border-y border-[var(--line)] bg-white/40">
         <div className="mx-auto max-w-6xl px-4 py-16 md:px-6 md:py-20">
           <Reveal>
@@ -87,7 +129,7 @@ export default function HomePage() {
             </h2>
             <p className="mt-3 max-w-2xl text-pierre-700">
               Chaque page affiche le markdown source en intégralité — sans
-              raccourci.
+              raccourci. Les graphiques sont intégrés dans l’étude de marché.
             </p>
           </Reveal>
 

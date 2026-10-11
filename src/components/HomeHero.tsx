@@ -1,28 +1,26 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
 
 export function HomeHero() {
   return (
     <section className="relative min-h-[100svh] overflow-hidden">
-      <div
-        className="absolute inset-0 bg-hero-wash"
-        aria-hidden
+      <Image
+        src="/photos/hero-facade.webp"
+        alt="Façade du domaine à Gréoux-les-Bains"
+        fill
+        priority
+        className="object-cover object-center"
+        sizes="100vw"
       />
+      <div className="absolute inset-0 bg-hero-wash" aria-hidden />
       <div
-        className="absolute inset-0 opacity-40"
+        className="absolute inset-0"
         style={{
-          backgroundImage:
-            "radial-gradient(circle at 20% 30%, rgba(245,184,20,0.25), transparent 35%), radial-gradient(circle at 80% 70%, rgba(47,145,149,0.3), transparent 40%), linear-gradient(180deg, transparent 55%, rgba(32,76,80,0.55) 100%)",
-        }}
-        aria-hidden
-      />
-      <div
-        className="absolute inset-0 opacity-[0.12]"
-        style={{
-          backgroundImage:
-            "url(\"data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.35'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")",
+          background:
+            "linear-gradient(180deg, rgba(32,76,80,0.35) 0%, rgba(32,76,80,0.15) 40%, rgba(32,76,80,0.72) 100%)",
         }}
         aria-hidden
       />
@@ -51,7 +49,7 @@ export function HomeHero() {
           className="mt-5 max-w-xl text-base leading-relaxed text-pierre-100 md:text-lg"
         >
           Acquisition d’un domaine à Gréoux-les-Bains pour une exploitation en
-          meublé de tourisme — business plan, étude de marché et graphiques.
+          meublé de tourisme — business plan et étude de marché illustrée.
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 16 }}
@@ -66,10 +64,10 @@ export function HomeHero() {
             Lire le business plan
           </Link>
           <Link
-            href="/graphiques"
+            href="/etude-marche"
             className="border border-pierre-100/50 px-5 py-3 text-sm font-medium text-pierre-50 transition hover:bg-white/10"
           >
-            Voir les graphiques
+            Étude de marché
           </Link>
           <Link
             href="/telechargements"

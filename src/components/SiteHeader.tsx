@@ -8,7 +8,6 @@ const links = [
   { href: "/", label: "Accueil" },
   { href: "/business-plan", label: "Business plan" },
   { href: "/etude-marche", label: "Étude de marché" },
-  { href: "/graphiques", label: "Graphiques" },
   { href: "/telechargements", label: "PDF" },
 ];
 

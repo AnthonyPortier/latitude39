@@ -1,7 +1,7 @@
 # SCI Latitude 39 — dossier banque (site vitrine)
 
 Site Next.js présentant le dossier banque **SCI Latitude 39 / Domaine Gréoux** :
-business plan, étude de marché, graphiques et PDF.
+business plan, étude de marché (graphiques ancrés dans le texte) et PDF.
 
 ## Prérequis
 
@@ -30,21 +30,21 @@ Les markdown sources sont dans `content/` (copie intégrale, non raccourcie) :
 
 - `business-plan-banque.md`
 - `etude-marche-greoux.md`
-- `etude-marche-graphiques.md`
+- `etude-marche-graphiques.md` (annexe tableaux sur la page étude)
 
-PDF téléchargeables : `public/pdfs/SCI-Latitude39-*.pdf`
+Photos domaine : `public/photos/` (Drive « La maison » + site lemasdesrelarguiers.com)
 
-Checksums : `content/SHA256SUMS.txt`
+PDF : `public/pdfs/SCI-Latitude39-*.pdf`
 
 ## Pages
 
 | Route | Contenu |
 | ----- | ------- |
-| `/` | Accueil synthétique |
+| `/` | Accueil + photos domaine / ambiance |
 | `/business-plan` | Business plan complet |
-| `/etude-marche` | Étude de marché complète |
-| `/graphiques` | Visualisations + tableaux sources |
+| `/etude-marche` | Étude complète + graphiques inline |
 | `/telechargements` | PDF |
+| `/graphiques` | Redirige vers `/etude-marche` |
 
 ## Stack
 

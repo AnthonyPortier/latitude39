@@ -52,8 +52,7 @@ export default function TelechargementsPage() {
       </h1>
       <p className="mt-3 text-pierre-700">
         Dernière version du <span translate="no">Business plan</span> et études
-        de marché. Sur le site, les mêmes documents sont aussi consultables en
-        entier.
+        de marché.
       </p>
 
       <ul className="mt-10 divide-y divide-[var(--line)] border-y border-[var(--line)]">

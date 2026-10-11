@@ -13,9 +13,6 @@ export default function EtudeMarchePage() {
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-12 md:px-6 md:py-16">
-      <p className="mb-6 text-sm uppercase tracking-[0.14em] text-olivier-700">
-        Document complet · graphiques placés dans le texte
-      </p>
       <EtudeMarcheBody content={content} annex={annex} />
     </div>
   );

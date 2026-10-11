@@ -31,13 +31,13 @@ const sections = [
     href: "/business-plan",
     title: "Business plan",
     noTranslate: true,
-    text: "Contenu intégral du dossier banque : bien, organisation, scénarios A/B, calendrier.",
+    text: "Bien, organisation, scénarios A/B, calendrier.",
   },
   {
     href: "/etude-marche",
     title: "Étude de marché",
     noTranslate: false,
-    text: "Texte complet, avec les graphiques placés dans le texte (saisonnalité, AirDNA, Vinon, 133 k€).",
+    text: "Saisonnalité, AirDNA, Vinon, scénario 133 k€.",
   },
   {
     href: "/telechargements",
@@ -131,10 +131,6 @@ export default function HomePage() {
             <h2 className="font-display text-[clamp(2rem,4vw,3.25rem)] leading-tight text-verdon-900">
               Documents du dossier
             </h2>
-            <p className="mt-4 max-w-2xl text-lg leading-relaxed text-pierre-700">
-              Les documents sont présentés en entier. Dans l’étude de marché,
-              les graphiques apparaissent au fil du texte, au bon endroit.
-            </p>
           </Reveal>
 
           <div className="mt-12 divide-y divide-[var(--line)] border-y border-[var(--line)]">

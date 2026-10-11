@@ -12,12 +12,6 @@ export default function BusinessPlanPage() {
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-12 md:px-6 md:py-16">
-      <p
-        className="mb-6 text-sm uppercase tracking-[0.14em] text-olivier-700"
-        translate="no"
-      >
-        Document complet · Business plan
-      </p>
       <MarkdownDoc content={content} />
     </div>
   );

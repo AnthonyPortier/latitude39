@@ -1,6 +1,6 @@
 import { redirect } from "next/navigation";
 
-/** Les graphiques sont désormais dans le texte de l’étude de marché. */
+/** Redirect vers /etude-marche. */
 export default function GraphiquesRedirectPage() {
   redirect("/etude-marche");
 }

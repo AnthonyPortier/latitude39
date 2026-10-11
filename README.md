@@ -20,7 +20,7 @@ npm run build && npm run start
 
 ## Contenu
 
-- `content/` — documents sources (texte intégral)
+- `content/` — documents sources
 - `public/photos/` — photos domaine
 - `public/pdfs/` — Business plan (dernière version) + études
 
@@ -30,7 +30,7 @@ npm run build && npm run start
 | ----- | ------- |
 | `/` | Accueil + photos |
 | `/business-plan` | Business plan |
-| `/etude-marche` | Étude avec graphiques dans le texte |
+| `/etude-marche` | Étude de marché |
 | `/telechargements` | PDF |
 
 ## Stack

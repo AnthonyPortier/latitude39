@@ -155,6 +155,21 @@ body {
   border-radius: 4px;
 }
 
+.prose-dossier .prose-photo {
+  display: block;
+  margin: 1.25rem 0;
+  overflow: hidden;
+  background: rgba(32, 76, 80, 0.04);
+}
+
+.prose-dossier .prose-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: min(52svh, 28rem);
+  object-fit: cover;
+}
+
 .chart-panel {
   background: linear-gradient(
     180deg,

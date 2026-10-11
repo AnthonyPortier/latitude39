@@ -21,8 +21,9 @@ npm run build && npm run start
 ## Contenu
 
 - `content/` — documents sources
-- `public/photos/` — photos domaine
-- `public/pdfs/` — Business plan (dernière version) + études
+- `public/photos/` — photos domaine (accueil)
+- `public/appartements/` — photos fiche appartements
+- `public/pdfs/` — Business plan, études, fiche appartements
 
 ## Pages
 
@@ -31,6 +32,7 @@ npm run build && npm run start
 | `/` | Accueil + photos |
 | `/business-plan` | Business plan |
 | `/etude-marche` | Étude de marché |
+| `/appartements` | Fiche appartements |
 | `/telechargements` | PDF |
 
 ## Stack

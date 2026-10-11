@@ -40,10 +40,16 @@ const sections = [
     text: "Saisonnalité, AirDNA, Vinon, scénario 133 k€.",
   },
   {
+    href: "/appartements",
+    title: "Fiche appartements",
+    noTranslate: false,
+    text: "7 logements — 5 T2 et 2 T3, photos et équipements.",
+  },
+  {
     href: "/telechargements",
     title: "Téléchargements PDF",
     noTranslate: false,
-    text: "Versions PDF du Business plan et de l’étude de marché.",
+    text: "Business plan, études et fiche appartements.",
   },
 ];
 

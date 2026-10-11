@@ -6,7 +6,8 @@ const contentDir = path.join(process.cwd(), "content");
 export type DocSlug =
   | "business-plan-banque"
   | "etude-marche-greoux"
-  | "etude-marche-graphiques";
+  | "etude-marche-graphiques"
+  | "presentation-appartements";
 
 export const DOC_META: Record<
   DocSlug,
@@ -28,6 +29,12 @@ export const DOC_META: Record<
     title: "Données & graphiques",
     nav: "Graphiques",
     description: "Tableaux sourcés prêts à visualiser (PriceLabs, AirDNA, Insee).",
+  },
+  "presentation-appartements": {
+    title: "Fiche appartements",
+    nav: "Appartements",
+    description:
+      "Présentation des 7 logements du domaine Gréoux — 5 T2 et 2 T3, photos et équipements.",
   },
 };
 

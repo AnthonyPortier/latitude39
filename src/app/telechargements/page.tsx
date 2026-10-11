@@ -11,13 +11,15 @@ const LABELS: Record<string, string> = {
   "SCI-Latitude39-business-plan-banque.pdf": "Business plan",
   "SCI-Latitude39-etude-marche-greoux.pdf": "Étude de marché Gréoux",
   "SCI-Latitude39-etude-marche-graphiques.pdf": "Étude — données / graphiques",
+  "SCI-Latitude39-presentation-appartements.pdf": "Fiche appartements",
 };
 
-/** Ordre d’affichage : BP puis études */
+/** Ordre d’affichage : BP, études, appartements */
 const ORDER = [
   "SCI-Latitude39-business-plan-banque.pdf",
   "SCI-Latitude39-etude-marche-greoux.pdf",
   "SCI-Latitude39-etude-marche-graphiques.pdf",
+  "SCI-Latitude39-presentation-appartements.pdf",
 ];
 
 function formatBytes(bytes: number) {
@@ -51,8 +53,8 @@ export default function TelechargementsPage() {
         Téléchargements PDF
       </h1>
       <p className="mt-3 text-pierre-700">
-        Dernière version du <span translate="no">Business plan</span> et études
-        de marché.
+        Dernière version du <span translate="no">Business plan</span>, études
+        de marché et fiche appartements.
       </p>
 
       <ul className="mt-10 divide-y divide-[var(--line)] border-y border-[var(--line)]">

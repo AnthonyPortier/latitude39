@@ -8,6 +8,7 @@ const links = [
   { href: "/", label: "Accueil", noTranslate: false },
   { href: "/business-plan", label: "Business plan", noTranslate: true },
   { href: "/etude-marche", label: "Étude de marché", noTranslate: false },
+  { href: "/appartements", label: "Appartements", noTranslate: false },
   { href: "/telechargements", label: "PDF", noTranslate: false },
 ];
 

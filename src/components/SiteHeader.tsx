@@ -5,10 +5,10 @@ import { usePathname } from "next/navigation";
 import { useState } from "react";
 
 const links = [
-  { href: "/", label: "Accueil" },
-  { href: "/business-plan", label: "Business plan" },
-  { href: "/etude-marche", label: "Étude de marché" },
-  { href: "/telechargements", label: "PDF" },
+  { href: "/", label: "Accueil", noTranslate: false },
+  { href: "/business-plan", label: "Business plan", noTranslate: true },
+  { href: "/etude-marche", label: "Étude de marché", noTranslate: false },
+  { href: "/telechargements", label: "PDF", noTranslate: false },
 ];
 
 export function SiteHeader() {
@@ -58,6 +58,7 @@ export function SiteHeader() {
                     ? "bg-verdon-800 text-pierre-50"
                     : "text-pierre-800 hover:bg-verdon-100 hover:text-verdon-900"
                 }`}
+                {...(link.noTranslate ? { translate: "no" as const } : {})}
               >
                 {link.label}
               </Link>

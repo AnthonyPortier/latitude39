@@ -16,7 +16,7 @@ export const DOC_META: Record<
     title: "Business plan — dossier banque",
     nav: "Business plan",
     description:
-      "Dossier de financement SCI Latitude 39 — acquisition Domaine Gréoux.",
+      "Business plan et dossier de financement SCI Latitude 39 — acquisition Domaine Gréoux.",
   },
   "etude-marche-greoux": {
     title: "Étude de marché — Gréoux",

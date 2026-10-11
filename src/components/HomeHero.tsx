@@ -60,7 +60,8 @@ export function HomeHero() {
             className="mt-4 max-w-md text-base leading-relaxed text-white/85 md:text-lg"
           >
             Un mas à Gréoux-les-Bains pour une exploitation en meublé de
-            tourisme — business plan et étude de marché.
+            tourisme — <span translate="no">Business plan</span> et étude de
+            marché.
           </motion.p>
 
           <motion.div
@@ -72,8 +73,9 @@ export function HomeHero() {
             <Link
               href="/business-plan"
               className="bg-[#d4a017] px-5 py-3 text-sm font-semibold text-[#1c2422] transition hover:bg-[#e0b020]"
+              translate="no"
             >
-              Lire le business plan
+              Lire le Business plan
             </Link>
             <Link
               href="/etude-marche"

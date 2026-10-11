@@ -12,7 +12,11 @@ export function SiteFooter() {
           </p>
         </div>
         <div className="flex flex-wrap gap-4 text-sm">
-          <Link href="/business-plan" className="hover:text-soleil-300">
+          <Link
+            href="/business-plan"
+            className="hover:text-soleil-300"
+            translate="no"
+          >
             Business plan
           </Link>
           <Link href="/etude-marche" className="hover:text-soleil-300">

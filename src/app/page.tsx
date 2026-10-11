@@ -30,17 +30,20 @@ const sections = [
   {
     href: "/business-plan",
     title: "Business plan",
+    noTranslate: true,
     text: "Contenu intégral du dossier banque : bien, organisation, scénarios A/B, calendrier.",
   },
   {
     href: "/etude-marche",
     title: "Étude de marché",
+    noTranslate: false,
     text: "Texte complet avec graphiques ancrés (saisonnalité, AirDNA, Vinon, 133 k€).",
   },
   {
     href: "/telechargements",
     title: "Téléchargements PDF",
-    text: "Versions PDF du business plan et de l’étude de marché.",
+    noTranslate: false,
+    text: "Versions PDF du Business plan et de l’étude de marché.",
   },
 ];
 
@@ -74,8 +77,9 @@ export default function HomePage() {
             Synthèse du dossier
           </h2>
           <p className="mt-4 max-w-2xl text-lg leading-relaxed text-pierre-700">
-            Chiffres clés issus du business plan — pour la lecture complète,
-            ouvrir les pages documents.
+            Chiffres clés issus du{" "}
+            <span translate="no">Business plan</span> — pour la lecture
+            complète, ouvrir les pages documents.
           </p>
         </Reveal>
 
@@ -146,6 +150,7 @@ export default function HomePage() {
                 <Link
                   href={section.href}
                   className="group flex flex-col gap-2 py-7 transition md:flex-row md:items-baseline md:justify-between md:gap-10"
+                  {...(section.noTranslate ? { translate: "no" as const } : {})}
                 >
                   <span className="font-display text-2xl text-verdon-900 transition group-hover:text-olivier-700 md:text-3xl">
                     {section.title}

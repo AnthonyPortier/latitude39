@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 };
 
 const LABELS: Record<string, string> = {
-  "SCI-Latitude39-business-plan-banque.pdf": "Business plan banque",
+  "SCI-Latitude39-business-plan-banque.pdf": "Business plan — banque",
   "SCI-Latitude39-etude-marche-greoux.pdf": "Étude de marché Gréoux",
   "SCI-Latitude39-etude-marche-graphiques.pdf": "Étude — données / graphiques",
   "SCI-Latitude39-dossier-banque-V2.pdf": "Dossier banque V2 (compilé)",
@@ -43,8 +43,9 @@ export default function TelechargementsPage() {
         Téléchargements PDF
       </h1>
       <p className="mt-3 text-pierre-700">
-        Versions PDF du business plan et de l’étude de marché. Les pages du
-        site affichent aussi le markdown source intégral.
+        Versions PDF du <span translate="no">Business plan</span> et de
+        l’étude de marché. Les pages du site affichent aussi le markdown source
+        intégral.
       </p>
 
       <ul className="mt-10 divide-y divide-[var(--line)] border-y border-[var(--line)]">
@@ -56,7 +57,12 @@ export default function TelechargementsPage() {
               className="flex flex-col gap-1 py-5 transition hover:bg-white/40 sm:flex-row sm:items-center sm:justify-between"
             >
               <span>
-                <span className="block font-display text-xl text-verdon-900">
+                <span
+                  className="block font-display text-xl text-verdon-900"
+                  {...(file.name.includes("business-plan")
+                    ? { translate: "no" as const }
+                    : {})}
+                >
                   {file.label}
                 </span>
                 <span className="mt-1 block text-sm text-pierre-500">

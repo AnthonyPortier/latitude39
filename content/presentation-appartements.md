@@ -4,7 +4,7 @@
 **Parc cible :** **7 logements** (lots 1 à 7) — **5 T2** déjà commercialisés chez la vendeuse, et **2 T3** issus de la division de la maison principale  
 **Documents liés :** [Business plan](/business-plan) · [Étude de marché](/etude-marche)
 
-Ce document présente chaque lot avec photos et éléments utiles pour le dossier bancaire. Les photographies des cinq T2 proviennent du site actuel de la vendeuse ([lemasdesrelarguiers.com](https://www.lemasdesrelarguiers.com/)). Les photos de la maison (lots 6 et 7) illustrent l’état actuel du bâtiment destiné à la division ; le dossier Google Drive dédié n’a pas pu être téléchargé dans cette session (compte Google non connecté sur la machine) — les images retenues ici sont celles du site vendeuse montrant la maison et ses abords.
+Ce document présente chaque lot avec photos et éléments utiles pour le dossier bancaire.
 
 ---
 
@@ -56,8 +56,6 @@ Petit chalet indépendant, clairement séparé des autres logements. Il comprend
 
 ![Lot 1 — Salle d’eau](/appartements/lot1-chalet-08.jpg)
 
-*Photos téléchargées pour ce lot : 15 fichiers (`lot1-chalet-*.jpg`).*
-
 ---
 
 ### Lot 2 — Soleil d’Est (T2, 22 m²)
@@ -77,8 +75,6 @@ Appartement compact au rez-de-chaussée : cuisine et chambre donnant directement
 ![Lot 2 — Vue intérieure / séjour](/appartements/lot2-soleil-est-04.jpg)
 
 ![Lot 2 — Chambre](/appartements/lot2-soleil-est-08.jpg)
-
-*Photos téléchargées pour ce lot : 13 fichiers (`lot2-soleil-est-*.jpg`).*
 
 ---
 
@@ -100,8 +96,6 @@ Appartement au rez-de-chaussée avec cuisine et chambre ouvrant sur une petite t
 
 ![Lot 3 — Abords côté jardin](/appartements/lot3-soleil-ouest-08.jpg)
 
-*Photos téléchargées pour ce lot : 12 fichiers (`lot3-soleil-ouest-*.jpg`).*
-
 ---
 
 ### Lot 4 — Soleil du Sud (T2, 37 m²)
@@ -121,8 +115,6 @@ Appartement au premier étage avec cuisine et chambre ouvrant sur une grande ter
 ![Lot 4 — Coin repas extérieur](/appartements/lot4-soleil-sud-03.jpg)
 
 ![Lot 4 — Intérieur / séjour](/appartements/lot4-soleil-sud-09.jpg)
-
-*Photos téléchargées pour ce lot : 14 fichiers (`lot4-soleil-sud-*.jpg`).*
 
 ---
 
@@ -144,8 +136,6 @@ Appartement plus récent dans le parc vendeur : chambre d’environ 13 m², sall
 
 ![Lot 5 — Chambre ouvrant sur l’extérieur](/appartements/lot5-gryselien-05.jpg)
 
-*Photos téléchargées pour ce lot : 11 fichiers (`lot5-gryselien-*.jpg`).*
-
 ---
 
 ## Lots 6 et 7 — Deux T3 issus de la division de la maison
@@ -156,7 +146,7 @@ La **maison principale** du domaine sera **divisée en deux appartements de type
 
 Cette opération porte le parc de **5 logements** aujourd’hui exploités par la vendeuse à **7 lots** côté SCI. Les surfaces exactes après division ne sont pas encore figées ; le prévisionnel retient environ **21 600 €** de chiffre d’affaires annuel par T3 (hypothèse business plan), avec le même principe tarifaire de base (2 couchages inclus, puis +5 € par nuit et par couchage supplémentaire).
 
-Les photographies ci-dessous montrent **l’état actuel de la maison et de ses abords** (façades, terrasses, jardin, pièces de vie). Elles servent de support visuel au projet de division. *Les photos du dossier Google Drive dédié à la maison n’ont pas pu être récupérées dans cette session (authentification Google absente sur la machine de travail) ; elles pourront remplacer ou compléter ce jeu dès que le compte sera reconnecté.*
+Les photographies ci-dessous montrent **l’état actuel de la maison et de ses abords** (façades, terrasses, jardin, pièces de vie). Elles servent de support visuel au projet de division.
 
 ![Maison — Façade et terrasse](/appartements/maison-01-facade.jpg)
 
@@ -181,36 +171,6 @@ Second appartement issu de la même division. Même logique commerciale et tarif
 ![Maison — Pièce de vie ouvrant sur la terrasse](/appartements/maison-07-interieur-terrasse.jpg)
 
 ![Maison — Salle à manger / séjour actuel](/appartements/maison-08-salle-a-manger.jpg)
-
-*Photos illustrant la maison (lots 6–7) : 8 fichiers (`maison-*.jpg`), issus du site vendeuse en attendant le Drive.*
-
----
-
-## Annexes photos
-
-### Galerie domaine (site vendeuse)
-
-Complément d’ambiance : piscine, jardins, vues et abords du mas — utile pour le site vitrine et les supports banque.
-
-*Fichiers : 22 photos `domaine-*.jpg` (+ 7 `accueil-*.jpg`).*
-
-### Inventaire local des images
-
-Dossier photos : `/appartements/` (images affichées dans ce document)
-
-
-| Préfixe | Lots | Nombre de fichiers |
-| ------- | ---- | -----------------: |
-| `lot1-chalet-` | Lot 1 | 15 |
-| `lot2-soleil-est-` | Lot 2 | 13 |
-| `lot3-soleil-ouest-` | Lot 3 | 12 |
-| `lot4-soleil-sud-` | Lot 4 | 14 |
-| `lot5-gryselien-` | Lot 5 | 11 |
-| `maison-` | Lots 6–7 | 8 |
-| `domaine-` / `accueil-` | Commun | 22 + 7 |
-
-
-**Sources :** [lemasdesrelarguiers.com](https://www.lemasdesrelarguiers.com/) (T2 + illustrations maison) · dossier Drive maison (à synchroniser) : [folder Drive](https://drive.google.com/drive/u/4/folders/1bTzjxS2ap5Y5FhpM5GGEW1XWTEonGjIp)
 
 ---
 

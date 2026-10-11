@@ -2,7 +2,8 @@
 
 Site vitrine du dossier banque **SCI Latitude 39 / Domaine Gréoux**.
 
-**Repo :** https://github.com/AnthonyPortier/latitude39
+**Repo :** https://github.com/AnthonyPortier/latitude39  
+**Site :** https://latitude39-wheat.vercel.app
 
 ## Lancer en local
 

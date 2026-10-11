@@ -8,13 +8,17 @@ export const metadata: Metadata = {
 };
 
 const LABELS: Record<string, string> = {
-  "SCI-Latitude39-business-plan-banque.pdf": "Business plan — banque",
+  "SCI-Latitude39-business-plan-banque.pdf": "Business plan",
   "SCI-Latitude39-etude-marche-greoux.pdf": "Étude de marché Gréoux",
   "SCI-Latitude39-etude-marche-graphiques.pdf": "Étude — données / graphiques",
-  "SCI-Latitude39-dossier-banque-V2.pdf": "Dossier banque V2 (compilé)",
-  "SCI-Latitude39-dossier-banque-V1.pdf": "Dossier banque V1",
-  "SCI-Latitude39-dossier-banque.pdf": "Dossier banque (version initiale)",
 };
+
+/** Ordre d’affichage : BP puis études */
+const ORDER = [
+  "SCI-Latitude39-business-plan-banque.pdf",
+  "SCI-Latitude39-etude-marche-greoux.pdf",
+  "SCI-Latitude39-etude-marche-graphiques.pdf",
+];
 
 function formatBytes(bytes: number) {
   if (bytes < 1024 * 1024) return `${Math.round(bytes / 1024)} Ko`;
@@ -25,17 +29,21 @@ export default function TelechargementsPage() {
   const dir = path.join(process.cwd(), "public", "pdfs");
   const files = fs
     .readdirSync(dir)
-    .filter((name) => name.endsWith(".pdf"))
+    .filter((name) => name.endsWith(".pdf") && LABELS[name])
     .map((name) => {
       const stats = fs.statSync(path.join(dir, name));
       return {
         name,
         size: stats.size,
-        label: LABELS[name] || name,
+        label: LABELS[name],
         href: `/pdfs/${name}`,
       };
     })
-    .sort((a, b) => a.label.localeCompare(b.label, "fr"));
+    .sort(
+      (a, b) =>
+        ORDER.indexOf(a.name) - ORDER.indexOf(b.name) ||
+        a.label.localeCompare(b.label, "fr"),
+    );
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-12 md:px-6 md:py-16">
@@ -43,8 +51,8 @@ export default function TelechargementsPage() {
         Téléchargements PDF
       </h1>
       <p className="mt-3 text-pierre-700">
-        Versions PDF du <span translate="no">Business plan</span> et de
-        l’étude de marché. Les pages du site affichent aussi le markdown source
+        Dernière version du <span translate="no">Business plan</span> et études
+        de marché. Les pages du site affichent aussi le markdown source
         intégral.
       </p>
 

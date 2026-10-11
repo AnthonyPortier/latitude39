@@ -1,12 +1,8 @@
-# SCI Latitude 39 — dossier banque (site vitrine)
+# SCI Latitude 39 — dossier banque
 
-Site Next.js présentant le dossier banque **SCI Latitude 39 / Domaine Gréoux** :
-business plan, étude de marché (graphiques ancrés dans le texte) et PDF.
+Site vitrine du dossier banque **SCI Latitude 39 / Domaine Gréoux**.
 
-## Prérequis
-
-- Node.js 20+
-- npm
+**Repo :** https://github.com/AnthonyPortier/latitude39
 
 ## Lancer en local
 
@@ -15,37 +11,27 @@ npm install
 npm run dev
 ```
 
-Le serveur écoute sur **http://0.0.0.0:43125** (accessible aussi via `http://127.0.0.1:43125`).
-
-Production :
+Serveur : **http://127.0.0.1:43125** (`0.0.0.0:43125`).
 
 ```bash
-npm run build
-npm run start
+npm run build && npm run start
 ```
 
 ## Contenu
 
-Les markdown sources sont dans `content/` (copie intégrale, non raccourcie) :
-
-- `business-plan-banque.md`
-- `etude-marche-greoux.md`
-- `etude-marche-graphiques.md` (annexe tableaux sur la page étude)
-
-Photos domaine : `public/photos/` (Drive « La maison » + site lemasdesrelarguiers.com)
-
-PDF : `public/pdfs/SCI-Latitude39-*.pdf`
+- `content/` — markdown source (intégral)
+- `public/photos/` — photos domaine
+- `public/pdfs/` — Business plan (dernière version) + études
 
 ## Pages
 
 | Route | Contenu |
 | ----- | ------- |
-| `/` | Accueil + photos domaine / ambiance |
-| `/business-plan` | Business plan complet |
-| `/etude-marche` | Étude complète + graphiques inline |
+| `/` | Accueil + photos |
+| `/business-plan` | Business plan |
+| `/etude-marche` | Étude + graphiques inline |
 | `/telechargements` | PDF |
-| `/graphiques` | Redirige vers `/etude-marche` |
 
 ## Stack
 
-Next.js · TypeScript · Tailwind CSS · Recharts · Framer Motion · react-markdown
+Next.js · TypeScript · Tailwind · Recharts · Framer Motion

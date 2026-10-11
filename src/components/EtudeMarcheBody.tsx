@@ -78,7 +78,7 @@ export function EtudeMarcheBody({ content, annex }: EtudeMarcheBodyProps) {
       {annex ? (
         <section className="mt-16 max-w-3xl border-t border-[var(--line)] pt-12">
           <p className="mb-6 text-sm uppercase tracking-[0.14em] text-olivier-700">
-            Annexe — tableaux sources · etude-marche-graphiques.md
+            Annexe — tableaux et données sources
           </p>
           <MarkdownDoc content={annex} />
         </section>

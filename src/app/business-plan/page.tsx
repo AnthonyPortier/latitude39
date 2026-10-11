@@ -16,7 +16,7 @@ export default function BusinessPlanPage() {
         className="mb-6 text-sm uppercase tracking-[0.14em] text-olivier-700"
         translate="no"
       >
-        Contenu intégral · Business plan · business-plan-banque.md
+        Document complet · Business plan
       </p>
       <MarkdownDoc content={content} />
     </div>

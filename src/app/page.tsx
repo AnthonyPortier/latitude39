@@ -37,7 +37,7 @@ const sections = [
     href: "/etude-marche",
     title: "Étude de marché",
     noTranslate: false,
-    text: "Texte complet avec graphiques ancrés (saisonnalité, AirDNA, Vinon, 133 k€).",
+    text: "Texte complet, avec les graphiques placés dans le texte (saisonnalité, AirDNA, Vinon, 133 k€).",
   },
   {
     href: "/telechargements",
@@ -132,8 +132,8 @@ export default function HomePage() {
               Documents du dossier
             </h2>
             <p className="mt-4 max-w-2xl text-lg leading-relaxed text-pierre-700">
-              Markdown source en intégralité. Les graphiques sont ancrés dans
-              l’étude de marché.
+              Les documents sont présentés en entier. Dans l’étude de marché,
+              les graphiques apparaissent au fil du texte, au bon endroit.
             </p>
           </Reveal>
 

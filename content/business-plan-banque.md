@@ -28,8 +28,8 @@ Le compromis a été signé le **9 octobre 2026** ; l’acte authentique est pr�
 
 | Taux   | Mensualité indic. | Charge annuelle |
 | ------ | ----------------- | --------------- |
-| 3,60 % | ~3 800 €          | ~45 600 €       |
-| 4,00 % | ~3 940 €          | ~47 300 €       |
+| 3,60 % | ≈ 3 800 €          | ≈ 45 600 €       |
+| 4,00 % | ≈ 3 940 €          | ≈ 47 300 €       |
 
 
 Nous demandons un emprunt de **650 000 €** afin de financer l’intégralité du prix d’achat et des travaux. Les apports des associés, soit **60 000 €**, serviront exclusivement à régler les frais de notaire. Les banques sollicitent souvent un apport de l’ordre de **10 %** du prix d’acquisition.
@@ -93,7 +93,7 @@ Le chiffre d’affaires loyers ci-dessous est issu des listes de réservations e
 - **Cinq** logements seulement étaient exploités (et non encore les 7 visés).  
 - Les dépenses cash de 2025 s’élèvent à 32 511 €, dont environ **13 k€** de **travaux ponctuels** (terrasse).  
 - Hors ces travaux, les charges courantes tournent autour de **18 k€**.  
-- La taxe foncière s’établit entre **~4 732 et 4 767 €** (montant à confirmer sur l’avis d’imposition).
+- La taxe foncière s’établit entre **≈ 4 732 et 4 767 €** (montant à confirmer sur l’avis d’imposition).
 
 **Réservations déjà prises pour 2027 (reprise d’activité) :**  
 **25 891 €** de loyers sont d’ores et déjà bookés (de mars à octobre 2027, principalement sur 4 unités), dont **8 220 €** d’arrhes déjà versées.  
@@ -118,7 +118,7 @@ Dans **A, A.1 et A.2**, le parc est **5 T2 + 2 T3**, capacité **4 / 6**, multi-
 | ---- | ------- | -------------: | ----: | ----------------: | ------- |
 | **A** | Méthode Anthony (12 mois, 1 nuit, prix dynamiques) | **133 000 €** | 20 % | **+38 140 €** | Saisonnier **rentable** — meilleur cas |
 | **A.1** | Moyennes AirDNA (65 € × 65 % × 365 × 7) | **107 948,75 €** | 20 % | **+18 499 €** | Saisonnier **rentable** |
-| **A.2** | Méthode vendeuse (~10 mois, min. 1 semaine, tarifs historiques) sur **7 lots** | **72 866,32 €** | 20 % | **−9 566,94 €** | **Non rentable** → bascule vers **B** |
+| **A.2** | Méthode vendeuse (≈ 10 mois, min. 1 semaine, tarifs historiques) sur **7 lots** | **72 866,32 €** | 20 % | **−9 566,94 €** | **Non rentable** → bascule vers **B** |
 | **B** | Meublé à l’année | **59 280 €** | 0 % | **+4 680 / +2 980 €** | **Filet rentable** (si pas A / A.1) |
 
 **Conclusion banque :** si l’on exploite le projet **comme la vendeuse**, on **n’est pas rentable** ; dans ce cas, **mieux vaut le scénario B**.
@@ -151,7 +151,7 @@ Dans **A, A.1 et A.2**, le parc est **5 T2 + 2 T3**, capacité **4 / 6**, multi-
 
 Exemples : un T2 occupé par 4 personnes entraîne un supplément de **+10 € / nuit** (2 couchages × 5 €) ; un T3 occupé par 6 personnes, un supplément de **+20 € / nuit** (4 couchages × 5 €).
 
-*Le chiffre d’affaires cible de **133 000 €** ci-dessous reste fondé sur les hypothèses déjà retenues (~18 000 € / an par T2 et ~21 600 € / an par T3 — référence Vinon, avec majoration pour les T3). Il ne modélise pas encore le remplissage systématique des couchages additionnels ; les suppléments de **+5 €** et un standing / remplissage supérieur peuvent porter le CA **au-delà de 133 000 €**. Ce surcroît n’est **pas chiffré** dans le prévisionnel central (ni dans A.1 / A.2 / B).*
+*Le chiffre d’affaires cible de **133 000 €** ci-dessous reste fondé sur les hypothèses déjà retenues (≈ 18 000 € / an par T2 et ≈ 21 600 € / an par T3 — référence Vinon, avec majoration pour les T3). Il ne modélise pas encore le remplissage systématique des couchages additionnels ; les suppléments de **+5 €** et un standing / remplissage supérieur peuvent porter le CA **au-delà de 133 000 €**. Ce surcroît n’est **pas chiffré** dans le prévisionnel central (ni dans A.1 / A.2 / B).*
 
 ### Distribution : site propre et plateformes
 
@@ -167,7 +167,7 @@ Le taux de passage par le site n’est pas encore garanti ; l’objectif est de 
 | Poste                                   | Montant         |
 | --------------------------------------- | --------------- |
 | CA brut saisonnier                      | **133 000 €**   |
-| Commissions plateformes (~20 %)         | −27 000 €       |
+| Commissions plateformes (≈ 20 %)         | −27 000 €       |
 | CA après commissions                    | **106 000 €**   |
 | Charges courantes (détail ci-dessous)   | −21 360 €       |
 | Annuité emprunt 20 ans (milieu 3,6–4 %) | −46 500 €       |
@@ -182,11 +182,11 @@ Cette estimation s’appuie sur les charges réelles de la vendeuse, recalée su
 
 | Charge                                      | Montant / an | Commentaire                                                                                                                                                                               |
 | ------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Taxe foncière                               | 4 750 €      | Impôt annuel sur la propriété du bien. Montant repris de la vendeuse (~4 732–4 767 €), **à confirmer** avec l’avis d’imposition.                                                          |
+| Taxe foncière                               | 4 750 €      | Impôt annuel sur la propriété du bien. Montant repris de la vendeuse (≈ 4 732–4 767 €), **à confirmer** avec l’avis d’imposition.                                                          |
 | CFE (Cotisation Foncière des Entreprises)   | 1 650 €      | Taxe locale liée à l’**activité** de location, et non au bâti. Chiffre issu du LMNP vendeur ; la SCI à l’IS aura sa propre CFE, donc **à recalculer** avec le comptable.                  |
 | Assurances (immeuble / PNO)                 | 600 €        | Assurance du bâtiment et responsabilité du propriétaire non occupant. Couverture indispensable même sans présence permanente sur place.                                                   |
-| Électricité (EDF)                           | 5 000 €      | Consommation des parties communes et des logements en saisonnier (l’hôte paie souvent l’électricité incluse). Rehaussé par rapport à la vendeuse (~3,7 k€) pour **7 lots** et **12 mois**. |
-| Fuel / chauffage                            | 4 000 €      | Chauffage du domaine et des logements. Même logique : année pleine et davantage de lots que chez la vendeuse (~3,2 k€).                                                                   |
+| Électricité (EDF)                           | 5 000 €      | Consommation des parties communes et des logements en saisonnier (l’hôte paie souvent l’électricité incluse). Rehaussé par rapport à la vendeuse (≈ 3,7 k€) pour **7 lots** et **12 mois**. |
+| Fuel / chauffage                            | 4 000 €      | Chauffage du domaine et des logements. Même logique : année pleine et davantage de lots que chez la vendeuse (≈ 3,2 k€).                                                                   |
 | Eau (DLVA)                                  | 800 €        | Abonnement et consommation d’eau du site (réseau local DLVA). Légèrement au-dessus du niveau vendeur pour tenir compte des 7 lots.                                                         |
 | Site internet (hébergement)                 | 10 €         | Anthony (développeur) crée et maintient le site ainsi que l’outil de réservation ; seul l’hébergement reste à environ 10 € / an.                                                          |
 | Comptable                                   | 600 €        | Tenue de comptabilité et déclarations de la SCI (IS). Ordre de grandeur ; le devis réel dépendra du cabinet.                                                                              |
@@ -198,7 +198,7 @@ Cette estimation s’appuie sur les charges réelles de la vendeuse, recalée su
 | **Total charges courantes**                 | **21 360 €** | Somme des lignes ci-dessus (estimation de travail destinée à la banque).                                                                                                                  |
 
 
-*Selon la consommation réelle et le montant définitif de CFE de la SCI, les charges courantes devraient rester dans une fourchette d’environ **20 à 25 k€**. Avec un taux d’emprunt entre **3,6 % et 4 %** sur **650 000 €**, l’excédent avant IS se situe alors autour de **+33 000 à +40 000 €**. Le chiffre d’affaires cible s’appuie sur **~18 000 € / an par T2** (référence du T2 déjà exploité par Anthony Portier à Vinon-sur-Verdon ; PriceLabs Forecast 2026 ≈ **18 257 €**, occupation prévisionnelle **87 %**) et **~21 600 € / an par T3** (+20 %). La capacité affichée est de **4 couchages par T2** et **6 par T3**, avec un supplément de **+5 € / nuit / couchage** au-delà de 2 personnes (voir ci-dessus) — potentiel complémentaire non chiffré dans les 133 000 €.*
+*Selon la consommation réelle et le montant définitif de CFE de la SCI, les charges courantes devraient rester dans une fourchette d’environ **20 à 25 k€**. Avec un taux d’emprunt entre **3,6 % et 4 %** sur **650 000 €**, l’excédent avant IS se situe alors autour de **+33 000 à +40 000 €**. Le chiffre d’affaires cible s’appuie sur **≈ 18 000 € / an par T2** (référence du T2 déjà exploité par Anthony Portier à Vinon-sur-Verdon ; PriceLabs Forecast 2026 ≈ **18 257 €**, occupation prévisionnelle **87 %**) et **≈ 21 600 € / an par T3** (+20 %). La capacité affichée est de **4 couchages par T2** et **6 par T3**, avec un supplément de **+5 € / nuit / couchage** au-delà de 2 personnes (voir ci-dessus) — potentiel complémentaire non chiffré dans les 133 000 €.*
 
 ---
 
@@ -227,7 +227,7 @@ CA brut = 7 × (65 € × 65 % × 365) = 7 × 15 421,25 = 107 948,75 €
 
 ## 5.3 Scénario A.2 — Méthode vendeuse sur 7 lots (saisonnier **non rentable**)
 
-*A.2 reprend uniquement la méthode vendeuse : ouverture **~10 mois**, séjour minimum **une semaine**, tarifs **historiques**. Le parc loué reste **5 T2 + 2 T3** (pas le parc actuel à 5 lots), avec capacité 4 / 6, multi-appartements et commissions **20 %**.*
+*A.2 reprend uniquement la méthode vendeuse : ouverture **≈ 10 mois**, séjour minimum **une semaine**, tarifs **historiques**. Le parc loué reste **5 T2 + 2 T3** (pas le parc actuel à 5 lots), avec capacité 4 / 6, multi-appartements et commissions **20 %**.*
 
 **Formule :** CA A.2 (7 lots) = ancre **5 T2** (**49 234 €**, réalisé 2025) **+** CA des **2 T3** additionnels.
 
@@ -269,7 +269,7 @@ Seuil de solvabilité saisonnier (commissions 20 %) : CA brut ≥ **84 825 €**
 
 
 - **T2 :** l’avis MiezImmo donne des fourchettes hors charges par lot (par exemple un T2 de 25–37 m² : 600–730 €). Nous retenons **660 €** par T2, soit une moyenne prudente des milieux de fourchette.  
-- **T3 :** aucune surface figée post-division ne permet encore de différencier les deux lots ; **820 €** se situe au-dessus des annonces basses à Gréoux (~760 €), sous le bas de fourchette MiezImmo du T3/4 du domaine (850–950 €), et sous la moyenne statistique locale d’un T3 d’environ 65 m² (~856 € charges comprises).  
+- **T3 :** aucune surface figée post-division ne permet encore de différencier les deux lots ; **820 €** se situe au-dessus des annonces basses à Gréoux (≈ 760 €), sous le bas de fourchette MiezImmo du T3/4 du domaine (850–950 €), et sous la moyenne statistique locale d’un T3 d’environ 65 m² (≈ 856 € charges comprises).  
 - Le détail des sources marché pour les T3 figure dans la note interne du dossier projet.
 
 ### Adaptation des charges au mode « location meublée à l’année »
@@ -323,10 +323,10 @@ Dans ce scénario, nous retenons environ **9 000 € par an** pour ces charges. 
 
 ---
 
-## 7. Pistes d’amélioration — évolution du chiffre d’affaires (horizon ~5 ans)
+## 7. Pistes d’amélioration — évolution du chiffre d’affaires (horizon ≈ 5 ans)
 
-*Ces phases ultérieures ne sont **pas intégrées** aux prévisionnels du scénario A (**133 000 €**) ni du scénario B (**~59 280 €**).*  
-Après la mise en exploitation des **7 logements** initiaux, nous engagerons ces évolutions pour faire croître le chiffre d’affaires sur un horizon d’environ **5 ans**. Les montants des pistes 1 et 2 s’appuient sur les mêmes bases de chiffre d’affaires par logement que le dossier (A : **~18 000 € / an / T2**, **~21 600 € / an / T3** ; B : T2 **660 € / mois**, T3 **820 € / mois**). Les pistes 3 (conciergerie) et 4 (location de vélos électriques) enrichissent le chiffre d’affaires par des services annexes, sans modifier les CA de base.
+*Ces phases ultérieures ne sont **pas intégrées** aux prévisionnels du scénario A (**133 000 €**) ni du scénario B (**≈ 59 280 €**).*  
+Après la mise en exploitation des **7 logements** initiaux, nous engagerons ces évolutions pour faire croître le chiffre d’affaires sur un horizon d’environ **5 ans**. Les montants des pistes 1 et 2 s’appuient sur les mêmes bases de chiffre d’affaires par logement que le dossier (A : **≈ 18 000 € / an / T2**, **≈ 21 600 € / an / T3** ; B : T2 **660 € / mois**, T3 **820 € / mois**). Les pistes 3 (conciergerie) et 4 (location de vélos électriques) enrichissent le chiffre d’affaires par des services annexes, sans modifier les CA de base.
 
 ### Piste 1 — Division du grand 3 pièces (ex-salon) en deux T2
 
@@ -336,7 +336,7 @@ Après la mise en exploitation des **7 logements** initiaux, nous engagerons ces
 | Base      | L’un des T3 issus de la division de la maison (ex-salon / grand 3 pièces)                                                                     |
 | Évolution | Nouvelle division en **deux T2** distincts                                                                                                    |
 | Objectif  | Obtenir une **meilleure rentabilité** qu’avec un seul T3, grâce à davantage de logements commercialisables et à des loyers ou nuitées cumulés plus élevés |
-| Horizon   | Travaux de division dans les **~5 ans** suivant la mise en service du parc à 7 lots                                                           |
+| Horizon   | Travaux de division dans les **≈ 5 ans** suivant la mise en service du parc à 7 lots                                                           |
 
 
 **Chiffre d’affaires additionnel (par rapport à 1× T3 conservé)**
@@ -356,7 +356,7 @@ Après la mise en exploitation des **7 logements** initiaux, nous engagerons ces
 | Surfaces / accès | **Hall d’entrée de 9 m²**, accès par une **serre en verre** (atout différenciant) et accès à la **cave**                                     |
 | Projet           | **Studio** atypique : **balnéo dans la serre** et **salle cinéma dans la cave**                                                              |
 | Positionnement   | Offre « expérience » / haut de gamme saisonnier, distincte des T2 et T3 classiques                                                           |
-| Horizon          | Aménagement et mise en location dans les **~5 ans** ; l’investissement travaux sera chiffré en phase projet                                  |
+| Horizon          | Aménagement et mise en location dans les **≈ 5 ans** ; l’investissement travaux sera chiffré en phase projet                                  |
 
 
 **Chiffre d’affaires additionnel (logement neuf, hors parc des 7)**
@@ -364,13 +364,13 @@ Après la mise en exploitation des **7 logements** initiaux, nous engagerons ces
 
 | Scénario               | Hypothèse                                                                                                                                                                                             | **CA en plus / an** |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| **A** saisonnier       | Cible d’environ **24 000 € / an** — nuitée haut de gamme (balnéo + cinéma), un cran au-dessus d’un T2 classique (~18 k€), avec un remplissage cohérent avec la cible saisonnière du domaine           | **+≈ 24 000 €**     |
+| **A** saisonnier       | Cible d’environ **24 000 € / an** — nuitée haut de gamme (balnéo + cinéma), un cran au-dessus d’un T2 classique (≈ 18 k€), avec un remplissage cohérent avec la cible saisonnière du domaine           | **+≈ 24 000 €**     |
 | **B** meublé à l’année | Ordre de grandeur pour un studio meublé : environ **500 € / mois**, soit **6 000 € / an** (le gain principal reste celui du saisonnier A)                                                             | **+≈ 6 000 €**      |
 
 
 ### Piste 3 — Application de conciergerie privée
 
-Nous déploierons une **application de conciergerie privée** afin de proposer des services à la carte aux voyageurs (commandes avant ou pendant le séjour). La mise en place est prévue dans les **~5 ans**. L’objectif est d’enrichir le chiffre d’affaires au-delà des loyers et nuitées.
+Nous déploierons une **application de conciergerie privée** afin de proposer des services à la carte aux voyageurs (commandes avant ou pendant le séjour). La mise en place est prévue dans les **≈ 5 ans**. L’objectif est d’enrichir le chiffre d’affaires au-delà des loyers et nuitées.
 
 **Services retenus (tarifs)**
 
@@ -391,7 +391,7 @@ Nous déploierons une **application de conciergerie privée** afin de proposer d
 
 | Scénario | Hypothèse | **CA en plus / an** |
 |----------|-----------|--------------------:|
-| **A** saisonnier | Nous visons environ **8 000 € / an** : environ **350 séjours / an** (parc 7 lots, année pleine) × **taux d’adoption ~40 %** × **panier moyen ~55 €** (mix services + packs) | **+≈ 8 000 €** |
+| **A** saisonnier | Nous visons environ **8 000 € / an** : environ **350 séjours / an** (parc 7 lots, année pleine) × **taux d’adoption ≈ 40 %** × **panier moyen ≈ 55 €** (mix services + packs) | **+≈ 8 000 €** |
 | **B** meublé à l’année | Peu pertinent à l’année (locataires stables, peu de rotation) | **0 €** |
 
 ### Piste 4 — Location de vélos électriques (10 VAE)
@@ -405,14 +405,14 @@ Le domaine se prête naturellement à une **flotte de 10 vélos à assistance é
 
 | Scénario | Hypothèse | **CA en plus / an** |
 |----------|-----------|--------------------:|
-| **A** saisonnier | **10** VAE × **45 jours** loués / vélo / an × **40 €** / journée (tarif cohérent Verdon / Provence ; référence locale ~38 € la journée) | **+≈ 18 000 €** |
+| **A** saisonnier | **10** VAE × **45 jours** loués / vélo / an × **40 €** / journée (tarif cohérent Verdon / Provence ; référence locale ≈ 38 € la journée) | **+≈ 18 000 €** |
 | **B** meublé à l’année | Peu pertinent à l’année (locataires stables, faible demande à la journée) | **0 €** |
 
 *Risques :* l’entretien étant assuré en régie, le coût d’exploitation se limite surtout aux pièces ; les principaux risques restent le **vol** et la **sinistralité**, à couvrir par une assurance flotte adaptée et des antivols renforcés.
 
-### Synthèse — chiffre d’affaires additionnel (en plus des 133 k€ / ~59 k€)
+### Synthèse — chiffre d’affaires additionnel (en plus des 133 k€ / ≈ 59 k€)
 
-Ces montants **s’ajoutent** aux chiffres d’affaires des scénarios A (**133 000 €**) et B (**~59 280 €**) ; ils ne les remplacent pas. Une fois les quatre pistes réalisées :
+Ces montants **s’ajoutent** aux chiffres d’affaires des scénarios A (**133 000 €**) et B (**≈ 59 280 €**) ; ils ne les remplacent pas. Une fois les quatre pistes réalisées :
 
 
 | Piste                                          | CA + / an — A   | CA + / an — B   |
@@ -421,7 +421,7 @@ Ces montants **s’ajoutent** aux chiffres d’affaires des scénarios A (**133 
 | 2 — Studio atypique (hall 9 m² + serre + cave) | +≈ 24 000 €     | +≈ 6 000 €      |
 | 3 — Conciergerie privée (application)          | +≈ 8 000 €      | 0 €             |
 | 4 — Location 10 VAE                            | +≈ 18 000 €     | 0 €             |
-| **Total additionnel (horizon ~5 ans)**         | **+≈ 64 400 €** | **+≈ 12 000 €** |
+| **Total additionnel (horizon ≈ 5 ans)**         | **+≈ 64 400 €** | **+≈ 12 000 €** |
 | **CA total avec pistes (indicatif)**           | **≈ 197 400 €** | **≈ 71 280 €**  |
 
 
@@ -447,7 +447,7 @@ Nous demandons un emprunt de **650 000 €** pour financer l’intégralité du 
 
 ## 9. Points à finaliser
 
-- [ ] Avis de taxe foncière (montant oral ~4 767 € ; fichier fixes 4 732 €)  
+- [ ] Avis de taxe foncière (montant oral ≈ 4 767 € ; fichier fixes 4 732 €)  
 - [ ] Statuts de la SCI Latitude 39 et pacte d’associés  
 - [ ] Accord de principe de la banque (emprunt 650 000 €, taux ≤ 4 %)  
 - [ ] Plan de reprise des réservations 2027 (cession et information des locataires)  

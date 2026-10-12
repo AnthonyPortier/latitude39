@@ -116,7 +116,7 @@ Complément volume comité régional du tourisme / LightHouse (méthode distinct
 | Total personnes sur le site Cadarache | ≈ 5 500 | 2023–2024 | Commissariat |
 | Badges ITER (communauté) | ≈ 6 500 | 2023 | Organisation ITER |
 | dont Organisation ITER | ≈ 1 600 | 2023 | Organisation ITER |
-| Travailleurs chantier ITER | ≈ 3 000–4 000 | ~2024–2026 | Organisation ITER / Agence internationale de l’énergie atomique |
+| Travailleurs chantier ITER | ≈ 3 000–4 000 | ≈ 2024–2026 | Organisation ITER / Agence internationale de l’énergie atomique |
 | Familles impact local | ≈ 1 000 | 2023 (presse) | La Provence |
 | Embauches / an (projection) | 60–80 | jusqu’au début des opérations de recherche 2034 | Organisation ITER |
 | Début des opérations de recherche | 2034 | trajectoire 2024 | Organisation ITER |
@@ -193,5 +193,5 @@ Complément volume comité régional du tourisme / LightHouse (méthode distinct
 | A.1 AirDNA | 107 948,75 € | 7 | Rentable |
 | A.2 méthode vendeuse | 72 866,32 € | 7 | **Non rentable** → B |
 | B année | 59 280 € | 7 | Filet rentable |
-| Unitaire T2 (ancre) | ~18 000 € | — | — |
+| Unitaire T2 (ancre) | ≈ 18 000 € | — | — |
 | Prévision PriceLabs Vinon | 18 257 € | 1 annonce | — |

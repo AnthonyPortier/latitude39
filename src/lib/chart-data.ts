@@ -69,7 +69,7 @@ export const chambresRepartition = [
 ];
 
 export const construction133k = [
-  { poste: "7 × ~18 k€", montant: 126000 },
+  { poste: "7 × ≈ 18 k€", montant: 126000 },
   { poste: "Marge / upsell", montant: 7000 },
 ];
 

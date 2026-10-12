@@ -22,6 +22,9 @@ export function SiteFooter() {
           <Link href="/etude-marche" className="hover:text-soleil-300">
             Étude de marché
           </Link>
+          <Link href="/associes" className="hover:text-soleil-300">
+            Les associés
+          </Link>
           <Link href="/telechargements" className="hover:text-soleil-300">
             Téléchargements
           </Link>

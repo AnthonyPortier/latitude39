@@ -36,7 +36,7 @@ Au sein de ce département, la **communauté d’agglomération Durance Luberon 
 
 Gréoux-les-Bains est le **principal pôle d’hébergement marchand** de l’agglomération : environ **44 %** des lits marchands de la communauté d’agglomération Durance Luberon Verdon (contre 8 % pour Manosque). L’agglomération compte environ **49 200** lits touristiques au total, dont **19 900** lits en hébergement marchand.
 
-La commune cumule plusieurs moteurs commerciaux : thermalisme (3ᵉ station française), porte d’entrée du Verdon et du plateau de Valensole, accessibilité (Manosque ~20 min ; Aix ~1 h ; Marseille-Provence ~1 h 30), et proximité du bassin d’emploi Cadarache–ITER.
+La commune cumule plusieurs moteurs commerciaux : thermalisme (3ᵉ station française), porte d’entrée du Verdon et du plateau de Valensole, accessibilité (Manosque ≈ 20 min ; Aix ≈ 1 h ; Marseille-Provence ≈ 1 h 30), et proximité du bassin d’emploi Cadarache–ITER.
 
 La gare Manosque–Gréoux-les-Bains a retrouvé en 2024 environ 131 000 voyageurs, soit un niveau comparable à 2015 après le creux sanitaire. La Région et l’agglomération renforcent le pôle d’échanges (cars, stationnement, intermodalité), et la modernisation de la ligne Marseille–Briançon, accélérée vers 2030, consolide l’accès ferroviaire depuis la métropole — un atout d’accessibilité pour les week-ends et les courts séjours, complémentaire de la voiture.
 
@@ -75,7 +75,7 @@ Selon l’Insee (recensement 2023) :
 | Part des résidences secondaires et logements occasionnels | **59,1 %** |
 | Part des logements vacants | **5,2 %** |
 
-La commune gagne des habitants **par l’attractivité résidentielle**. Le poids des **résidences secondaires** (près de six logements sur dix) caractérise une commune de **villégiature et de séjour**, bien au-dessus de la moyenne départementale (~30 %) et nationale (~10 %).
+La commune gagne des habitants **par l’attractivité résidentielle**. Le poids des **résidences secondaires** (près de six logements sur dix) caractérise une commune de **villégiature et de séjour**, bien au-dessus de la moyenne départementale (≈ 30 %) et nationale (≈ 10 %).
 
 ### 3.2 Bassin de Manosque
 
@@ -118,9 +118,9 @@ Le site de Cadarache (Saint-Paul-lez-Durance), à proximité immédiate du bassi
 | --------- | ------------------- | ------ |
 | Centre Cadarache (Commissariat à l’énergie atomique et aux énergies alternatives) | ≈ **2 650** salariés du Commissariat ; ≈ **5 500** personnes au total sur le site | Commissariat, rapports de transparence 2023–2024 |
 | ITER — badges / communauté (2023) | près de **6 500** personnes badgées ; dont ≈ **1 600** rattachées à l’Organisation ITER | Organisation ITER |
-| ITER — chantier (ordre de grandeur) | ≈ **3 000 à 4 000** travailleurs sur site ; ~**1 000** personnels des agences domestiques | Organisation ITER / Agence internationale de l’énergie atomique |
-| Impact familial local | ≈ **1 000** familles ; moitié dans l’agglomération manosquine (~250 à Manosque) | La Provence / maire de Manosque |
-| Habitats ITER (répartition indicative) | Manosque ~28 %, Aix ~24 %, Vinon ~10 %, Pierrevert ~5 %, Pertuis ~4 % | Magazine ITER |
+| ITER — chantier (ordre de grandeur) | ≈ **3 000 à 4 000** travailleurs sur site ; environ **1 000** personnels des agences domestiques | Organisation ITER / Agence internationale de l’énergie atomique |
+| Impact familial local | ≈ **1 000** familles ; moitié dans l’agglomération manosquine (≈ 250 à Manosque) | La Provence / maire de Manosque |
+| Habitats ITER (répartition indicative) | Manosque ≈ 28 %, Aix ≈ 24 %, Vinon ≈ 10 %, Pierrevert ≈ 5 %, Pertuis ≈ 4 % | Magazine ITER |
 
 L’Agence ITER France et le Commissariat à l’énergie atomique et aux énergies alternatives ont mis en place un **bureau d’accueil** et des marchés d’aide au logement pour les personnels et leurs familles (périmètre Manosque–Pertuis–Aix). Les dépenses de logement, alimentation, transports et loisirs de cette communauté se chiffrent, selon ITER, en **centaines de millions d’euros** par an pour l’économie locale.
 
@@ -132,7 +132,7 @@ L’Agence ITER France et le Commissariat à l’énergie atomique et aux énerg
 
 En France, les mariages se concentrent massivement de **mai à septembre** (ordre de **70 %** des cérémonies sur cette fenêtre dans les analyses régionales Insee récentes ; juin et juillet restent les mois les plus prisés). La Provence et le Verdon constituent une **destination mariage** reconnue : domaines, châteaux, gîtes de groupe et cadres lavande / lac.
 
-À Gréoux même, l’offre groupe est structurée (ex. Pavillon d’Aurabelle, entre Vinon et Gréoux : jusqu’à ~130 convives, hébergement sur place, ouverture mi-février à mi-décembre). Les couples recherchent souvent des **logements satellites** pour les invités (week-end prolongé, brunch du lendemain).
+À Gréoux même, l’offre groupe est structurée (ex. Pavillon d’Aurabelle, entre Vinon et Gréoux : jusqu’à ≈ 130 convives, hébergement sur place, ouverture mi-février à mi-décembre). Les couples recherchent souvent des **logements satellites** pour les invités (week-end prolongé, brunch du lendemain).
 
 **Impact pour le domaine :** les **T3** (6 couchages) et le fait d’avoir plusieurs appartements sur le même site, avec piscine, conviennent bien aux **groupes d’invités** et aux séjours « mariage + découverte du Verdon » de juin à septembre. Sur ces mois, les tarifs de nuitée du bassin Vinon / Gréoux sont déjà élevés selon PriceLabs. Ce n’est pas le cœur du prévisionnel à 133 000 €, mais cela aide à mieux remplir les T3 et à soutenir les prix en haute saison.
 
@@ -162,8 +162,8 @@ Autour du domaine, l’offre d’activités est concrète et proche :
 | Plateau de Valensole (lavande) | Valensole | ≈ 25–35 min |
 | Moustiers-Sainte-Marie / lac de Sainte-Croix | Haut Verdon | ≈ 45–60 min |
 | Randonnées (sentier de grande randonnée n° 4, sentiers du parc du Verdon) | Ensemble du bassin | Accès immédiat |
-| Musée de la préhistoire des Gorges du Verdon | Quinson | ≈ 25–30 min (~65 000 visiteurs / an) |
-| L’Occitanie en Provence | Manosque | ≈ 20 min (~23 000 visiteurs / an) |
+| Musée de la préhistoire des Gorges du Verdon | Quinson | ≈ 25–30 min (≈ 65 000 visiteurs / an) |
+| L’Occitanie en Provence | Manosque | ≈ 20 min (≈ 23 000 visiteurs / an) |
 | Golf du Luberon | Pierrevert | ≈ 20–25 min |
 | Vol à voile / aérodrome | Vinon-sur-Verdon, Puimoisson | ≈ 15–30 min |
 
@@ -171,7 +171,7 @@ Le Parc naturel régional du Verdon estime environ **1 million** de visiteurs pa
 
 ### 4.7 Vélo et sports nautiques
 
-**Vélo / vélo tout terrain :** le Verdon propose près de **2 000 km** d’itinéraires de vélo tout terrain et plus de **700 km** de routes balisées. Le réseau Provence Verdon affiche **51 circuits** et environ **1 200 km** balisés ; côté Alpes-de-Haute-Provence, l’espace Verdon des Collines (~**280 km**) est animé avec l’office de tourisme de Gréoux et l’association Team Gréoux Bike. Les grandes traversées (TransVerdon, Alpes-Provence) et les événements labellisés VTT (Verdon des Collines) structurent la saison sportive. Le **vélo à assistance électrique** élargit la clientèle au-delà des sportifs confirmés — cohérent avec la piste de flotte de vélos à assistance électrique du business plan (hors chiffre d’affaires 133 k€).
+**Vélo / vélo tout terrain :** le Verdon propose près de **2 000 km** d’itinéraires de vélo tout terrain et plus de **700 km** de routes balisées. Le réseau Provence Verdon affiche **51 circuits** et environ **1 200 km** balisés ; côté Alpes-de-Haute-Provence, l’espace Verdon des Collines (environ **280 km**) est animé avec l’office de tourisme de Gréoux et l’association Team Gréoux Bike. Les grandes traversées (TransVerdon, Alpes-Provence) et les événements labellisés VTT (Verdon des Collines) structurent la saison sportive. Le **vélo à assistance électrique** élargit la clientèle au-delà des sportifs confirmés — cohérent avec la piste de flotte de vélos à assistance électrique du business plan (hors chiffre d’affaires 133 k€).
 
 Au-delà du VTT, le cyclisme sur route s’appuie sur une offre départementale structurée : premier département labellisé Territoire Vélo, boucles balisées, opérations de cols réservés, et une cyclosportive récurrente aux Boucles du Verdon au départ de Gréoux (environ 800 à 1 000 participants). Le Tour de la Provence, avec des étapes dans le 04, entretient la notoriété des routes de Haute-Provence auprès d’une clientèle sportive, cohérente avec des séjours de deux à sept nuits.
 
@@ -192,11 +192,11 @@ Les séries multi-années détaillées (prêtes à grapher) sont dans [etude-mar
 | Périmètre | Indicateur | Tendance |
 | --------- | ---------- | -------- |
 | Nuitées louées via Airbnb, Abritel et sites similaires en Provence-Alpes-Côte d’Azur (mesure Insee) | 22,6 → 25 → 30,7 millions de nuitées (2022–2024) | **Forte hausse** |
-| Comité régional du tourisme / LightHouse | ~17,1 millions de nuitées réservées 2025 | +3 % / 2024 ; +47 % / 2019 |
-| Département des Alpes-de-Haute-Provence (Flux Vision) | ~13,1 millions de nuitées 2023 | Socle élevé |
+| Comité régional du tourisme / LightHouse | ≈ 17,1 millions de nuitées réservées 2025 | +3 % / 2024 ; +47 % / 2019 |
+| Département des Alpes-de-Haute-Provence (Flux Vision) | ≈ 13,1 millions de nuitées 2023 | Socle élevé |
 | Agglomération Durance Luberon Verdon | >4 millions de nuitées ; 5,2 millions de visites à la journée (sans nuitée) en 2023 | Saison mars–novembre |
-| Été 2024 Alpes-de-Haute-Provence (mai–sept.) | ~8,5 millions de nuitées | **+6 %** / 2023 |
-| Thermes Gréoux | ~26–27 000 curistes / an | Stable à haut niveau |
+| Été 2024 Alpes-de-Haute-Provence (mai–sept.) | ≈ 8,5 millions de nuitées | **+6 %** / 2023 |
+| Thermes Gréoux | ≈ 26–27 000 curistes / an | Stable à haut niveau |
 | AirDNA Gréoux (douze derniers mois à sept. 2026) | Occupation **65 %** ; chiffre d’affaires moyen par annonce **≈ 12 600 €** | Occupation **+8,6 %** par rapport à l’année précédente |
 
 Sur le territoire de l’agglomération Durance Luberon Verdon, **sept visites à la journée sur dix** ont lieu hors été : le territoire « vit » hors saison estivale, même si les nuitées marchandes restent plus concentrées de mars à octobre.
@@ -246,7 +246,7 @@ Répartition des annonces par **nombre de chambres** (AirDNA, même période) �
 **Lecture favorable et crédible :**
 
 - Gréoux affiche une **occupation de marché de 65 %** et un **score de demande locative de 85/100** (sous-score AirDNA) — signe d’un marché **profond et liquide**.
-- Le chiffre d’affaires moyen AirDNA (≈ 12 600 €) est une **moyenne tous logements** (studios curistes inclus). Un T2 bien géré, ouvert 12 mois, avec piscine et capacité famille, se situe **au-dessus** de cette moyenne — cohérent avec la cible du business plan (~18 000 € / T2) et avec le chiffre déjà réalisé sur le T2 de Vinon-sur-Verdon exploité par Manon Pénicaud et Anthony Portier : **18 257 €**.
+- Le chiffre d’affaires moyen AirDNA (≈ 12 600 €) est une **moyenne tous logements** (studios curistes inclus). Un T2 bien géré, ouvert 12 mois, avec piscine et capacité famille, se situe **au-dessus** de cette moyenne — cohérent avec la cible du business plan (≈ 18 000 € / T2) et avec le chiffre déjà réalisé sur le T2 de Vinon-sur-Verdon exploité par Manon Pénicaud et Anthony Portier : **18 257 €**.
 - Le prix moyen par nuit AirDNA à Gréoux (≈ **65 €**) est aligné avec la médiane PriceLabs 1 chambre (**66 €**) et le prix moyen de quartier (**72 €**).
 
 ### 7.2 PriceLabs — marché de quartier Vinon / Gréoux
@@ -270,7 +270,7 @@ Occupation mensuelle du **marché de quartier** (moyenne de toutes les annonces 
 | Type | Ce que c’est | Tarif / performance indicative | Source |
 | ---- | ------------ | ------------------------------ | ------ |
 | Hôtels / comparables | Hôtels et résidences du bassin (Lou Cigaloun, Les Hauts de Gréoux, Moulin du Verdon, etc.) | Souvent **85–120 €** ; moyenne du jeu hôtelier ≈ **94 €** | PriceLabs (données hôtelières) |
-| Ensemble des meublés sur plateformes à Gréoux | **Tout** le parc Airbnb / Abritel de la commune (~**555** annonces) : petits et grands logements, centre et périphérie — moyenne globale du marché | Occupation **65 %** · prix moyen **≈ 65 €** · revenu par nuitée disponible **≈ 43 €** | AirDNA |
+| Ensemble des meublés sur plateformes à Gréoux | **Tout** le parc Airbnb / Abritel de la commune (environ **555** annonces) : petits et grands logements, centre et périphérie — moyenne globale du marché | Occupation **65 %** · prix moyen **≈ 65 €** · revenu par nuitée disponible **≈ 43 €** | AirDNA |
 | Studios et petits T2 curistes en centre-ville | Un **sous-ensemble** du parc : logements près des thermes, souvent loués à la semaine pour les cures | **50–65 €**/jour ; forfait semaine curiste **350–450 €** | Annonces 2026 (Abritel, thermes.biz, Airbnb) |
 | Meublés avec piscine / capacité famille | Segment plus haut de gamme, plus rare à Gréoux — celui où se situe le domaine | Souvent **> 100 €**/nuit en haute saison | Observation plateformes |
 
@@ -284,13 +284,13 @@ La concurrence en centre-ville est forte sur les petits logements curistes. Le d
 | ------- | -------------- |
 | Parc | **7 lots** (5 T2 + 2 T3) |
 | Capacité | T2 : **4** couchages · T3 : **6** |
-| Équipements | Piscine, pétanque, terrain ~5 178 m² |
+| Équipements | Piscine, pétanque, terrain ≈ 5 178 m² |
 | Calendrier | Ouverture **12 mois** |
 | Séjour minimum | **Une nuit** |
 | Distribution | Site direct prioritaire ; plateformes en appoint |
 | Clientèles | Curistes, familles Verdon, week-ends pêche/vélo, invités mariages, missions Cadarache |
 
-L’historique vendeur (chiffre d’affaires loyers ~**40 à 49 k€** sur 5 logements, 2023–2025) et le **pipeline 2027** (~**26 k€**, 512 nuitées) démontrent que la demande sur le site existe avant la reprise complète par la société civile immobilière Latitude 39.
+L’historique vendeur (chiffre d’affaires loyers d’environ **40 à 49 k€** sur 5 logements, 2023–2025) et le **pipeline 2027** (environ **26 k€**, 512 nuitées) démontrent que la demande sur le site existe avant la reprise complète par la société civile immobilière Latitude 39.
 
 ---
 
@@ -301,7 +301,7 @@ Référence : T2 Vinon-sur-Verdon (Manon Pénicaud / Anthony Portier), PriceLabs
 | Indicateur | Valeur retenue |
 | ---------- | -------------- |
 | Revenu déjà réservé 2026 (PriceLabs « Revenue On The Books ») | **16 360 €** · occupation **76 %** |
-| Prévision annuelle PriceLabs (Forecast) | **18 257 €** · occupation **87 %** → arrondi business plan **~18 000 € / T2** |
+| Prévision annuelle PriceLabs (Forecast) | **18 257 €** · occupation **87 %** → arrondi business plan **≈ 18 000 € / T2** |
 | Prix configurés | minimum **50 €** · base **62 €** |
 
 Détail mois par mois de **ce T2** (rapport PriceLabs « Revenue On The Books », année 2026) — revenu locatif déjà enregistré et taux d’occupation :
@@ -322,9 +322,9 @@ Détail mois par mois de **ce T2** (rapport PriceLabs « Revenue On The Books »
 | Décembre | 409 € | 29 % |
 | **Total / moyenne** | **16 360 €** | **76 %** |
 
-En janvier et sur une partie de février 2026, le calendrier a été volontairement fermé : les exploitants accueillaient leur dernier enfant et n’ont pas pris de réservations sur cette période. Le creux de janvier (19 %) et le démarrage de février s’expliquent donc par un choix personnel, et non par un manque de demande. Les mois de novembre et décembre peuvent encore progresser (réservations à venir). La prévision annuelle PriceLabs (**18 257 €** · **87 %**) reste l’ancrage du business plan à ~18 000 € / T2.
+En janvier et sur une partie de février 2026, le calendrier a été volontairement fermé : les exploitants accueillaient leur dernier enfant et n’ont pas pris de réservations sur cette période. Le creux de janvier (19 %) et le démarrage de février s’expliquent donc par un choix personnel, et non par un manque de demande. Les mois de novembre et décembre peuvent encore progresser (réservations à venir). La prévision annuelle PriceLabs (**18 257 €** · **87 %**) reste l’ancrage du business plan à ≈ 18 000 € / T2.
 
-Le listing de référence combine une occupation **supérieure** aux moyennes de marché (AirDNA Vinon 59 %, quartier PriceLabs 62 %, AirDNA Gréoux 65 %) — positionnement qui permet d’ancrer ~18 000 € / T2 sans postuler un tarif haut de gamme permanent.
+Le listing de référence combine une occupation **supérieure** aux moyennes de marché (AirDNA Vinon 59 %, quartier PriceLabs 62 %, AirDNA Gréoux 65 %) — positionnement qui permet d’ancrer ≈ 18 000 € / T2 sans postuler un tarif haut de gamme permanent.
 
 ---
 
@@ -359,7 +359,7 @@ D’où vient le **18 000 €** par T2 ? Du T2 déjà exploité à Vinon-sur-Ver
 | **70 €** | 257 nuits | **70 %** |
 | **80 €** | 225 nuits | **62 %** |
 
-Autrement dit : même avec une occupation proche de la moyenne du marché (AirDNA Gréoux **65 %**, PriceLabs quartier **62 %**) et un prix autour de **65–72 €**, on reste dans la zone des ~18 000 € / T2. La cible n’exige pas d’être en haut de gamme toute l’année.
+Autrement dit : même avec une occupation proche de la moyenne du marché (AirDNA Gréoux **65 %**, PriceLabs quartier **62 %**) et un prix autour de **65–72 €**, on reste dans la zone des ≈ 18 000 € / T2. La cible n’exige pas d’être en haut de gamme toute l’année.
 
 ### 10.2 Scénario A.1 — moyennes AirDNA (**107 948,75 €**)
 
@@ -367,11 +367,11 @@ CA = **7 × (65 € × 65 % × 365) = 107 948,75 €** (les 2 T3 sont inclus). A
 
 ### 10.3 Scénario A.2 — méthode vendeuse sur 7 lots (**72 866,32 €**, **non rentable**)
 
-Ce n’est **pas** le CA actuel à 5 lots. Ancre 5 T2 = **49 234 €** ; **+** 2 T3 = **23 632,32 €** → **CA 7 lots = 72 866,32 €**. Règles vendeuse (~10 mois, min. une semaine, tarifs historiques) + 20 % de commissions → **−9 566,94 €** avant IS. **Stress négatif :** rester comme la vendeuse n’est pas viable ; **mieux vaut B**.
+Ce n’est **pas** le CA actuel à 5 lots. Ancre 5 T2 = **49 234 €** ; **+** 2 T3 = **23 632,32 €** → **CA 7 lots = 72 866,32 €**. Règles vendeuse (≈ 10 mois, min. une semaine, tarifs historiques) + 20 % de commissions → **−9 566,94 €** avant IS. **Stress négatif :** rester comme la vendeuse n’est pas viable ; **mieux vaut B**.
 
-### 10.4 Scénario B — repli à l’année (**~59 280 €**)
+### 10.4 Scénario B — repli à l’année (**≈ 59 280 €**)
 
-7 logements meublés à l’année (5 × 660 € + 2 × 820 € / mois). Couvre encore l’annuité 20 ans avec un résultat avant impôt sur les sociétés légèrement positif (~**+3 à +4,7 k€**). Filet de sécurité — **préférable à A.2** si l’on ne fait pas A / A.1.
+7 logements meublés à l’année (5 × 660 € + 2 × 820 € / mois). Couvre encore l’annuité 20 ans avec un résultat avant impôt sur les sociétés légèrement positif (environ **+3 à +4,7 k€**). Filet de sécurité — **préférable à A.2** si l’on ne fait pas A / A.1.
 
 Les chiffres d’affaires des scénarios **A / A.1 / A.2 / B** sont **identiques** au [business plan banque](business-plan-banque.md).
 
@@ -379,9 +379,9 @@ Les chiffres d’affaires des scénarios **A / A.1 / A.2 / B** sont **identiques
 
 ## 11. Conclusion
 
-Gréoux-les-Bains offre un **marché d’hébergement structurellement porteur**. Le thermalisme (~26 000 curistes / an), le Verdon, la lavande, la pêche, le vélo et les sports nautiques, la saison des mariages et le pôle Cadarache–ITER (plusieurs milliers de personnes sur site, horizon opérations 2034+) créent une **demande diversifiée** et une saison longue. Les pouvoirs publics (agglomération, offices de tourisme, congrès, thermes, événementiel) agissent explicitement pour **lisser la saison creuse**.
+Gréoux-les-Bains offre un **marché d’hébergement structurellement porteur**. Le thermalisme (≈ 26 000 curistes / an), le Verdon, la lavande, la pêche, le vélo et les sports nautiques, la saison des mariages et le pôle Cadarache–ITER (plusieurs milliers de personnes sur site, horizon opérations 2034+) créent une **demande diversifiée** et une saison longue. Les pouvoirs publics (agglomération, offices de tourisme, congrès, thermes, événementiel) agissent explicitement pour **lisser la saison creuse**.
 
-AirDNA confirme un marché local **profond** : **555** annonces actives à Gréoux, occupation **65 %**, score de demande **85/100**. PriceLabs ancre la performance unitaire du projet à ≈ **18 257 €** et **87 %** d’occupation sur un T2 comparable. Le chiffre d’affaires cible **A** de **133 000 €** (7 lots) reste **crédible** ; **A.1** (~108 k€) reste rentable ; **A.2** (~73 k€) est **non rentable** et pousse vers **B** (~**59 k€**, encore solvable).
+AirDNA confirme un marché local **profond** : **555** annonces actives à Gréoux, occupation **65 %**, score de demande **85/100**. PriceLabs ancre la performance unitaire du projet à ≈ **18 257 €** et **87 %** d’occupation sur un T2 comparable. Le chiffre d’affaires cible **A** de **133 000 €** (7 lots) reste **crédible** ; **A.1** (≈ 108 k€) reste rentable ; **A.2** (≈ 73 k€) est **non rentable** et pousse vers **B** (environ **59 k€**, encore solvable).
 
 **En synthèse :** marché porteur, demande multi-moteurs, données AirDNA et PriceLabs convergentes ; prévisionnel cohérent — **A / A.1** pour le saisonnier rentable, **B** si l’on refuse la méthode Anthony, **pas A.2**.
 
@@ -395,9 +395,9 @@ AirDNA confirme un marché local **profond** : **555** annonces actives à Gréo
 - **Agence de développement des Alpes-de-Haute-Provence** — portraits de la communauté d’agglomération Durance Luberon Verdon et du département (2024, Flux Vision 2023) ; rapport été 2024 Flux Vision.
 - **Comité régional du tourisme Provence-Alpes-Côte d’Azur / LightHouse** — bilan 2025 locations saisonnières (volume).
 - **Organisation ITER** — communauté badgée, trajectoire 2024 (début des opérations de recherche 2034), répartition des habitats.
-- **Commissariat à l’énergie atomique et aux énergies alternatives — centre Cadarache** — rapports de transparence 2023–2024 (effectifs ~2 650 / ~5 500 sur site).
+- **Commissariat à l’énergie atomique et aux énergies alternatives — centre Cadarache** — rapports de transparence 2023–2024 (effectifs ≈ 2 650 / ≈ 5 500 sur site).
 - **Fédération de pêche des Alpes-de-Haute-Provence / association agréée Verdon-Colostre** — pratiquants, parcours Esparron–Gréoux.
-- **Parc naturel régional du Verdon** — fréquentation des gorges (~1 million de visiteurs).
+- **Parc naturel régional du Verdon** — fréquentation des gorges (≈ 1 million de visiteurs).
 - **Réseau Provence Verdon / office de tourisme de Gréoux** — kilomètres d’itinéraires, espace Verdon des Collines.
 - **SNCF Open Data** — fréquentation gare Manosque–Gréoux-les-Bains (2024 ≈ 131 000 voyageurs).
 - **Région Sud / communauté d’agglomération Durance Luberon Verdon** — pôle d’échanges multimodal Manosque ; modernisation ligne Marseille–Briançon (horizon 2030).

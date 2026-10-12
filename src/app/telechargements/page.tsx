@@ -7,19 +7,32 @@ export const metadata: Metadata = {
   description: "PDF du dossier banque SCI Latitude 39.",
 };
 
-const LABELS: Record<string, string> = {
-  "SCI-Latitude39-business-plan-banque.pdf": "Business plan",
-  "SCI-Latitude39-etude-marche-greoux.pdf": "Étude de marché Gréoux",
-  "SCI-Latitude39-etude-marche-graphiques.pdf": "Étude — données / graphiques",
-  "SCI-Latitude39-presentation-appartements.pdf": "Fiche appartements",
+type PdfEntry = {
+  name: string;
+  label: string;
+  noTranslate?: boolean;
 };
 
-/** Ordre d’affichage : BP, études, appartements */
-const ORDER = [
-  "SCI-Latitude39-business-plan-banque.pdf",
-  "SCI-Latitude39-etude-marche-greoux.pdf",
-  "SCI-Latitude39-etude-marche-graphiques.pdf",
-  "SCI-Latitude39-presentation-appartements.pdf",
+/** Liste explicite — évite tout libellé ambigu / tronqué */
+const PDFS: PdfEntry[] = [
+  {
+    name: "SCI-Latitude39-business-plan-banque.pdf",
+    label: "Business plan",
+    noTranslate: true,
+  },
+  {
+    name: "SCI-Latitude39-etude-marche-greoux.pdf",
+    label: "Étude de marché Gréoux",
+  },
+  {
+    name: "SCI-Latitude39-etude-marche-graphiques.pdf",
+    label: "Étude — données / graphiques",
+  },
+  {
+    name: "SCI-Latitude39-presentation-appartements.pdf",
+    label: "Fiche appartements",
+    noTranslate: true,
+  },
 ];
 
 function formatBytes(bytes: number) {
@@ -29,23 +42,20 @@ function formatBytes(bytes: number) {
 
 export default function TelechargementsPage() {
   const dir = path.join(process.cwd(), "public", "pdfs");
-  const files = fs
-    .readdirSync(dir)
-    .filter((name) => name.endsWith(".pdf") && LABELS[name])
-    .map((name) => {
-      const stats = fs.statSync(path.join(dir, name));
-      return {
-        name,
+  const files = PDFS.flatMap((entry) => {
+    const filePath = path.join(dir, entry.name);
+    if (!fs.existsSync(filePath)) return [];
+    const stats = fs.statSync(filePath);
+    return [
+      {
+        name: entry.name,
+        label: entry.label,
+        noTranslate: entry.noTranslate === true,
         size: stats.size,
-        label: LABELS[name],
-        href: `/pdfs/${name}`,
-      };
-    })
-    .sort(
-      (a, b) =>
-        ORDER.indexOf(a.name) - ORDER.indexOf(b.name) ||
-        a.label.localeCompare(b.label, "fr"),
-    );
+        href: `/pdfs/${entry.name}`,
+      },
+    ];
+  });
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-12 md:px-6 md:py-16">
@@ -54,7 +64,7 @@ export default function TelechargementsPage() {
       </h1>
       <p className="mt-3 text-pierre-700">
         Dernière version du <span translate="no">Business plan</span>, études
-        de marché et fiche appartements.
+        de marché et <span translate="no">Fiche appartements</span>.
       </p>
 
       <ul className="mt-10 divide-y divide-[var(--line)] border-y border-[var(--line)]">
@@ -62,23 +72,21 @@ export default function TelechargementsPage() {
           <li key={file.name}>
             <a
               href={file.href}
-              download
+              download={file.name}
               className="flex flex-col gap-1 py-5 transition hover:bg-white/40 sm:flex-row sm:items-center sm:justify-between"
             >
-              <span>
+              <span className="min-w-0">
                 <span
-                  className="block font-display text-xl text-verdon-900"
-                  {...(file.name.includes("business-plan")
-                    ? { translate: "no" as const }
-                    : {})}
+                  className="block text-xl font-semibold text-verdon-900"
+                  {...(file.noTranslate ? { translate: "no" as const } : {})}
                 >
                   {file.label}
                 </span>
-                <span className="mt-1 block text-sm text-pierre-500">
+                <span className="mt-1 block break-all text-sm text-pierre-500">
                   {file.name}
                 </span>
               </span>
-              <span className="text-sm font-medium text-olivier-700">
+              <span className="shrink-0 text-sm font-medium text-olivier-700">
                 {formatBytes(file.size)} · télécharger
               </span>
             </a>

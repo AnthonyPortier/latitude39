@@ -31,13 +31,13 @@ const sections = [
     href: "/business-plan",
     title: "Business plan",
     noTranslate: true,
-    text: "Bien, organisation, scénarios A/B, calendrier.",
+    text: "Bien, organisation, scénarios A / A.1 / A.2 / B, calendrier.",
   },
   {
     href: "/etude-marche",
     title: "Étude de marché",
     noTranslate: false,
-    text: "Saisonnalité, AirDNA, Vinon, scénario 133 k€.",
+    text: "Saisonnalité, AirDNA, Vinon, scénarios A–B (A.2 → B).",
   },
   {
     href: "/appartements",

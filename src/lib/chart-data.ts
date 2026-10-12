@@ -74,9 +74,10 @@ export const construction133k = [
 ];
 
 export const scenariosCa = [
-  { name: "Scénario A", montant: 133000 },
-  { name: "Scénario B", montant: 59280 },
-  { name: "Vendeur 2025", montant: 49234 },
+  { name: "A", montant: 133000 },
+  { name: "A.1", montant: 107949 },
+  { name: "A.2", montant: 72866 },
+  { name: "B", montant: 59280 },
 ];
 
 export const financement = [

@@ -110,9 +110,24 @@ Nous disposons donc d’un pipeline de chiffre d’affaires dès la première sa
 
 ---
 
-## 5. Scénario A — Cible business (location saisonnière)
+## 5. Scénarios d’exploitation — A / A.1 / A.2 / B
 
-*Scénario retenu par les associés pour l’exploitation du domaine.*
+Dans **A, A.1 et A.2**, le parc est **5 T2 + 2 T3**, capacité **4 / 6**, multi-appartements possible, commissions plateformes **20 %**. Le **scénario B** (meublé à l’année) reste sans commissions plateforme.
+
+| Code | Logique | CA brut 7 lots | Comm. | Résultat avant IS | Verdict |
+| ---- | ------- | -------------: | ----: | ----------------: | ------- |
+| **A** | Méthode Anthony (12 mois, 1 nuit, prix dynamiques) | **133 000 €** | 20 % | **+38 140 €** | Saisonnier **rentable** — meilleur cas |
+| **A.1** | Moyennes AirDNA (65 € × 65 % × 365 × 7) | **107 948,75 €** | 20 % | **+18 499 €** | Saisonnier **rentable** |
+| **A.2** | Méthode vendeuse (~10 mois, min. 1 semaine, tarifs historiques) sur **7 lots** | **72 866,32 €** | 20 % | **−9 566,94 €** | **Non rentable** → bascule vers **B** |
+| **B** | Meublé à l’année | **59 280 €** | 0 % | **+4 680 / +2 980 €** | **Filet rentable** (si pas A / A.1) |
+
+**Conclusion banque :** si l’on exploite le projet **comme la vendeuse**, on **n’est pas rentable** ; dans ce cas, **mieux vaut le scénario B**.
+
+---
+
+## 5.1 Scénario A — Cible business (location saisonnière)
+
+*Scénario retenu par les associés pour l’exploitation du domaine — meilleur cas saisonnier.*
 
 ### Leviers par rapport à l’historique vendeur
 
@@ -136,7 +151,7 @@ Nous disposons donc d’un pipeline de chiffre d’affaires dès la première sa
 
 Exemples : un T2 occupé par 4 personnes entraîne un supplément de **+10 € / nuit** (2 couchages × 5 €) ; un T3 occupé par 6 personnes, un supplément de **+20 € / nuit** (4 couchages × 5 €).
 
-*Le chiffre d’affaires cible de **133 000 €** ci-dessous reste fondé sur les hypothèses déjà retenues (~18 000 € / an par T2 et ~21 600 € / an par T3 — référence Vinon, avec majoration pour les T3). Il ne modélise pas encore le remplissage systématique des couchages additionnels ; les suppléments de **+5 €** constituent donc un **potentiel de chiffre d’affaires complémentaire**, non intégré dans le tableau d’exploitation.*
+*Le chiffre d’affaires cible de **133 000 €** ci-dessous reste fondé sur les hypothèses déjà retenues (~18 000 € / an par T2 et ~21 600 € / an par T3 — référence Vinon, avec majoration pour les T3). Il ne modélise pas encore le remplissage systématique des couchages additionnels ; les suppléments de **+5 €** et un standing / remplissage supérieur peuvent porter le CA **au-delà de 133 000 €**. Ce surcroît n’est **pas chiffré** dans le prévisionnel central (ni dans A.1 / A.2 / B).*
 
 ### Distribution : site propre et plateformes
 
@@ -187,9 +202,61 @@ Cette estimation s’appuie sur les charges réelles de la vendeuse, recalée su
 
 ---
 
-## 6. Scénario B — Location à l’année (hypothèse alternative)
+## 5.2 Scénario A.1 — Moyennes AirDNA (saisonnier rentable)
 
-*Hypothèse de repli : les **7 appartements** seraient loués à l’année en meublé, sans commercialisation saisonnière. Ce n’est pas le modèle d’exploitation retenu, mais il permet d’illustrer la solvabilité du projet sur une base locative classique.*
+*Lecture marché : mêmes 7 lots, capacité 4 / 6, multi-appartements, commissions **20 %**, mais CA calé sur les moyennes AirDNA Gréoux (ADR **65 €**, occupation **65 %**).*
+
+```
+CA brut = 7 × (65 € × 65 % × 365) = 7 × 15 421,25 = 107 948,75 €
+```
+
+| Poste | Montant |
+| ----- | ------: |
+| CA bloc 5 T2 | 77 106,25 € |
+| CA bloc 2 T3 (inclus, même moyenne) | 30 842,50 € |
+| **CA brut 7 lots** | **107 948,75 €** |
+| Commissions plateformes (20 %) | −21 589,75 € |
+| CA net | 86 359 € |
+| Charges courantes | −21 360 € |
+| Annuité emprunt (milieu) | −46 500 € |
+| **Résultat avant IS** | **+18 499 €** |
+
+**Verdict :** saisonnier **rentable**, sous le meilleur cas A mais encore clairement excédentaire.
+
+---
+
+## 5.3 Scénario A.2 — Méthode vendeuse sur 7 lots (saisonnier **non rentable**)
+
+*A.2 reprend uniquement la méthode vendeuse : ouverture **~10 mois**, séjour minimum **une semaine**, tarifs **historiques**. Le parc loué reste **5 T2 + 2 T3** (pas le parc actuel à 5 lots), avec capacité 4 / 6, multi-appartements et commissions **20 %**.*
+
+**Formule :** CA A.2 (7 lots) = ancre **5 T2** (**49 234 €**, réalisé 2025) **+** CA des **2 T3** additionnels.
+
+| Bloc | Contenu | Montant |
+| ---- | ------- | ------: |
+| 5 T2 | Ancre réalisée 2025 (parc vendeuse actuel) — **pas** le CA du scénario | 49 234,00 € |
+| + 2 T3 | 2 × (49 234 / 5) × 1,20 | **+23 632,32 €** |
+| **Total A.2 (headline)** | **5 T2 + 2 T3** | **72 866,32 €** |
+
+| Poste | Montant |
+| ----- | ------: |
+| **CA brut 7 lots** | **72 866,32 €** |
+| Commissions plateformes (20 %) | −14 573,26 € |
+| CA net | 58 293,06 € |
+| Charges courantes | −21 360 € |
+| Annuité emprunt (milieu) | −46 500 € |
+| **Résultat avant IS** | **−9 566,94 €** |
+
+Seuil de solvabilité saisonnier @ 20 % : CA brut ≥ **84 825 €**. Écart A.2 : ≈ **11 959 €** de CA manquant.
+
+**Lecture banque (verrouillée) :** **A.2 = non rentable.** Même en louant les 7 logements avec un CA déjà gonflé par les 2 T3, l’exploitation « comme la vendeuse » + 20 % de commissions aboutit à environ **−9 567 €**. A.2 sert de **stress** : il justifie la méthode Anthony (**A** / a minima **A.1**), et à défaut le **filet B** — pas une troisième voie saisonnière solvable.
+
+**Conséquence :** si l’on reste sur la méthode vendeuse → **mieux vaut basculer sur le scénario B**.
+
+---
+
+## 6. Scénario B — Location à l’année (filet rentable si pas A / A.1)
+
+*Hypothèse de repli : les **7 appartements** seraient loués à l’année en meublé, sans commercialisation saisonnière. Ce n’est pas le modèle d’exploitation retenu, mais c’est le **bon repli** dès lors qu’on ne fait **ni** A **ni** A.1 — et il est **préférable à A.2** (saisonnier « comme la vendeuse », déficitaire).*
 
 ### Base de loyers (7 lots — occupation 100 %)
 
@@ -249,9 +316,10 @@ Dans ce scénario, nous retenons environ **9 000 € par an** pour ces charges. 
 
 ### Synthèse du scénario B
 
-- Le modèle prévu reste la location saisonnière (scénario A) ; le B n’est qu’une **hypothèse alternative**, dans laquelle les **7 logements** seraient loués à l’année en meublé pour un chiffre d’affaires d’environ **59 280 €**.  
+- Le modèle prévu reste la location saisonnière (**A**, ou a minima **A.1**) ; le B n’est qu’une **hypothèse alternative**, dans laquelle les **7 logements** seraient loués à l’année en meublé pour un chiffre d’affaires d’environ **59 280 €**.  
 - Les locataires paient leurs consommations ; la SCI conserve les charges propriétaire (environ **9 000 €** / an), un emprunt sur **20 ans**, et **aucune rémunération** des associés en année 1.  
-- Dans ces conditions, le résultat avant IS reste **excédentaire** (environ **+3 000 à +4 700 €** selon le taux).
+- Dans ces conditions, le résultat avant IS reste **excédentaire** (environ **+3 000 à +4 700 €** selon le taux).  
+- Face à **A.2** (méthode vendeuse sur 7 lots, **non rentable** ≈ −9,6 k€), **B est préférable** : coûts plus légers, fluides locataire, pas de commissions plateforme.
 
 ---
 

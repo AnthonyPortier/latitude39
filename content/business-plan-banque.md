@@ -246,7 +246,7 @@ CA brut = 7 × (65 € × 65 % × 365) = 7 × 15 421,25 = 107 948,75 €
 | Annuité emprunt (milieu) | −46 500 € |
 | **Résultat avant IS** | **−9 566,94 €** |
 
-Seuil de solvabilité saisonnier @ 20 % : CA brut ≥ **84 825 €**. Écart A.2 : ≈ **11 959 €** de CA manquant.
+Seuil de solvabilité saisonnier (commissions 20 %) : CA brut ≥ **84 825 €**. Écart A.2 : ≈ **11 959 €** de CA manquant.
 
 **Lecture banque (verrouillée) :** **A.2 = non rentable.** Même en louant les 7 logements avec un CA déjà gonflé par les 2 T3, l’exploitation « comme la vendeuse » + 20 % de commissions aboutit à environ **−9 567 €**. A.2 sert de **stress** : il justifie la méthode Anthony (**A** / a minima **A.1**), et à défaut le **filet B** — pas une troisième voie saisonnière solvable.
 

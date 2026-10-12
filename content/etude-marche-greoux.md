@@ -38,6 +38,8 @@ Gréoux-les-Bains est le **principal pôle d’hébergement marchand** de l’ag
 
 La commune cumule plusieurs moteurs commerciaux : thermalisme (3ᵉ station française), porte d’entrée du Verdon et du plateau de Valensole, accessibilité (Manosque ~20 min ; Aix ~1 h ; Marseille-Provence ~1 h 30), et proximité du bassin d’emploi Cadarache–ITER.
 
+La gare Manosque–Gréoux-les-Bains a retrouvé en 2024 environ 131 000 voyageurs, soit un niveau comparable à 2015 après le creux sanitaire. La Région et l’agglomération renforcent le pôle d’échanges (cars, stationnement, intermodalité), et la modernisation de la ligne Marseille–Briançon, accélérée vers 2030, consolide l’accès ferroviaire depuis la métropole — un atout d’accessibilité pour les week-ends et les courts séjours, complémentaire de la voiture.
+
 ### 2.3 Locations saisonnières : un marché régional en croissance
 
 La région Provence-Alpes-Côte d’Azur est la **première destination française** pour la location via les grandes plateformes. La série Insee est claire :
@@ -169,7 +171,9 @@ Le Parc naturel régional du Verdon estime environ **1 million** de visiteurs pa
 
 ### 4.7 Vélo et sports nautiques
 
-**Vélo / vélo tout terrain :** le Verdon propose près de **2 000 km** d’itinéraires de vélo tout terrain et plus de **700 km** de routes balisées. Le réseau Provence Verdon affiche **51 circuits** et environ **1 200 km** balisés ; côté Alpes-de-Haute-Provence, l’espace Verdon des Collines (~**280 km**) est animé avec l’office de tourisme de Gréoux et l’association Team Gréoux Bike. Les grandes traversées (TransVerdon, Alpes-Provence) et les événements labellisés (Verdon des Collines, Boucles du Verdon) structurent la saison sportive. Le **vélo à assistance électrique** élargit la clientèle au-delà des sportifs confirmés — cohérent avec la piste de flotte de vélos à assistance électrique du business plan (hors chiffre d’affaires 133 k€).
+**Vélo / vélo tout terrain :** le Verdon propose près de **2 000 km** d’itinéraires de vélo tout terrain et plus de **700 km** de routes balisées. Le réseau Provence Verdon affiche **51 circuits** et environ **1 200 km** balisés ; côté Alpes-de-Haute-Provence, l’espace Verdon des Collines (~**280 km**) est animé avec l’office de tourisme de Gréoux et l’association Team Gréoux Bike. Les grandes traversées (TransVerdon, Alpes-Provence) et les événements labellisés VTT (Verdon des Collines) structurent la saison sportive. Le **vélo à assistance électrique** élargit la clientèle au-delà des sportifs confirmés — cohérent avec la piste de flotte de vélos à assistance électrique du business plan (hors chiffre d’affaires 133 k€).
+
+Au-delà du VTT, le cyclisme sur route s’appuie sur une offre départementale structurée : premier département labellisé Territoire Vélo, boucles balisées, opérations de cols réservés, et une cyclosportive récurrente aux Boucles du Verdon au départ de Gréoux (environ 800 à 1 000 participants). Le Tour de la Provence, avec des étapes dans le 04, entretient la notoriété des routes de Haute-Provence auprès d’une clientèle sportive, cohérente avec des séjours de deux à sept nuits.
 
 **Sports nautiques :** sur le lac d’Esparron, moteurs thermiques interdits : kayak, paddle, canoë, bateaux électriques, croisières. Locations d’avril à octobre selon les bases (Saint-Julien, Esparron, Quinson). Sur le haut Verdon (Castellane / Sainte-Croix), raft, eau vive et baignade complètent l’offre. La communauté d’agglomération Durance Luberon Verdon recense une trentaine de prestataires de pleine nature (randonnée, cyclisme, nautisme, sports aériens).
 
@@ -378,6 +382,9 @@ AirDNA confirme un marché local **profond** : **555** annonces actives à Gréo
 - **Fédération de pêche des Alpes-de-Haute-Provence / association agréée Verdon-Colostre** — pratiquants, parcours Esparron–Gréoux.
 - **Parc naturel régional du Verdon** — fréquentation des gorges (~1 million de visiteurs).
 - **Réseau Provence Verdon / office de tourisme de Gréoux** — kilomètres d’itinéraires, espace Verdon des Collines.
+- **SNCF Open Data** — fréquentation gare Manosque–Gréoux-les-Bains (2024 ≈ 131 000 voyageurs).
+- **Région Sud / communauté d’agglomération Durance Luberon Verdon** — pôle d’échanges multimodal Manosque ; modernisation ligne Marseille–Briançon (horizon 2030).
+- **Agence de développement des Alpes-de-Haute-Provence / FFVélo** — label Territoire Vélo ; Boucles du Verdon (cyclosportive, départ Gréoux) ; Tour de la Provence.
 - **Communauté d’agglomération Durance Luberon Verdon** — schéma de développement économique / tourisme ; office de tourisme communautaire.
 - **Observatoire économique du secteur thermal, édition 2025** / études clientèles thermales ; presse La Provence, Dauphiné, Haute Provence Info (thermes, lavande, ITER).
 - **Business plan banque** — chiffre d’affaires scénario A 133 k€ · scénario B 59 280 € · historique vendeur · pipeline 2027.

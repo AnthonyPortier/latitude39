@@ -21,6 +21,11 @@ const PDFS: PdfEntry[] = [
     noTranslate: true,
   },
   {
+    name: "Devis-menuiseries-DC3315-Alaplast.pdf",
+    label: "Devis menuiseries Alaplast (DC3315)",
+    noTranslate: true,
+  },
+  {
     name: "SCI-Latitude39-etude-marche-greoux.pdf",
     label: "Étude de marché Gréoux",
   },
@@ -67,9 +72,10 @@ export default function TelechargementsPage() {
         Téléchargements PDF
       </h1>
       <p className="mt-3 text-pierre-700">
-        Dernière version du <span translate="no">Business plan</span>, études
-        de marché, <span translate="no">Fiche appartements</span> et
-        présentation des associés.
+        Dernière version du <span translate="no">Business plan</span>, devis
+        travaux, études de marché,{" "}
+        <span translate="no">Fiche appartements</span> et présentation des
+        associés.
       </p>
 
       <ul className="mt-10 divide-y divide-[var(--line)] border-y border-[var(--line)]">

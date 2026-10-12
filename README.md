@@ -23,7 +23,7 @@ npm run build && npm run start
 - `content/` — documents sources
 - `public/photos/` — photos domaine (accueil)
 - `public/appartements/` — photos fiche appartements
-- `public/pdfs/` — Business plan, études, fiche appartements
+- `public/pdfs/` — Business plan, devis menuiseries, études, fiche appartements
 
 ## Pages
 

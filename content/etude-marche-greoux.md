@@ -18,7 +18,7 @@ Le périmètre retenu est le suivant :
 
 - **Géographie :** commune de Gréoux-les-Bains, bassin Durance–Luberon–Verdon (communauté d’agglomération Durance Luberon Verdon), avec ancrage sur Vinon-sur-Verdon / Manosque et, en second rang, le département et la région Provence-Alpes-Côte d’Azur.
 - **Produit :** parc de **7 logements** (5 T2 et 2 T3) sur un terrain d’environ **5 178 m²**, avec piscine et terrain de pétanque, hors cœur piétonnier des thermes.
-- **Modèle économique :** location saisonnière meublée (scénario A du business plan), ouverte **toute l’année**, séjour minimum d’**une nuit** ; le scénario B (location meublée à l’année) sert uniquement de filet de sécurité.
+- **Modèle économique :** location saisonnière meublée (**scénario A** du business plan — cible), ouverte **toute l’année**, séjour minimum d’**une nuit** ; **A.1** (moyennes AirDNA) et **A.2** (méthode vendeuse, stress non rentable) complètent la lecture ; le **scénario B** (meublé à l’année) sert de filet — **préférable à A.2**.
 
 L’étude s’appuie sur des sources publiques (Institut national de la statistique et des études économiques (Insee), agence de développement des Alpes-de-Haute-Provence, outil AirDNA, Organisation ITER, Commissariat à l’énergie atomique et aux énergies alternatives, fédération de pêche, presse régionale, observatoires du thermalisme) et sur une **référence d’exploitation réelle** du même bassin (T2 Vinon-sur-Verdon, outil PriceLabs, extrait octobre 2026). Les tableaux multi-années prêts à grapher figurent dans le document [etude-marche-graphiques.md](etude-marche-graphiques.md).
 
@@ -330,6 +330,15 @@ Le listing de référence combine une occupation **supérieure** aux moyennes de
 
 ## 10. Cohérence avec le business plan
 
+Quatre lectures du même parc (**5 T2 + 2 T3**). **A** et **A.1** démontrent un saisonnier **rentable** (133 000 € et ≈ 107 949 €). **A.2** applique la méthode vendeuse sur 7 lots (49 234 + 23 632 = **72 866 €**) : sous 20 % de commissions, le résultat est **négatif** (≈ −9,6 k€). **Conclusion :** rester « comme la vendeuse » n’est pas viable pour servir la dette ; il faut la méthode Anthony / les moyennes de marché, **sinon basculer vers le scénario B** (meublé à l’année, encore excédentaire).
+
+| Code | Logique | CA brut 7 lots | Résultat avant IS | Verdict |
+| ---- | ------- | -------------: | ----------------: | ------- |
+| **A** | Méthode Anthony | **133 000 €** | **+38 140 €** | Saisonnier rentable (cible) |
+| **A.1** | Moyennes AirDNA | **107 948,75 €** | **+18 499 €** | Saisonnier rentable |
+| **A.2** | Méthode vendeuse sur 7 lots | **72 866,32 €** | **−9 566,94 €** | **Non rentable** → mieux vaut **B** |
+| **B** | Meublé à l’année | **59 280 €** | **+4 680 / +2 980 €** | Filet rentable |
+
 ### 10.1 Scénario A — saisonnier (**133 000 €**)
 
 Le chiffre d’affaires cible du domaine se construit ainsi :
@@ -340,7 +349,7 @@ Le chiffre d’affaires cible du domaine se construit ainsi :
 | 2 T3 | **21 600 €** chacun (un peu plus qu’un T2, car plus grands / 6 couchages) | 2 × 21 600 € | **43 200 €** |
 | **Total** | | | **133 200 €** → arrondi **133 000 €** |
 
-D’où vient le **18 000 €** par T2 ? Du T2 déjà exploité à Vinon-sur-Verdon par Manon Pénicaud et Anthony Portier : **18 257 €** selon la prévision annuelle PriceLabs (occupation **87 %**). Les **+5 € par nuit et par couchage** au-delà de 2 personnes ne sont **pas** comptés dans ce total : c’est une marge de sécurité supplémentaire.
+D’où vient le **18 000 €** par T2 ? Du T2 déjà exploité à Vinon-sur-Verdon par Manon Pénicaud et Anthony Portier : **18 257 €** selon la prévision annuelle PriceLabs (occupation **87 %**). Les **+5 € par nuit et par couchage** au-delà de 2 personnes ne sont **pas** comptés dans ce total : un standing / remplissage supérieur peut porter le CA **au-delà de 133 000 €**, sans être chiffré dans le prévisionnel central.
 
 **Comment atteindre environ 18 000 € sur un T2 ?** Plusieurs combinaisons prix × remplissage marchent. Plus le prix moyen par nuit est élevé, moins il faut de nuits louées :
 
@@ -352,11 +361,19 @@ D’où vient le **18 000 €** par T2 ? Du T2 déjà exploité à Vinon-sur-Ver
 
 Autrement dit : même avec une occupation proche de la moyenne du marché (AirDNA Gréoux **65 %**, PriceLabs quartier **62 %**) et un prix autour de **65–72 €**, on reste dans la zone des ~18 000 € / T2. La cible n’exige pas d’être en haut de gamme toute l’année.
 
-### 10.2 Scénario B — repli à l’année (**~59 280 €**)
+### 10.2 Scénario A.1 — moyennes AirDNA (**107 948,75 €**)
 
-7 logements meublés à l’année (5 × 660 € + 2 × 820 € / mois). Couvre encore l’annuité 20 ans avec un résultat avant impôt sur les sociétés légèrement positif (~**+3 à +4,7 k€**). Filet de sécurité, non stratégie préférée.
+CA = **7 × (65 € × 65 % × 365) = 107 948,75 €** (les 2 T3 sont inclus). Après 20 % de commissions, charges et annuité : **+18 499 €** avant IS. Saisonnier **rentable**, lecture marché plus prudente que A.
 
-Les chiffres d’affaires des scénarios A et B sont **identiques** au [business plan banque](business-plan-banque.md).
+### 10.3 Scénario A.2 — méthode vendeuse sur 7 lots (**72 866,32 €**, **non rentable**)
+
+Ce n’est **pas** le CA actuel à 5 lots. Ancre 5 T2 = **49 234 €** ; **+** 2 T3 = **23 632,32 €** → **CA 7 lots = 72 866,32 €**. Règles vendeuse (~10 mois, min. une semaine, tarifs historiques) + 20 % de commissions → **−9 566,94 €** avant IS. **Stress négatif :** rester comme la vendeuse n’est pas viable ; **mieux vaut B**.
+
+### 10.4 Scénario B — repli à l’année (**~59 280 €**)
+
+7 logements meublés à l’année (5 × 660 € + 2 × 820 € / mois). Couvre encore l’annuité 20 ans avec un résultat avant impôt sur les sociétés légèrement positif (~**+3 à +4,7 k€**). Filet de sécurité — **préférable à A.2** si l’on ne fait pas A / A.1.
+
+Les chiffres d’affaires des scénarios **A / A.1 / A.2 / B** sont **identiques** au [business plan banque](business-plan-banque.md).
 
 ---
 
@@ -364,9 +381,9 @@ Les chiffres d’affaires des scénarios A et B sont **identiques** au [business
 
 Gréoux-les-Bains offre un **marché d’hébergement structurellement porteur**. Le thermalisme (~26 000 curistes / an), le Verdon, la lavande, la pêche, le vélo et les sports nautiques, la saison des mariages et le pôle Cadarache–ITER (plusieurs milliers de personnes sur site, horizon opérations 2034+) créent une **demande diversifiée** et une saison longue. Les pouvoirs publics (agglomération, offices de tourisme, congrès, thermes, événementiel) agissent explicitement pour **lisser la saison creuse**.
 
-AirDNA confirme un marché local **profond** : **555** annonces actives à Gréoux, occupation **65 %**, score de demande **85/100**. PriceLabs ancre la performance unitaire du projet à ≈ **18 257 €** et **87 %** d’occupation sur un T2 comparable. Le chiffre d’affaires cible de **133 000 €** (7 lots) reste **crédible et non surestimé** ; le scénario B (~**59 k€**) reste solvable.
+AirDNA confirme un marché local **profond** : **555** annonces actives à Gréoux, occupation **65 %**, score de demande **85/100**. PriceLabs ancre la performance unitaire du projet à ≈ **18 257 €** et **87 %** d’occupation sur un T2 comparable. Le chiffre d’affaires cible **A** de **133 000 €** (7 lots) reste **crédible** ; **A.1** (~108 k€) reste rentable ; **A.2** (~73 k€) est **non rentable** et pousse vers **B** (~**59 k€**, encore solvable).
 
-**En synthèse :** marché porteur, demande multi-moteurs, données AirDNA et PriceLabs convergentes, prévisionnel cohérent avec le dossier.
+**En synthèse :** marché porteur, demande multi-moteurs, données AirDNA et PriceLabs convergentes ; prévisionnel cohérent — **A / A.1** pour le saisonnier rentable, **B** si l’on refuse la méthode Anthony, **pas A.2**.
 
 ---
 
@@ -387,4 +404,4 @@ AirDNA confirme un marché local **profond** : **555** annonces actives à Gréo
 - **Agence de développement des Alpes-de-Haute-Provence / FFVélo** — label Territoire Vélo ; Boucles du Verdon (cyclosportive, départ Gréoux) ; Tour de la Provence.
 - **Communauté d’agglomération Durance Luberon Verdon** — schéma de développement économique / tourisme ; office de tourisme communautaire.
 - **Observatoire économique du secteur thermal, édition 2025** / études clientèles thermales ; presse La Provence, Dauphiné, Haute Provence Info (thermes, lavande, ITER).
-- **Business plan banque** — chiffre d’affaires scénario A 133 k€ · scénario B 59 280 € · historique vendeur · pipeline 2027.
+- **Business plan banque** — scénarios A 133 k€ · A.1 107 948,75 € · A.2 72 866,32 € (non rentable) · B 59 280 € · historique vendeur · pipeline 2027.

@@ -187,9 +187,11 @@ Complément volume comité régional du tourisme / LightHouse (méthode distinct
 
 ## 11. Cohérence business plan (rappel, ne pas grapher comme « marché »)
 
-| Scénario | Chiffre d’affaires | Lots |
-| -------- | -----------------: | ---- |
-| A saisonnier | 133 000 € | 7 |
-| B année | 59 280 € | 7 |
-| Unitaire T2 (ancre) | ~18 000 € | — |
-| Prévision PriceLabs Vinon | 18 257 € | 1 annonce |
+| Scénario | Chiffre d’affaires | Lots | Verdict |
+| -------- | -----------------: | ---- | ------- |
+| A saisonnier (Anthony) | 133 000 € | 7 | Rentable (cible) |
+| A.1 AirDNA | 107 948,75 € | 7 | Rentable |
+| A.2 méthode vendeuse | 72 866,32 € | 7 | **Non rentable** → B |
+| B année | 59 280 € | 7 | Filet rentable |
+| Unitaire T2 (ancre) | ~18 000 € | — | — |
+| Prévision PriceLabs Vinon | 18 257 € | 1 annonce | — |

@@ -308,7 +308,10 @@ export function ChartConstruction133k() {
         </div>
       </div>
       <div className="chart-panel">
-        <ChartTitle title="Scénarios de chiffre d’affaires" />
+        <ChartTitle
+          title="Scénarios de chiffre d’affaires"
+          subtitle="A / A.1 rentables · A.2 non rentable → B"
+        />
         <div className="h-64 w-full">
           <ResponsiveContainer>
             <BarChart data={scenariosCa}>

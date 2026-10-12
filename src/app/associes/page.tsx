@@ -138,18 +138,19 @@ export default function AssociesPage() {
             <article className="grid gap-6 py-10 sm:grid-cols-[9.5rem_1fr] sm:gap-8">
               <div className="sm:pt-1">
                 {person.photo ? (
-                  <Image
-                    src={person.photo.src}
-                    alt={person.photo.alt}
-                    width={152}
-                    height={190}
-                    className="h-44 w-36 object-cover object-top"
-                    sizes="144px"
-                    priority={index === 0}
-                  />
+                  <div className="relative aspect-[3/4] w-36 overflow-hidden bg-verdon-100/40">
+                    <Image
+                      src={person.photo.src}
+                      alt={person.photo.alt}
+                      fill
+                      className="object-cover object-[center_18%]"
+                      sizes="144px"
+                      priority={index === 0}
+                    />
+                  </div>
                 ) : (
                   <div
-                    className="flex h-44 w-36 items-end border border-[var(--line)] bg-verdon-100/50 px-3 py-3"
+                    className="flex aspect-[3/4] w-36 items-end border border-[var(--line)] bg-verdon-100/50 px-3 py-3"
                     aria-hidden
                   >
                     <span className="font-display text-3xl text-verdon-800">

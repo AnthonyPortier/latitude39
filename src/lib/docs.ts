@@ -7,7 +7,8 @@ export type DocSlug =
   | "business-plan-banque"
   | "etude-marche-greoux"
   | "etude-marche-graphiques"
-  | "presentation-appartements";
+  | "presentation-appartements"
+  | "presentation-associes";
 
 export const DOC_META: Record<
   DocSlug,
@@ -35,6 +36,12 @@ export const DOC_META: Record<
     nav: "Appartements",
     description:
       "Présentation des 7 logements du domaine Gréoux — 5 T2 et 2 T3, photos et équipements.",
+  },
+  "presentation-associes": {
+    title: "Les associés",
+    nav: "Les associés",
+    description:
+      "Présentation des quatre associés de la SCI Latitude 39 — rôles, parcours et apports.",
   },
 };
 

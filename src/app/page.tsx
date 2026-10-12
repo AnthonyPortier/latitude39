@@ -46,10 +46,16 @@ const sections = [
     text: "7 logements — 5 T2 et 2 T3, photos et équipements.",
   },
   {
+    href: "/associes",
+    title: "Les associés",
+    noTranslate: false,
+    text: "Pauline · Manon · Michaël · Anthony — rôles et parcours.",
+  },
+  {
     href: "/telechargements",
     title: "Téléchargements PDF",
     noTranslate: false,
-    text: "Business plan, études et fiche appartements.",
+    text: "Business plan, études, fiche appartements et associés.",
   },
 ];
 

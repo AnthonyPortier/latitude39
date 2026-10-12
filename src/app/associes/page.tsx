@@ -12,59 +12,71 @@ export const metadata: Metadata = {
 type Associate = {
   name: string;
   role: string;
-  apport: string;
+  meta: string;
   photo?: { src: string; alt: string };
-  paragraphs: string[];
+  bio: string;
+  bullets: string[];
 };
 
 const associates: Associate[] = [
   {
     name: "Pauline Renaux",
     role: "Relation clients et messages",
-    apport: "25 % · apport 15 000 €",
+    meta: "25 % · apport 15 000 € · Gréoux-les-Bains",
     photo: {
       src: "/associes/pauline-renaux.jpg",
       alt: "Portrait de Pauline Renaux",
     },
-    paragraphs: [
-      "Assistante dentaire en formation (Académie d’Art Dentaire Isabelle Dutelle, Aix-en-Provence), Pauline vit à Gréoux-les-Bains. Son parcours mêle enseignement (professeure des écoles), un an en Nouvelle-Zélande, puis plusieurs années d’accueil et de service en salle.",
-      "Elle met au service du projet son sens de l’organisation, de l’écoute et de la relation client : suivi des messages voyageurs, qualité d’accueil à distance et coordination des échanges du quotidien.",
+    bio: "Assistante dentaire en formation et en exercice (cabinet à Pierrevert), Pauline a un parcours tourné vers l’accueil, l’écoute et l’organisation : professeure des écoles, séjour d’un an en Nouvelle-Zélande, puis plusieurs années en bar et service en salle.",
+    bullets: [
+      "Conversations avec les voyageurs lorsque les messages automatisés ne suffisent pas",
+      "Accueil de qualité — ton chaleureux et résolution des demandes hors script",
+      "Organisation administrative légère (planning, dossiers, relances)",
+      "Présence locale à Gréoux-les-Bains, à proximité du domaine",
     ],
   },
   {
     name: "Manon Pénicaud",
-    role: "Suivi administratif",
-    apport: "25 % · apport 15 000 €",
+    role: "Suivi administratif, urbanisme, pilotage",
+    meta: "25 % · apport 15 000 € · Vinon-sur-Verdon",
     photo: {
       src: "/associes/manon-penicaud.jpg",
       alt: "Portrait de Manon Pénicaud",
     },
-    paragraphs: [
-      "Titulaire d’un master Droit et métiers de l’urbanisme et d’une licence professionnelle Métiers de l’immobilier, Manon a exercé comme juriste en urbanisme, puis chargée d’opérations Habitat privé — pilotage de programmes de travaux, plans de financement et coordination d’intervenants.",
-      "Depuis 2023, elle assure un appui métier chez Enedis (outils de pilotage, reporting), après une formation Data Analyst. Elle exploite déjà avec Anthony Portier un T2 en location meublée à Vinon-sur-Verdon (référence PriceLabs du scénario A).",
-      "Pour la SCI, elle contribue à l’examen urbanistique, au suivi budgétaire des travaux et à la structuration des outils de pilotage de l’activité locative.",
+    bio: "Titulaire d’un master Droit et Métiers de l’urbanisme et d’une licence professionnelle Métiers de l’immobilier, Manon a enchaîné juriste en urbanisme, chargée d’opérations habitat, puis data analyst. Elle co-exploite déjà avec Anthony Portier le T2 de Vinon-sur-Verdon (référence PriceLabs du scénario A).",
+    bullets: [
+      "Suivi administratif, échéances et échanges avec les intervenants",
+      "Examen urbanistique et suivi du programme de travaux",
+      "Budgets prévisionnels et tableaux de bord simples",
+      "Expérience locative déjà en place (T2 Vinon ≈ 18 257 € / occupation 87 %)",
     ],
   },
   {
     name: "Michaël Lezzi",
-    role: "Jardin, piscine et cycles",
-    apport: "25 % · apport 15 000 €",
-    paragraphs: [
-      "Professionnel du cycle depuis 2018, Michaël a géré une activité saisonnière de location de vélos à Gréoux-les-Bains (accueil, vente, suivi technique). Il a obtenu le diplôme d’Entrepreneur de petite entreprise du CNAM et pris des responsabilités croissantes au sein de Bachelas Bike Shop.",
-      "Dans le projet, il assure en régie l’entretien du jardin, de la piscine et du parc cycles — sans prestataire externe pour le gros entretien — et contribue à la qualité d’accueil liée à l’offre vélo.",
+    role: "Jardin, piscine, gros entretien · vélos",
+    meta: "25 % · apport 15 000 € · Gréoux-les-Bains",
+    bio: "Professionnel du cycle depuis 2018, Michaël a géré une activité saisonnière de location de vélos à Gréoux (accueil, vente, suivi technique). Titulaire du diplôme d’Entrepreneur de petite entreprise du Conservatoire national des arts et métiers.",
+    bullets: [
+      "Entretien courant du jardin, de la piscine et des abords",
+      "Gros entretien technique en binôme avec Anthony Portier",
+      "Location et maintenance des vélos à assistance électrique en régie",
+      "Expérience locale de l’accueil touristique à Gréoux",
     ],
   },
   {
     name: "Anthony Portier",
-    role: "Travaux, ménage et numérique",
-    apport: "25 % · apport 15 000 €",
+    role: "Travaux, ménage, présence numérique",
+    meta: "25 % · apport 15 000 € · Vinon-sur-Verdon",
     photo: {
       src: "/associes/anthony-portier.jpg",
       alt: "Portrait d’Anthony Portier",
     },
-    paragraphs: [
-      "Développeur web full stack, Anthony vit à Vinon-sur-Verdon. Il réalise une part importante des travaux lui-même (maîtrise des coûts chantier, division de la maison principale en deux T3) et porte le site de réservation direct ainsi que l’automatisation et la tarification.",
-      "Il exploite déjà avec Manon Pénicaud le T2 de Vinon-sur-Verdon qui sert de référence au business plan (prévision PriceLabs ≈ 18 257 €, occupation 87 %). Un studio supplémentaire sur le même terrain arrive en location meublée non professionnelle, ce qui étend progressivement l’expérience de gestion saisonnière.",
+    bio: "Développeur web full stack, Anthony exploite déjà avec succès le T2 de Vinon-sur-Verdon et réalise lui-même une partie importante des travaux. Il apporte à la SCI le savoir-faire chantier, l’expérience locative saisonnière et les compétences numériques.",
+    bullets: [
+      "Réalisation en propre d’une part significative des travaux (enveloppe 50 000 €)",
+      "Exploitation déjà démontrée — référence chiffrée du scénario A",
+      "Ménage et interventions courantes (gros entretien avec Michaël Lezzi)",
+      "Site vitrine, automatisation et canal de réservation direct",
     ],
   },
 ];
@@ -81,8 +93,8 @@ export default function AssociesPage() {
           apport de 15&nbsp;000&nbsp;€ par personne pour les{" "}
           <strong className="font-semibold text-pierre-800">
             frais de notaire
-          </strong>
-          . Aucune rémunération en année&nbsp;1.
+          </strong>{" "}
+          (60&nbsp;000&nbsp;€ au total). Aucune rémunération en année&nbsp;1.
         </p>
         <p className="mt-3 text-sm text-pierre-600">
           Documents liés :{" "}
@@ -107,6 +119,16 @@ export default function AssociesPage() {
           >
             PDF
           </Link>
+        </p>
+      </Reveal>
+
+      <Reveal delay={0.04}>
+        <p className="mt-8 max-w-2xl leading-relaxed text-pierre-700">
+          L’équipe combine accueil, administration et urbanisme, entretien
+          technique / cycle, et exploitation locative / numérique — sans
+          sous-traitance lourde sur les postes critiques du quotidien. Deux
+          couples d’associés vivent déjà dans le bassin Verdon (Gréoux et
+          Vinon).
         </p>
       </Reveal>
 
@@ -146,15 +168,15 @@ export default function AssociesPage() {
                 <p className="mt-1 text-sm uppercase tracking-[0.14em] text-olivier-700">
                   {person.role}
                 </p>
-                <p className="mt-1 text-sm text-pierre-500">{person.apport}</p>
-                {person.paragraphs.map((text) => (
-                  <p
-                    key={text.slice(0, 48)}
-                    className="mt-4 text-[1.02rem] leading-relaxed text-pierre-800"
-                  >
-                    {text}
-                  </p>
-                ))}
+                <p className="mt-1 text-sm text-pierre-500">{person.meta}</p>
+                <p className="mt-4 text-[1.02rem] leading-relaxed text-pierre-800">
+                  {person.bio}
+                </p>
+                <ul className="mt-4 list-disc space-y-1.5 pl-5 text-[0.98rem] leading-relaxed text-pierre-700">
+                  {person.bullets.map((item) => (
+                    <li key={item}>{item}</li>
+                  ))}
+                </ul>
               </div>
             </article>
           </Reveal>

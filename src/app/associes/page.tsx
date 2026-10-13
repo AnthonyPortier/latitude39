@@ -55,6 +55,10 @@ const associates: Associate[] = [
     name: "Michaël Lezzi",
     role: "Jardin, piscine, gros entretien · vélos",
     meta: "25 % · apport 15 000 € · Gréoux-les-Bains",
+    photo: {
+      src: "/associes/michael-lezzi.jpg",
+      alt: "Portrait de Michaël Lezzi",
+    },
     bio: "Professionnel du cycle depuis 2018, Michaël a géré une activité saisonnière de location de vélos à Gréoux (accueil, vente, suivi technique). Titulaire du diplôme d’Entrepreneur de petite entreprise du Conservatoire national des arts et métiers.",
     bullets: [
       "Entretien courant du jardin, de la piscine et des abords",

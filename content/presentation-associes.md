@@ -87,6 +87,7 @@ Manon Pénicaud vit à Vinon-sur-Verdon. Titulaire d’un master en Droit et Mé
 
 ## 3. Michaël Lezzi
 
+![Michaël Lezzi](/associes/michael-lezzi.jpg)
 
 **Associé — 25 % · apport 15 000 €**  
 **Ville :** Gréoux-les-Bains (04800)

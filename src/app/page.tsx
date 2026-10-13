@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { HomeHero } from "@/components/HomeHero";
-import { ChapterIntro, FullBleedPhoto } from "@/components/FullBleedPhoto";
+import { ChapterIntro } from "@/components/FullBleedPhoto";
+import { PhotoGallery } from "@/components/PhotoGallery";
 import { Reveal } from "@/components/Reveal";
 
 const highlights = [
@@ -59,6 +60,37 @@ const sections = [
   },
 ];
 
+const domaineGallery = [
+  {
+    src: "/photos/domaine-piscine.webp",
+    alt: "Piscine et jardin du domaine",
+    caption: "Piscine et parc arboré — cœur de l’offre saisonnière.",
+  },
+  {
+    src: "/photos/domaine-jardin.webp",
+    alt: "Jardin et terrasse avec roses",
+    caption: "Jardin et terrasse — roses, ombre et vie extérieure.",
+  },
+  {
+    src: "/photos/domaine-chalet.webp",
+    alt: "Terrasse du chalet en bois",
+    caption: "Chalet et terrasse bois — un des lots du domaine.",
+  },
+];
+
+const ambianceGallery = [
+  {
+    src: "/photos/ambiance-fenetre.webp",
+    alt: "Vue depuis une fenêtre du domaine vers le château de Gréoux",
+    caption: "Vue depuis l’intérieur — jardin, pétanque et château de Gréoux.",
+  },
+  {
+    src: "/photos/ambiance-cheminee.webp",
+    alt: "Salon avec cheminée et mezzanine",
+    caption: "Pièce de vie — cheminée en pierre, poutres et mezzanine.",
+  },
+];
+
 export default function HomePage() {
   return (
     <>
@@ -69,26 +101,9 @@ export default function HomePage() {
         text="Piscine, jardin et chalet — le cadre du mas à Gréoux-les-Bains, entre pierre et lumière du Verdon."
       />
 
-      <FullBleedPhoto
-        src="/photos/domaine-piscine.webp"
-        alt="Piscine et jardin du domaine"
-        caption="Piscine et parc arboré — cœur de l’offre saisonnière."
-        objectPosition="50% 60%"
-      />
-
-      <FullBleedPhoto
-        src="/photos/domaine-jardin.webp"
-        alt="Jardin et terrasse avec roses"
-        caption="Jardin et terrasse — roses, ombre et vie extérieure."
-        objectPosition="50% 45%"
-      />
-
-      <FullBleedPhoto
-        src="/photos/domaine-chalet.webp"
-        alt="Terrasse du chalet en bois"
-        caption="Chalet et terrasse bois — un des lots du domaine."
-        objectPosition="50% 55%"
-      />
+      <section className="mx-auto max-w-6xl px-5 pb-8 sm:px-8 md:px-12 lg:px-16">
+        <PhotoGallery images={domaineGallery} aspect="landscape" />
+      </section>
 
       <section className="mx-auto max-w-6xl px-5 py-16 sm:px-8 md:px-12 md:py-24 lg:px-16">
         <Reveal>
@@ -122,20 +137,9 @@ export default function HomePage() {
         text="Vue sur Gréoux — volumes, cheminée et lumière naturelle."
       />
 
-      <FullBleedPhoto
-        src="/photos/ambiance-fenetre.webp"
-        alt="Vue depuis une fenêtre du domaine vers le château de Gréoux"
-        caption="Vue depuis l’intérieur — jardin, pétanque et château de Gréoux."
-        objectPosition="center"
-        heightClass="h-[55svh] min-h-[18rem] md:h-[65svh]"
-      />
-
-      <FullBleedPhoto
-        src="/photos/ambiance-cheminee.webp"
-        alt="Salon avec cheminée et mezzanine"
-        caption="Pièce de vie — cheminée en pierre, poutres et mezzanine."
-        objectPosition="50% 40%"
-      />
+      <section className="mx-auto max-w-6xl px-5 pb-16 sm:px-8 md:px-12 lg:px-16">
+        <PhotoGallery images={ambianceGallery} aspect="portrait" />
+      </section>
 
       <section className="border-t border-[var(--line)] bg-[#eef2ef]/70">
         <div className="mx-auto max-w-6xl px-5 py-16 sm:px-8 md:px-12 md:py-24 lg:px-16">

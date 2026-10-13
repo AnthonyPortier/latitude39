@@ -34,21 +34,22 @@ Le compromis a été signé le **9 octobre 2026** ; l’acte authentique est pr�
 
 Nous demandons un emprunt de **650 000 €** afin de financer l’intégralité du prix d’achat et des travaux. Les apports des associés, soit **60 000 €**, serviront exclusivement à régler les frais de notaire. Les banques sollicitent souvent un apport de l’ordre de **10 %** du prix d’acquisition.
 
-### Emploi des fonds — enveloppe travaux (≈ 50 000 €)
+### Emploi des fonds — enveloppe travaux (50 000 €)
 
-L’enveloppe de **50 000 €** finance le remplacement des menuiseries (simple vitrage → double vitrage PVC Rehau, pose comprise), la climatisation Daikin Sensira couverte par le devis Verdon PE (trois gîtes, salon et cuisine — pas l’ensemble des 7 lots), et la séparation de la maison principale en **2× T3** (dont un T3 déjà complet : cuisine et salle de bains à créer sur l’autre). Le budget division n’est pas un forfait fixe : **c’est le reste de l’enveloppe après les deux devis**.
+L’enveloppe de **50 000 €** finance le remplacement des menuiseries (simple vitrage → double vitrage PVC Rehau, pose comprise), la climatisation Daikin Sensira couverte par le devis Verdon PE (trois gîtes, salon et cuisine — pas l’ensemble des 7 lots), puis — **avec le reste après ces deux devis** — la séparation de la maison principale en **2× T3** (séparation + cuisine + SDB ; un T3 déjà complet). Le budget division n’est pas un forfait fixe indépendant : **50 000 − 29 624,40 − 6 016,80 = 14 358,80 €**.
 
 | Poste | Montant |
 | ----- | ------- |
-| Menuiseries double vitrage (devis DC3315 Alaplast) | **29 624,40 € TTC** |
-| Clim Daikin Sensira (devis DE00000899 Verdon PE) | **6 016,80 € TTC** |
+| Menuiseries Alaplast DC3315 | **29 624,40 € TTC** |
+| Clim Verdon PE DE00000899 | **6 016,80 € TTC** |
 | **Sous-total devis** | **35 641,20 € TTC** |
-| **Reste pour la division** (séparation / cuisine / SDB du 2ᵉ T3) | **14 358,80 €** |
+| **Reste = budget division T3** (séparation + cuisine + SDB) | **14 358,80 €** |
 | **Total enveloppe** | **50 000 €** |
+
 
 **Devis menuiseries joint :** [Devis-menuiseries-DC3315.pdf](/pdfs/Devis-menuiseries-DC3315-Alaplast.pdf) — SARL Alaplast (Sainte-Tulle), devis du 28/09/2026. Totaux : **28 080 € HT** · TVA 5,5 % **1 544,40 €** · **29 624,40 € TTC**. Objet : fourniture et pose de menuiseries PVC blanc Rehau (double vitrage 4-20-4), en remplacement du simple vitrage partout.
 
-**Devis climatisation joint :** [Devis-clim-DE00000899.pdf](/pdfs/Devis-clim-DE00000899-Verdon.pdf) — SARL Verdon Plomberie Electricité (Roumoules), devis **DE00000899** du **12/10/2026**. Totaux : **5 014 € HT** · TVA 20 % **1 002,80 €** · **6 016,80 € TTC**. Objet : mono-splits Daikin Sensira + pose — climatisation de trois gîtes (mono-split 2,5 kW), salon (5 kW) et cuisine (3,5 kW). Ce devis ne couvre pas l’ensemble des 7 lots.
+**Devis climatisation joint :** [Devis-clim-DE00000899.pdf](/pdfs/Devis-clim-DE00000899-Verdon.pdf) — SARL Verdon Plomberie Electricité (Roumoules), devis **DE00000899** du **12/10/2026**. Totaux : **5 014 € HT** · TVA 20 % **1 002,80 €** · **6 016,80 € TTC**. Objet : mono-splits Daikin Sensira + pose — climatisation de trois gîtes (mono-split 2,5 kW), salon (5 kW) et cuisine (3,5 kW). Ce devis ne couvre pas l’ensemble des 7 lots. Après menuiseries + clim (**35 641,20 € TTC**), le **reste d’enveloppe 14 358,80 €** finance la division T3 (séparation + cuisine + SDB).
 
 **En année 1**, aucune rémunération ne sera versée aux associés : la priorité est de consolider la trésorerie de la SCI.
 
@@ -468,7 +469,7 @@ Nous demandons un emprunt de **650 000 €** pour financer l’intégralité du 
 - [ ] Accord de principe de la banque (emprunt 650 000 €, taux ≤ 4 %)  
 - [ ] Plan de reprise des réservations 2027 (cession et information des locataires)  
 - [x] **Devis menuiseries** : Alaplast DC3315 joint — **29 624,40 € TTC** ([Devis-menuiseries-DC3315.pdf](/pdfs/Devis-menuiseries-DC3315-Alaplast.pdf))  
-- [x] **Devis clim** : Verdon PE DE00000899 joint — **6 016,80 € TTC** ([Devis-clim-DE00000899.pdf](/pdfs/Devis-clim-DE00000899-Verdon.pdf)) — trois gîtes + salon + cuisine (pas les 7 lots) ; reste enveloppe **14 358,80 €** = budget division T3
+- [x] **Devis clim** : Verdon PE DE00000899 joint — **6 016,80 € TTC** ([Devis-clim-DE00000899.pdf](/pdfs/Devis-clim-DE00000899-Verdon.pdf)) — trois gîtes + salon + cuisine (pas les 7 lots) ; reste enveloppe **14 358,80 €** → division T3
 
 ---
 

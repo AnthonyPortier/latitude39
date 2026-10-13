@@ -1,8 +1,12 @@
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import type { Components } from "react-markdown";
+import { PhotoGallery } from "@/components/PhotoGallery";
+import { splitMarkdownGalleries } from "@/lib/markdown-galleries";
 
 type MarkdownDocProps = {
   content: string;
@@ -44,12 +48,39 @@ const components: Components = {
   },
 };
 
-export function MarkdownDoc({ content }: MarkdownDocProps) {
+function MarkdownBlock({ content }: { content: string }) {
   return (
-    <article className="prose-dossier">
-      <ReactMarkdown remarkPlugins={[remarkGfm]} components={components}>
-        {content}
-      </ReactMarkdown>
+    <ReactMarkdown remarkPlugins={[remarkGfm]} components={components}>
+      {content}
+    </ReactMarkdown>
+  );
+}
+
+export function MarkdownDoc({ content }: MarkdownDocProps) {
+  const segments = splitMarkdownGalleries(content);
+  const hasGallery = segments.some((segment) => segment.type === "gallery");
+
+  if (!hasGallery) {
+    return (
+      <article className="prose-dossier">
+        <MarkdownBlock content={content} />
+      </article>
+    );
+  }
+
+  return (
+    <article className="prose-dossier prose-dossier--with-galleries">
+      {segments.map((segment, index) => {
+        if (segment.type === "markdown") {
+          return <MarkdownBlock key={`md-${index}`} content={segment.content} />;
+        }
+
+        return (
+          <div key={`gallery-${index}`} className="not-prose my-8">
+            <PhotoGallery images={segment.images} aspect="landscape" />
+          </div>
+        );
+      })}
     </article>
   );
 }

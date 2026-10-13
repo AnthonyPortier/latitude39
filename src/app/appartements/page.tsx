@@ -11,7 +11,7 @@ export default function AppartementsPage() {
   const content = readDoc("presentation-appartements");
 
   return (
-    <div className="mx-auto max-w-3xl px-4 py-12 md:px-6 md:py-16">
+    <div className="mx-auto max-w-5xl px-4 py-12 md:px-6 md:py-16">
       <MarkdownDoc content={content} />
     </div>
   );

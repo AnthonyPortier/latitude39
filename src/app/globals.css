@@ -42,6 +42,19 @@ body {
   max-width: 48rem;
 }
 
+/* Galeries : pas de puces héritées du prose-dossier */
+.prose-dossier ul.photo-gallery,
+ul.photo-gallery {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.prose-dossier ul.photo-gallery > li,
+ul.photo-gallery > li {
+  margin: 0;
+}
+
 .prose-dossier h1 {
   font-family: var(--font-display), Georgia, serif;
   font-size: clamp(1.75rem, 3vw, 2.4rem);

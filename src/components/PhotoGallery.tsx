@@ -117,7 +117,7 @@ export function PhotoGallery({
   return (
     <>
       <ul
-        className={`m-0 grid list-none grid-cols-1 gap-6 p-0 sm:grid-cols-2 lg:grid-cols-3 lg:gap-8 ${className}`}
+        className={`photo-gallery m-0 grid list-none grid-cols-1 gap-6 p-0 sm:grid-cols-2 lg:grid-cols-3 lg:gap-8 ${className}`}
       >
         {images.map((image, index) => {
           const label = image.caption?.trim() || image.alt;

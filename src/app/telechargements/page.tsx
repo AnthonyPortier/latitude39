@@ -37,10 +37,6 @@ const PDFS: PdfEntry[] = [
     name: "SCI-Latitude39-presentation-associes.pdf",
     label: "Présentation des associés",
   },
-  {
-    name: "Devis-clim-DE00000899-Verdon.pdf",
-    label: "Devis clim Verdon PE (DE00000899)",
-  },
 ];
 
 function formatBytes(bytes: number) {
@@ -72,8 +68,8 @@ export default function TelechargementsPage() {
       </h1>
       <p className="mt-3 text-pierre-700">
         Dernière version du <span translate="no">Business plan</span>, études
-        de marché, <span translate="no">Fiche appartements</span>, présentation
-        des associés et devis climatisation.
+        de marché, <span translate="no">Fiche appartements</span> et
+        présentation des associés.
       </p>
 
       <ul className="mt-10 divide-y divide-[var(--line)] border-y border-[var(--line)]">

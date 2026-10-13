@@ -10,6 +10,8 @@
 
 Documents liés : [Business plan](/business-plan) · [Étude de marché](/etude-marche) · [Fiche appartements](/appartements)
 
+Les quatre associés sont amis depuis plusieurs années : ils se sont rencontrés en voyage et ont toujours voulu créer une entreprise ensemble.
+
 ---
 
 ## Complémentarité de l’équipe
@@ -85,6 +87,7 @@ Manon Pénicaud vit à Vinon-sur-Verdon. Titulaire d’un master en Droit et Mé
 
 ## 3. Michaël Lezzi
 
+
 **Associé — 25 % · apport 15 000 €**  
 **Ville :** Gréoux-les-Bains (04800)
 
@@ -117,12 +120,12 @@ Michaël (Mickaël) Lezzi vit à Gréoux-les-Bains. Professionnel du cycle depui
 
 ### Courte biographie
 
-Anthony Portier vit à Vinon-sur-Verdon. Développeur web full stack, il exploite déjà avec succès un T2 en location meublée non professionnelle à Vinon et réalise lui-même une partie importante des travaux. Il apporte à la SCI le savoir-faire chantier, l’expérience locative saisonnière et les compétences numériques.
+Anthony Portier vit à Vinon-sur-Verdon. Développeur web full stack, il exploite déjà avec succès un T2 en location meublée non professionnelle à Vinon et réalise lui-même une partie importante des travaux. Il prépare actuellement un **CAP électricien** (diplôme prévu **juin 2027**), utile pour les travaux et la sécurité électrique du domaine. Il apporte à la SCI le savoir-faire chantier, l’expérience locative saisonnière et les compétences numériques.
 
 ### Compétences et expérience
 
 - **Développeur web full stack** (Node.js, React, Next.js, TypeScript, etc.) — expériences chez Kumullus (full stack, Paris, 2020–2023) et CarJager (back-end NestJS / PostgreSQL / Prisma, Aix-en-Provence, depuis 2024).
-- **Formation :** titre professionnel Développeur Web (Wild Code School, Marseille, 2019–2020) ; Gestion des Entreprises (Université d’Aix-Marseille, 2014–2016).
+- **Formation :** titre professionnel Développeur Web (Wild Code School, Marseille, 2019–2020) ; Gestion des Entreprises (Université d’Aix-Marseille, 2014–2016) ; **CAP électricien** en préparation (diplôme prévu **juin 2027**).
 - **Travaux :** réalise une partie importante des travaux lui-même (maîtrise des coûts chantier, notamment la division de la maison principale en deux T3).
 - **Location saisonnière prouvée :** exploitation du T2 à Vinon-sur-Verdon — référence PriceLabs du scénario A (**≈ 18 257 €** / occupation **87 %**).
 - **Pipeline locatif :** un studio arrive d’ici environ un mois sur le même terrain que la résidence principale, également en location meublée non professionnelle.
@@ -130,6 +133,7 @@ Anthony Portier vit à Vinon-sur-Verdon. Développeur web full stack, il exploit
 ### Apport concret au projet Gréoux / SCI Latitude 39
 
 - **Travaux et chantier :** réalisation en propre d’une part significative des travaux (fenêtres, climatisation, division maison → 2× T3 dans l’enveloppe de 50 000 €).
+- **Sécurité électrique :** formation CAP électricien en cours (diplôme prévu juin 2027) — utile pour les interventions et la sécurité électrique du domaine.
 - **Exploitation déjà démontrée :** ouverture 12 mois, séjour d’une nuit, tarification dynamique — déjà appliquée avec succès sur le T2 de Vinon, socle du scénario A.
 - **Ménage et interventions courantes :** rôle opérationnel retenu au dossier banque (gros entretien en binôme avec Michaël Lezzi).
 - **Compétences numériques :** site vitrine, outillage, automatisation et suivi des données (présence en ligne, canal de réservation direct).

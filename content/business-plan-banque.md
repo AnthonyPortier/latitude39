@@ -18,7 +18,7 @@ Le compromis a été signé le **9 octobre 2026** ; l’acte authentique est pr�
 | Poste                                             | Montant                             |
 | ------------------------------------------------- | ----------------------------------- |
 | Prix d’achat                                      | 600 000 €                           |
-| Travaux (fenêtres, clim, division maison → 2× T3) | 50 000 €                            |
+| Travaux (enveloppe — détail ci-dessous)           | 50 000 €                            |
 | **Emprunt demandé**                               | **650 000 €** / 20 ans              |
 | Frais de notaire (provision)                      | 46 200 €                            |
 | **Apports associés (frais de notaire)**           | **60 000 €**                        |
@@ -34,6 +34,22 @@ Le compromis a été signé le **9 octobre 2026** ; l’acte authentique est pr�
 
 Nous demandons un emprunt de **650 000 €** afin de financer l’intégralité du prix d’achat et des travaux. Les apports des associés, soit **60 000 €**, serviront exclusivement à régler les frais de notaire. Les banques sollicitent souvent un apport de l’ordre de **10 %** du prix d’acquisition.
 
+### Emploi des fonds — enveloppe travaux (≈ 50 000 €)
+
+L’enveloppe de **50 000 €** finance le remplacement des menuiseries (simple vitrage → double vitrage PVC Rehau, pose comprise), la climatisation Daikin Sensira couverte par le devis Verdon PE (trois gîtes, salon et cuisine — pas l’ensemble des 7 lots), et la séparation de la maison principale en **2× T3** (dont un T3 déjà complet : cuisine et salle de bains à créer sur l’autre). Le budget division n’est pas un forfait fixe : **c’est le reste de l’enveloppe après les deux devis**.
+
+| Poste | Montant |
+| ----- | ------- |
+| Menuiseries double vitrage (devis DC3315 Alaplast) | **29 624,40 € TTC** |
+| Clim Daikin Sensira (devis DE00000899 Verdon PE) | **6 016,80 € TTC** |
+| **Sous-total devis** | **35 641,20 € TTC** |
+| **Reste pour la division** (séparation / cuisine / SDB du 2ᵉ T3) | **14 358,80 €** |
+| **Total enveloppe** | **50 000 €** |
+
+**Devis menuiseries joint :** [Devis-menuiseries-DC3315.pdf](/pdfs/Devis-menuiseries-DC3315-Alaplast.pdf) — SARL Alaplast (Sainte-Tulle), devis du 28/09/2026. Totaux : **28 080 € HT** · TVA 5,5 % **1 544,40 €** · **29 624,40 € TTC**. Objet : fourniture et pose de menuiseries PVC blanc Rehau (double vitrage 4-20-4), en remplacement du simple vitrage partout.
+
+**Devis climatisation joint :** [Devis-clim-DE00000899.pdf](/pdfs/Devis-clim-DE00000899-Verdon.pdf) — SARL Verdon Plomberie Electricité (Roumoules), devis **DE00000899** du **12/10/2026**. Totaux : **5 014 € HT** · TVA 20 % **1 002,80 €** · **6 016,80 € TTC**. Objet : mono-splits Daikin Sensira + pose — climatisation de trois gîtes (mono-split 2,5 kW), salon (5 kW) et cuisine (3,5 kW). Ce devis ne couvre pas l’ensemble des 7 lots.
+
 **En année 1**, aucune rémunération ne sera versée aux associés : la priorité est de consolider la trésorerie de la SCI.
 
 ---
@@ -46,7 +62,7 @@ Nous demandons un emprunt de **650 000 €** afin de financer l’intégralité 
 | Adresse           | 94 Chemin des Relarguiers, 04800 Gréoux-les-Bains                                                                                   |
 | Terrain           | 5 178 m²                                                                                                                            |
 | Capacité          | **7 logements** au total : 5× T2 et 2× T3 (lots 1 à 7)                                                                              |
-| Maison principale | Division prévue en **2× T3**, financée dans l’enveloppe de travaux de 50 k€                                                         |
+| Maison principale | Division prévue en **2× T3** (un T3 déjà complet ; cuisine + SDB + séparation sur l’autre), financée dans l’enveloppe de travaux de 50 k€ |
 | Garage + établi   | Deux T2 situés hors des m² de la bâtisse principale ; situation régularisée par **prescription** et engagement mairie, ce qui permet de maintenir l’exploitation |
 | Annexes           | Piscine et terrain de pétanque                                                                                                      |
 | DPE               | Classe D (182 kWhep/m².an) · GES D                                                                                                  |
@@ -451,7 +467,8 @@ Nous demandons un emprunt de **650 000 €** pour financer l’intégralité du 
 - [ ] Statuts de la SCI Latitude 39 et pacte d’associés  
 - [ ] Accord de principe de la banque (emprunt 650 000 €, taux ≤ 4 %)  
 - [ ] Plan de reprise des réservations 2027 (cession et information des locataires)  
-- [ ] **Devis travaux** : l’enveloppe de **50 000 €** (fenêtres, climatisation, division de la maison principale en 2× T3, et autres postes associés) n’est pas encore étayée par des devis détaillés ; ces devis restent à obtenir et à joindre au dossier.
+- [x] **Devis menuiseries** : Alaplast DC3315 joint — **29 624,40 € TTC** ([Devis-menuiseries-DC3315.pdf](/pdfs/Devis-menuiseries-DC3315-Alaplast.pdf))  
+- [x] **Devis clim** : Verdon PE DE00000899 joint — **6 016,80 € TTC** ([Devis-clim-DE00000899.pdf](/pdfs/Devis-clim-DE00000899-Verdon.pdf)) — trois gîtes + salon + cuisine (pas les 7 lots) ; reste enveloppe **14 358,80 €** = budget division T3
 
 ---
 
@@ -465,4 +482,6 @@ Les pièces suivantes sont disponibles dans le dossier projet :
 - Listes de réservations 2023–2026 et extrait 2027  
 - Dépenses fixes et dépenses 2025  
 - Avis de valeur locative MiezImmo  
-- Business plan détaillé de travail : [business-plan.md](/cursor/stores/self/docs/business-plan.md)
+- **Devis menuiseries Alaplast DC3315** ([Devis-menuiseries-DC3315.pdf](/pdfs/Devis-menuiseries-DC3315-Alaplast.pdf)) — 29 624,40 € TTC  
+- **Devis clim Verdon PE DE00000899** ([Devis-clim-DE00000899.pdf](/pdfs/Devis-clim-DE00000899-Verdon.pdf)) — 6 016,80 € TTC  
+- Business plan détaillé de travail : business plan de travail (dossier projet)

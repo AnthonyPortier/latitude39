@@ -71,9 +71,10 @@ const associates: Associate[] = [
       src: "/associes/anthony-portier.jpg",
       alt: "Portrait d’Anthony Portier",
     },
-    bio: "Développeur web full stack, Anthony exploite déjà avec succès le T2 de Vinon-sur-Verdon et réalise lui-même une partie importante des travaux. Il apporte à la SCI le savoir-faire chantier, l’expérience locative saisonnière et les compétences numériques.",
+    bio: "Développeur web full stack, Anthony exploite déjà avec succès le T2 de Vinon-sur-Verdon et réalise lui-même une partie importante des travaux. Il prépare actuellement un CAP électricien (diplôme prévu juin 2027), utile pour les travaux et la sécurité électrique du domaine. Il apporte à la SCI le savoir-faire chantier, l’expérience locative saisonnière et les compétences numériques.",
     bullets: [
       "Réalisation en propre d’une part significative des travaux (enveloppe 50 000 €)",
+      "CAP électricien en cours (diplôme prévu juin 2027) — sécurité électrique du domaine",
       "Exploitation déjà démontrée — référence chiffrée du scénario A",
       "Ménage et interventions courantes (gros entretien avec Michaël Lezzi)",
       "Site vitrine, automatisation et canal de réservation direct",
@@ -95,6 +96,11 @@ export default function AssociesPage() {
             frais de notaire
           </strong>{" "}
           (60&nbsp;000&nbsp;€ au total). Aucune rémunération en année&nbsp;1.
+        </p>
+        <p className="mt-3 text-lg leading-relaxed text-pierre-700">
+          Les quatre associés sont amis depuis plusieurs années : ils se sont
+          rencontrés en voyage et ont toujours voulu créer une entreprise
+          ensemble.
         </p>
         <p className="mt-3 text-sm text-pierre-600">
           Documents liés :{" "}

@@ -119,7 +119,7 @@ export default function HomePage() {
 
       <ChapterIntro
         title="Ambiance"
-        text="Vue sur Gréoux et pièce de vie — volumes, cheminée et lumière naturelle."
+        text="Vue sur Gréoux — volumes, cheminée et lumière naturelle."
       />
 
       <FullBleedPhoto

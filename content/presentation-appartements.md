@@ -39,20 +39,9 @@ Ce document présente chaque lot avec photos et éléments utiles pour le dossie
 
 ## Situation / environnement
 
-Le bien se situe au **94 Chemin des Relarguiers, 04800 Gréoux-les-Bains**, dans un secteur thermal et touristique (cures, nature, emploi lié à Cadarache / ITER). La carte ci-dessous localise le domaine et les principaux points d’intérêt utiles à un dossier locatif meublé.
+Le bien se situe au **94 Chemin des Relarguiers, 04800 Gréoux-les-Bains**, dans un secteur thermal et touristique (cures, nature, emploi lié à Cadarache / ITER). La carte ci-dessous localise le domaine et les principaux points d’intérêt utiles à un dossier locatif meublé (légende intégrée à l’image).
 
 ![Carte du secteur — Gréoux-les-Bains](/media/carte-secteur-greoux.png)
-
-**Légende (code couleur) :**
-- **Rouge** — Domaine (bien objet du dossier)
-- **Bleu canard** — Thermes de Gréoux
-- **Gris** — Centre de Gréoux
-- **Bleu** — Rivière Verdon (pont à Gréoux)
-- **Vert-bleu** — Lac d’Esparron (lac local pertinent ; le lac de Sainte-Croix est plus éloigné à l’est)
-- **Violet** — Champs de lavande (plateau de Valensole)
-- **Orange** — ITER / Cadarache (Saint-Paul-lès-Durance)
-
-Fond cartographique : OpenStreetMap. Positions approximatives issues de sources publiques (Nominatim / références officielles).
 
 ---
 
@@ -68,10 +57,9 @@ Chez la vendeuse, ces logements sont proposés pour **2 personnes**. L’offre S
 **Surface :** 30 m² + terrasse bois couverte d’environ 15 m², orientation sud  
 **Couchages SCI :** 4
 
-Petit chalet indépendant, clairement séparé des autres logements. Il comprend une chambre (environ 7 m²), une salle d’eau avec douche (environ 6 m²) et une cuisine ouverte sur un salon (environ 18 m²). La grande terrasse abritée, orientée sud, avec jardin à disposition, en fait un produit très lisible pour les couples et les petites familles.
+Petit chalet indépendant, clairement séparé des autres logements. Il comprend une chambre, une salle d’eau avec douche (environ 6 m²) et une cuisine ouverte sur un salon (environ 18 m²). La grande terrasse abritée, orientée sud, avec jardin à disposition, en fait un produit très lisible pour les couples et les petites familles.
 
-**Équipements (site vendeuse) :** cuisine équipée (four micro-ondes, four traditionnel, plaques vitrocéramiques, cafetière, grille-pain, grand réfrigérateur avec congélateur), literie 140 cm, linge de lit et serviettes fournis, télévision écran plat, climatisation réversible. Pas de wifi indiqué sur l’annonce actuelle. Chiens acceptés.
-
+**Équipements :** cuisine équipée (four micro-ondes, four traditionnel, plaques vitrocéramiques, cafetière, grille-pain, grand réfrigérateur avec congélateur), literie 140 cm, linge de lit et serviettes fournis, télévision écran plat, climatisation réversible. Wifi disponible dans tous les lots.
 ![Lot 1 — Terrasse sud du Chalet](/appartements/lot1-chalet-01.jpg)
 
 ![Lot 1 — Vue d’ensemble avec jardin](/appartements/lot1-chalet-02.jpg)
@@ -88,10 +76,9 @@ Petit chalet indépendant, clairement séparé des autres logements. Il comprend
 **Surface :** 22 m², rez-de-chaussée, orientation est  
 **Couchages SCI :** 4
 
-Appartement compact au rez-de-chaussée : cuisine et chambre donnant directement sur le jardin. Orientation est, coin extérieur privatif avec parasol et salon de jardin. Format idéal pour les cures thermales et les courts séjours, tout en restant commercialisable à 4 couchages côté SCI.
+Appartement cosy au rez-de-chaussée : cuisine et chambre donnant directement sur le jardin. Orientation est, coin extérieur privatif avec parasol et salon de jardin. Format idéal pour les cures thermales et les courts séjours, tout en restant commercialisable à 4 couchages côté SCI.
 
-**Équipements (site vendeuse) :** cuisine équipée (même standard que le Chalet), literie 140 cm, linge de lit fourni, télévision. Pas de wifi indiqué. Accès buanderie commune. Chiens acceptés.
-
+**Équipements :** cuisine équipée (même standard que le Chalet), literie 140 cm, linge de lit fourni, télévision. Wifi disponible dans tous les lots. Accès buanderie commune.
 ![Lot 2 — Coin jardin privatif](/appartements/lot2-soleil-est-01.jpg)
 
 ![Lot 2 — Cuisine](/appartements/lot2-soleil-est-03.jpg)
@@ -110,8 +97,7 @@ Appartement compact au rez-de-chaussée : cuisine et chambre donnant directement
 
 Appartement au rez-de-chaussée avec cuisine et chambre ouvrant sur une petite terrasse. Orientation ouest, accès jardin, piscine et pétanque. Literie 180 cm (deux matelas 90 cm côte à côte), adaptée à une occupation à deux couchages de base et extensible à 4 côté SCI.
 
-**Équipements (site vendeuse) :** cuisine équipée, linge de lit fourni, télévision dans la chambre, buanderie commune. Pas de wifi indiqué. Chiens acceptés.
-
+**Équipements :** cuisine équipée, linge de lit fourni, télévision dans la chambre, buanderie commune. Wifi disponible dans tous les lots.
 ![Lot 3 — Façade et terrasse](/appartements/lot3-soleil-ouest-01.jpg)
 
 ![Lot 3 — Cuisine](/appartements/lot3-soleil-ouest-02.jpg)
@@ -130,8 +116,7 @@ Appartement au rez-de-chaussée avec cuisine et chambre ouvrant sur une petite t
 
 Appartement au premier étage avec cuisine et chambre ouvrant sur une grande terrasse abritée, vue dégagée sur la verdure. Orientation sud, climatisation réversible, literie récente (deux lits 90 cm côte à côte) et canapé. C’est le plus grand des cinq T2 actuellement loués ; il figure parmi les unités les plus productives dans les listes de réservations de la vendeuse.
 
-**Équipements (site vendeuse) :** cuisine équipée, linge de lit et serviettes fournis, télévision, climatisation réversible, buanderie commune. Pas de wifi indiqué. Chiens acceptés.
-
+**Équipements :** cuisine équipée, linge de lit et serviettes fournis, télévision, climatisation réversible, buanderie commune. Wifi disponible dans tous les lots.
 ![Lot 4 — Grande terrasse sud](/appartements/lot4-soleil-sud-01.jpg)
 
 ![Lot 4 — Terrasse et vue](/appartements/lot4-soleil-sud-02.jpg)
@@ -150,8 +135,7 @@ Appartement au premier étage avec cuisine et chambre ouvrant sur une grande ter
 
 Appartement plus récent dans le parc vendeur : chambre d’environ 13 m², salle de bains avec baignoire et douche (environ 7 m²), WC séparé, cuisine d’environ 12 m² et petite terrasse sur le jardin. Orientation est / nord-est, avec vue vers le village et le château. Cuisine bien équipée, literie 140 cm.
 
-**Équipements (site vendeuse) :** cuisine équipée, linge de lit et serviettes fournis, télévision écran plat dans la chambre, buanderie commune. Pas de wifi indiqué. Chiens acceptés.
-
+**Équipements :** cuisine équipée, linge de lit et serviettes fournis, télévision écran plat dans la chambre, buanderie commune. Wifi disponible dans tous les lots.
 ![Lot 5 — Extérieur / jardin](/appartements/lot5-gryselien-01.jpg)
 
 ![Lot 5 — Cuisine et coin repas](/appartements/lot5-gryselien-02.jpg)

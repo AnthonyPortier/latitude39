@@ -2,13 +2,13 @@
 
 **Bien :** domaine au 94 Chemin des Relarguiers, 04800 Gréoux-les-Bains  
 **Parc cible :** **7 logements** (lots 1 à 7) — **5 T2** déjà commercialisés chez la vendeuse, et **2 T3** issus de la division de la maison principale  
-**Documents liés :** [Business plan](/business-plan) · [Étude de marché](/etude-marche)
+**Documents liés :** [business-plan-banque.md](/business-plan) · [etude-marche-greoux.md](/etude-marche)
 
 Ce document présente chaque lot avec photos et éléments utiles pour le dossier bancaire.
 
 ---
 
-## Synthèse du parc
+## Synthèse du parc locatif
 
 
 | Lot | Nom actuel (vendeuse) | Typologie | Surface indiquée | Couchages (offre SCI) |
@@ -24,11 +24,35 @@ Ce document présente chaque lot avec photos et éléments utiles pour le dossie
 
 **Règle tarifaire (rappel business plan) :** le tarif de base de chaque appartement couvre **2 couchages**. Au-delà, chaque couchage supplémentaire est facturé **+5 € par nuit et par couchage** (par exemple +10 € / nuit pour un T2 à 4 personnes, +20 € / nuit pour un T3 à 6 personnes). Ce supplément constitue un potentiel de chiffre d’affaires complémentaire, non intégré dans la cible de 133 000 €.
 
-**Espaces partagés du domaine :** terrain d’environ **5 178 m²**, piscine privée, terrain de pétanque, buanderie commune, jardins. Situation à environ 400 m du centre de Gréoux-les-Bains et à proximité des thermes, en bordure du Verdon.
+**Espaces partagés du domaine :** plus de **5 000 m²**, piscine privée, terrain de pétanque, buanderie commune, jardins. Situation à environ 400 m du centre de Gréoux-les-Bains, en bordure du Verdon.
+
+**Atouts d’exploitation (domaine) :**
+- Accès **à pied aux thermes** de Gréoux (environ 900 m selon l’offre vendeuse).
+- **Stationnements disponibles sur site.**
+- Domaine **clôturé.**
 
 ![Piscine du domaine](/appartements/domaine-01.jpg)
 
 ![Jardin et abords du mas](/appartements/domaine-17.jpg)
+
+---
+
+## Situation / environnement
+
+Le bien se situe au **94 Chemin des Relarguiers, 04800 Gréoux-les-Bains**, dans un secteur thermal et touristique (cures, nature, emploi lié à Cadarache / ITER). La carte ci-dessous localise le domaine et les principaux points d’intérêt utiles à un dossier locatif meublé.
+
+![Carte du secteur — Gréoux-les-Bains](/media/carte-secteur-greoux.png)
+
+**Légende (code couleur) :**
+- **Rouge** — Domaine (bien objet du dossier)
+- **Bleu canard** — Thermes de Gréoux
+- **Gris** — Centre de Gréoux
+- **Bleu** — Rivière Verdon (pont à Gréoux)
+- **Vert-bleu** — Lac d’Esparron (lac local pertinent ; le lac de Sainte-Croix est plus éloigné à l’est)
+- **Violet** — Champs de lavande (plateau de Valensole)
+- **Orange** — ITER / Cadarache (Saint-Paul-lès-Durance)
+
+Fond cartographique : OpenStreetMap. Positions approximatives issues de sources publiques (Nominatim / références officielles).
 
 ---
 
@@ -142,7 +166,9 @@ Appartement plus récent dans le parc vendeur : chambre d’environ 13 m², sall
 
 ### Intention d’aménagement
 
-La **maison principale** du domaine sera **divisée en deux appartements de type T3**, financée dans l’enveloppe de travaux de **50 000 €** (avec fenêtres, climatisation et postes associés — voir le business plan banque). Chaque T3 sera commercialisé pour **6 couchages**.
+La **maison principale** du domaine sera **divisée en deux appartements de type T3**, financée dans l’enveloppe de travaux de **50 000 €** (menuiseries double vitrage, climatisation, séparation — voir le business plan banque). Chaque T3 sera commercialisé pour **6 couchages**.
+
+**État des lieux :** **un des deux T3 est déjà complet** (cuisine et salle de bains en place). Après menuiseries Alaplast (**29 624,40 € TTC**) et clim Verdon PE DE00000899 (**6 016,80 € TTC**, trois gîtes + salon + cuisine), le **reste d’enveloppe de 14 358,80 €** finance la **séparation** et la **création de la cuisine et de la salle de bains** sur l’autre T3.
 
 Cette opération porte le parc de **5 logements** aujourd’hui exploités par la vendeuse à **7 lots** côté SCI. Les surfaces exactes après division ne sont pas encore figées ; le prévisionnel retient environ **21 600 €** de chiffre d’affaires annuel par T3 (hypothèse business plan), avec le même principe tarifaire de base (2 couchages inclus, puis +5 € par nuit et par couchage supplémentaire).
 
@@ -158,7 +184,7 @@ Les photographies ci-dessous montrent **l’état actuel de la maison et de ses 
 
 ### Lot 6 — T3 (6 couchages)
 
-Premier des deux appartements issus de la division. Configuration cible : trois pièces, capacité **6 couchages**, accès indépendant à préciser dans les plans de travaux, équipement meublé tourisme (cuisine, literie, salle d’eau) aligné sur le reste du parc. Le tarif de base couvre 2 personnes ; à 6 couchages, le supplément s’élève à **+20 € par nuit**.
+Premier des deux appartements issus de la division. Configuration cible : trois pièces, capacité **6 couchages**, accès indépendant à préciser dans les plans de travaux, équipement meublé tourisme aligné sur le reste du parc. **L’un des deux lots est déjà complet** ; l’autre recevra cuisine et salle de bains dans l’enveloppe de 50 000 €. Le tarif de base couvre 2 personnes ; à 6 couchages, le supplément s’élève à **+20 € par nuit**.
 
 ### Lot 7 — T3 (6 couchages)
 
@@ -171,7 +197,3 @@ Second appartement issu de la même division. Même logique commerciale et tarif
 ![Maison — Pièce de vie ouvrant sur la terrasse](/appartements/maison-07-interieur-terrasse.jpg)
 
 ![Maison — Salle à manger / séjour actuel](/appartements/maison-08-salle-a-manger.jpg)
-
----
-
-*Document établi pour la SCI Latitude 39 — présentation des logements du domaine de Gréoux-les-Bains.*

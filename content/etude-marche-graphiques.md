@@ -1,10 +1,10 @@
 # Données tabulaires — étude de marché Gréoux
 
-**Usage :** tableaux prêts à grapher (courbes d’évolution, saisonnalité, effectifs).  
+**Usage :** tableaux (courbes d’évolution, saisonnalité, effectifs).  
 **Document principal :** [etude-marche-greoux.md](etude-marche-greoux.md)  
 **Date :** 11 octobre 2026
 
-*Tous les chiffres sont sourcés. L’outil AirDNA publie en dollars US ; l’outil PriceLabs et l’Institut national de la statistique et des études économiques (Insee) en euros / nuitées. Ne pas mélanger les unités sur un même graphique sans conversion explicite.*
+*Tous les chiffres sont sourcés. L’outil AirDNA publie en dollars US, l’outil PriceLabs et l’Institut national de la statistique et des études économiques (Insee) en euros / nuitées. Ne pas mélanger les unités sur un même graphique sans conversion explicite.*
 
 ---
 
@@ -16,9 +16,7 @@
 | 2023 | 25,0 | +10 % | Insee Flash Provence-Alpes-Côte d’Azur n° 109 |
 | 2024 | 30,7 | +23 % | Insee Flash Provence-Alpes-Côte d’Azur n° 117 |
 
-**Série pour courbe :** `2022:22.6 ; 2023:25.0 ; 2024:30.7`
-
-Complément volume comité régional du tourisme / LightHouse (méthode distincte, ne pas superposer sans note) :
+Complément volume comité régional du tourisme / LightHouse :
 
 | Année | Nuitées réservées Provence-Alpes-Côte d’Azur (millions) | Commentaire |
 | ----- | ------------------------------------------------------: | ----------- |
@@ -89,7 +87,7 @@ Complément volume comité régional du tourisme / LightHouse (méthode distinct
 
 ## 5. AirDNA — marchés locaux (douze derniers mois à septembre 2026, dollars US)
 
-| Marché | Annonces | Chiffre d’affaires moyen ($) | Occupation (%) | Prix moyen par nuit ($) | Revenu par nuitée disponible ($) | Score |
+| Marché | Annonces | Chiffre d’affaires moyen ($) | Occupation (%) | Prix moyen par nuit ($) | Revenu moyen / nuit — prix × occupation ($) | Score |
 | ------ | -------: | ---------------------------: | -------------: | ----------------------: | -------------------------------: | ----: |
 | Gréoux-les-Bains | 555 | 13 600 | 65 | 70 | 46 | 75 |
 | Manosque | 264 | 16 400 | 61 | 84 | 52 | 77 |
@@ -103,7 +101,7 @@ Complément volume comité régional du tourisme / LightHouse (méthode distinct
 | Manosque | +13,1 % | −23,8 % | +110 % | −31,3 % |
 | Vinon | +2,2 % | −25,9 % | +171 % | −34,5 % |
 
-*Source : pages AirDNA publiques, mise à jour 6 octobre 2026. Ne pas inventer de mois AirDNA non publiés.*
+*Source : pages AirDNA publiques, mise à jour 6 octobre 2026.*
 
 ---
 
@@ -122,8 +120,6 @@ Complément volume comité régional du tourisme / LightHouse (méthode distinct
 | Début des opérations de recherche | 2034 | trajectoire 2024 | Organisation ITER |
 | Opération deutérium–deutérium | 2035 | trajectoire 2024 | Organisation ITER |
 | Pleine énergie magnétique | 2036 | trajectoire 2024 | Organisation ITER |
-
-**Série simple pour courbe effectifs Cadarache (salariés du Commissariat seuls) :** `2023:2630 ; 2024:2650`.
 
 ---
 
@@ -185,7 +181,7 @@ Complément volume comité régional du tourisme / LightHouse (méthode distinct
 
 ---
 
-## 11. Cohérence business plan (rappel, ne pas grapher comme « marché »)
+## 11. Cohérence business plan
 
 | Scénario | Chiffre d’affaires | Lots | Verdict |
 | -------- | -----------------: | ---- | ------- |

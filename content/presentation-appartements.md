@@ -114,7 +114,7 @@ Appartement au rez-de-chaussée avec cuisine et chambre ouvrant sur une petite t
 **Surface :** 37 m², premier étage, orientation sud  
 **Couchages SCI :** 4
 
-Appartement au premier étage avec cuisine et chambre ouvrant sur une grande terrasse abritée, vue dégagée sur la verdure. Orientation sud, climatisation réversible, literie récente (deux lits 90 cm côte à côte) et canapé. C’est le plus grand des cinq T2 actuellement loués ; il figure parmi les unités les plus productives dans les listes de réservations de la vendeuse.
+Appartement au premier étage avec cuisine et chambre ouvrant sur une grande terrasse abritée, vue dégagée sur la verdure. Orientation sud, climatisation réversible, literie récente (deux lits 90 cm côte à côte) et canapé. C’est le plus grand des cinq T2 actuellement loués, il figure parmi les unités les plus productives dans les listes de réservations de la vendeuse.
 
 **Équipements :** cuisine équipée, linge de lit et serviettes fournis, télévision, climatisation réversible, buanderie commune. Wifi disponible dans tous les lots.
 ![Lot 4 — Grande terrasse sud](/appartements/lot4-soleil-sud-01.jpg)
@@ -152,9 +152,9 @@ Appartement plus récent dans le parc vendeur : chambre d’environ 13 m², sall
 
 La **maison principale** du domaine sera **divisée en deux appartements de type T3**, financée dans l’enveloppe de travaux de **50 000 €** (menuiseries double vitrage, climatisation, séparation — voir le business plan banque). Chaque T3 sera commercialisé pour **6 couchages**.
 
-**État des lieux :** **un des deux T3 est déjà complet** (cuisine et salle de bains en place). Après menuiseries Alaplast (**29 624,40 € TTC**) et clim Verdon PE DE00000899 (**6 016,80 € TTC**, trois gîtes + salon + cuisine), le **reste d’enveloppe de 14 358,80 €** finance la **séparation** et la **création de la cuisine et de la salle de bains** sur l’autre T3.
+**État des lieux :** **un des deux T3 est déjà complet** (cuisine et salle de bains en place). Après menuiseries Alaplast (**29 624,40 € TTC**) et clim Verdon PE DE00000899 (**6 016,80 € TTC**), le **reste d’enveloppe de 14 358,80 €** finance la **séparation** et la **création de la cuisine et de la salle de bains** sur l’autre T3.
 
-Cette opération porte le parc de **5 logements** aujourd’hui exploités par la vendeuse à **7 lots** côté SCI. Les surfaces exactes après division ne sont pas encore figées ; le prévisionnel retient environ **21 600 €** de chiffre d’affaires annuel par T3 (hypothèse business plan), avec le même principe tarifaire de base (2 couchages inclus, puis +5 € par nuit et par couchage supplémentaire).
+Cette opération porte le parc de **5 logements** aujourd’hui exploités par la vendeuse à **7 lots** côté SCI. Les surfaces exactes après division ne sont pas encore figées, le prévisionnel retient environ **21 600 €** de chiffre d’affaires annuel par T3 (hypothèse business plan), avec le même principe tarifaire de base (2 couchages inclus, puis +5 € par nuit et par couchage supplémentaire).
 
 Les photographies ci-dessous montrent **l’état actuel de la maison et de ses abords** (façades, terrasses, jardin, pièces de vie). Elles servent de support visuel au projet de division.
 
@@ -168,7 +168,7 @@ Les photographies ci-dessous montrent **l’état actuel de la maison et de ses 
 
 ### Lot 6 — T3 (6 couchages)
 
-Premier des deux appartements issus de la division. Configuration cible : trois pièces, capacité **6 couchages**, accès indépendant à préciser dans les plans de travaux, équipement meublé tourisme aligné sur le reste du parc. **L’un des deux lots est déjà complet** ; l’autre recevra cuisine et salle de bains dans l’enveloppe de 50 000 €. Le tarif de base couvre 2 personnes ; à 6 couchages, le supplément s’élève à **+20 € par nuit**.
+Premier des deux appartements issus de la division. Configuration cible : trois pièces, capacité **6 couchages**, accès indépendant à préciser dans les plans de travaux, équipement meublé tourisme aligné sur le reste du parc. **L’un des deux lots est déjà complet**, l’autre recevra cuisine et salle de bains dans l’enveloppe de 50 000 €. Le tarif de base couvre 2 personnes, à 6 couchages, le supplément s’élève à **+20 € par nuit**.
 
 ### Lot 7 — T3 (6 couchages)
 

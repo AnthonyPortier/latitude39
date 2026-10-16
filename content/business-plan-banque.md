@@ -12,7 +12,7 @@
 ## 1. Synthèse
 
 Nous souhaitons acquérir un domaine à **Gréoux-les-Bains**, dans le Verdon, pour l’exploiter en **meublé de tourisme** (type Airbnb). L’offre restera ouverte **toute l’année**, avec un séjour minimum d’**une nuit**, sur **7 logements** (lots 1 à 7).  
-Le compromis a été signé le **9 octobre 2026** ; l’acte authentique est prévu au plus tard le **1er mars 2027**.
+Le compromis a été signé le **9 octobre 2026**, l’acte authentique est prévu au plus tard le **1er mars 2027**.
 
 
 | Poste                                             | Montant                             |
@@ -32,11 +32,11 @@ Le compromis a été signé le **9 octobre 2026** ; l’acte authentique est pr�
 | 4,00 % | ≈ 3 940 €          | ≈ 47 300 €       |
 
 
-Nous demandons un emprunt de **650 000 €** afin de financer l’intégralité du prix d’achat et des travaux. Les apports des associés, soit **60 000 €**, serviront exclusivement à régler les frais de notaire. Les banques sollicitent souvent un apport de l’ordre de **10 %** du prix d’acquisition.
+Nous demandons un emprunt de **650 000 €** afin de financer l’intégralité du prix d’achat et des travaux. Les apports des associés, soit **60 000 €**, serviront exclusivement à régler les frais de notaire.
 
 ### Emploi des fonds — enveloppe travaux (50 000 €)
 
-L’enveloppe de **50 000 €** finance le remplacement des menuiseries (simple vitrage → double vitrage PVC Rehau, pose comprise), la climatisation Daikin Sensira couverte par le devis Verdon PE (trois gîtes, salon et cuisine — pas l’ensemble des 7 lots), puis — **avec le reste après ces deux devis** — la séparation de la maison principale en **2× T3** (séparation + cuisine + SDB ; un T3 déjà complet). Le budget division n’est pas un forfait fixe indépendant : **50 000 − 29 624,40 − 6 016,80 = 14 358,80 €**.
+L’enveloppe de **50 000 €** finance le remplacement des menuiseries (simple vitrage → double vitrage PVC Rehau, pose comprise), la climatisation Daikin Sensira couverte par le devis Verdon PE, puis — **avec le reste après ces deux devis** — la séparation de la maison principale en **2× T3** (séparation + cuisine + SDB, un T3 déjà complet). Le budget division n’est pas un forfait fixe indépendant : **50 000 − 29 624,40 − 6 016,80 = 14 358,80 €**.
 
 | Poste | Montant |
 | ----- | ------- |
@@ -45,11 +45,6 @@ L’enveloppe de **50 000 €** finance le remplacement des menuiseries (simple 
 | **Sous-total devis** | **35 641,20 € TTC** |
 | **Reste = budget division T3** (séparation + cuisine + SDB) | **14 358,80 €** |
 | **Total enveloppe** | **50 000 €** |
-
-
-**Devis menuiseries joint :** [Devis-menuiseries-DC3315.pdf](/pdfs/Devis-menuiseries-DC3315-Alaplast.pdf) — SARL Alaplast (Sainte-Tulle), devis du 28/09/2026. Totaux : **28 080 € HT** · TVA 5,5 % **1 544,40 €** · **29 624,40 € TTC**. Objet : fourniture et pose de menuiseries PVC blanc Rehau (double vitrage 4-20-4), en remplacement du simple vitrage partout.
-
-**Devis climatisation joint :** [Devis-clim-DE00000899.pdf](/pdfs/Devis-clim-DE00000899-Verdon.pdf) — SARL Verdon Plomberie Electricité (Roumoules), devis **DE00000899** du **12/10/2026**. Totaux : **5 014 € HT** · TVA 20 % **1 002,80 €** · **6 016,80 € TTC**. Objet : mono-splits Daikin Sensira + pose — climatisation de trois gîtes (mono-split 2,5 kW), salon (5 kW) et cuisine (3,5 kW). Ce devis ne couvre pas l’ensemble des 7 lots. Après menuiseries + clim (**35 641,20 € TTC**), le **reste d’enveloppe 14 358,80 €** finance la division T3 (séparation + cuisine + SDB).
 
 **En année 1**, aucune rémunération ne sera versée aux associés : la priorité est de consolider la trésorerie de la SCI.
 
@@ -61,10 +56,10 @@ L’enveloppe de **50 000 €** finance le remplacement des menuiseries (simple 
 | Élément           | Détail                                                                                                                              |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Adresse           | 94 Chemin des Relarguiers, 04800 Gréoux-les-Bains                                                                                   |
-| Terrain           | 5 178 m²                                                                                                                            |
+| Terrain           | environ 5 000 m²                                                                                                                    |
 | Capacité          | **7 logements** au total : 5× T2 et 2× T3 (lots 1 à 7)                                                                              |
-| Maison principale | Division prévue en **2× T3** (un T3 déjà complet ; cuisine + SDB + séparation sur l’autre), financée dans l’enveloppe de travaux de 50 k€ |
-| Garage + établi   | Deux T2 situés hors des m² de la bâtisse principale ; situation régularisée par **prescription** et engagement mairie, ce qui permet de maintenir l’exploitation |
+| Maison principale | Division prévue en **2× T3** (un T3 déjà complet, cuisine + SDB + séparation sur l’autre), financée dans l’enveloppe de travaux de 50 k€ |
+| Garage + établi   | Deux T2 situés hors des m² de la bâtisse principale, situation régularisée par **prescription** et engagement mairie, ce qui permet de maintenir l’exploitation |
 | Annexes           | Piscine et terrain de pétanque                                                                                                      |
 | DPE               | Classe D (182 kWhep/m².an) · GES D                                                                                                  |
 | Statut            | Bien hors copropriété                                                                                                               |
@@ -90,7 +85,7 @@ Ces apports (15 000 € × 4) sont destinés au règlement des **frais de notair
 - **Accueil :** les voyageurs accèdent au logement via une **boîte à clé**.  
 - **Messages :** la majorité des échanges est automatisée.  
 - **Structure juridique :** **SCI Latitude 39** à l’**IS** (création en cours).  
-- **Site internet propre :** canal de réservation direct poussé au maximum, afin d’éviter toute commission plateforme sur ces réservations. Le taux de conversion reste à prouver ; Airbnb, Abritel et Booking pourront servir d’appoint.
+- **Site internet propre :** canal de réservation direct poussé au maximum, afin d’éviter toute commission plateforme sur ces réservations. Le taux de conversion reste à prouver, Airbnb, Abritel et Booking pourront servir d’appoint.
 
 ---
 
@@ -138,7 +133,7 @@ Dans **A, A.1 et A.2**, le parc est **5 T2 + 2 T3**, capacité **4 / 6**, multi-
 | **A.2** | Méthode vendeuse (≈ 10 mois, min. 1 semaine, tarifs historiques) sur **7 lots** | **72 866,32 €** | 20 % | **−9 566,94 €** | **Non rentable** → bascule vers **B** |
 | **B** | Meublé à l’année | **59 280 €** | 0 % | **+4 680 / +2 980 €** | **Filet rentable** (si pas A / A.1) |
 
-**Conclusion banque :** si l’on exploite le projet **comme la vendeuse**, on **n’est pas rentable** ; dans ce cas, **mieux vaut le scénario B**.
+**Conclusion banque :** si l’on exploite le projet **comme la vendeuse**, on **n’est pas rentable**, dans ce cas, **mieux vaut le scénario B**.
 
 ---
 
@@ -148,12 +143,12 @@ Dans **A, A.1 et A.2**, le parc est **5 T2 + 2 T3**, capacité **4 / 6**, multi-
 
 ### Leviers par rapport à l’historique vendeur
 
-1. Ouverture **12 mois sur 12**, contre environ **10 mois par an** chez la vendeuse (mars à décembre, sans janvier-février — d’après les listes 2024–2026 ; 9 mois en 2023).  
+1. Ouverture **12 mois sur 12**, contre environ **10 mois par an** chez la vendeuse (mars à décembre, sans janvier-février — d’après les listes 2024–2026, 9 mois en 2023).  
 2. Séjour minimum d’**une nuit**, contre une semaine auparavant.  
 3. **Revalorisation du prix à la nuitée**, afin de corriger des nuitées anciennement sous-tarifées.  
-4. Exploitation de **7 lots** (après division et annexes), **contre 5 auparavant** chez la vendeuse.  
+4. Exploitation de **7 lots** (après division), **contre 5 auparavant** chez la vendeuse.  
 5. **Capacité d’accueil élargie** : les T2 seront commercialisés pour **4 couchages** et les T3 pour **6** (chez la vendeuse, les 2 pièces étaient proposés pour **2 personnes** seulement).  
-6. **Site internet propre** poussé au maximum, pour viser **0 % de commission** sur les réservations directes (part encore inconnue ; les plateformes restent un appoint).
+6. **Site internet propre** poussé au maximum, pour viser **0 % de commission** sur les réservations directes (part encore inconnue).
 
 ### Capacités et tarif par couchage
 
@@ -166,15 +161,15 @@ Dans **A, A.1 et A.2**, le parc est **5 T2 + 2 T3**, capacité **4 / 6**, multi-
 
 **Règle tarifaire :** le tarif de base de chaque appartement couvre **2 couchages**. Au-delà, chaque couchage supplémentaire est facturé **+5 € par nuit et par couchage**.
 
-Exemples : un T2 occupé par 4 personnes entraîne un supplément de **+10 € / nuit** (2 couchages × 5 €) ; un T3 occupé par 6 personnes, un supplément de **+20 € / nuit** (4 couchages × 5 €).
+Exemples : un T2 occupé par 4 personnes entraîne un supplément de **+10 € / nuit** (2 couchages × 5 €), un T3 occupé par 6 personnes, un supplément de **+20 € / nuit** (4 couchages × 5 €).
 
-*Le chiffre d’affaires cible de **133 000 €** ci-dessous reste fondé sur les hypothèses déjà retenues (≈ 18 000 € / an par T2 et ≈ 21 600 € / an par T3 — référence Vinon, avec majoration pour les T3). Il ne modélise pas encore le remplissage systématique des couchages additionnels ; les suppléments de **+5 €** et un standing / remplissage supérieur peuvent porter le CA **au-delà de 133 000 €**. Ce surcroît n’est **pas chiffré** dans le prévisionnel central (ni dans A.1 / A.2 / B).*
+*Le chiffre d’affaires cible de **133 000 €** ci-dessous reste fondé sur les hypothèses déjà retenues (≈ 18 000 € / an par T2 et ≈ 21 600 € / an par T3 — référence Vinon, avec majoration pour les T3). Il ne modélise pas encore le remplissage systématique des couchages additionnels, les suppléments de **+5 €** et un standing / remplissage supérieur peuvent porter le CA **au-delà de 133 000 €**. Ce surcroît n’est **pas chiffré** dans le prévisionnel central (ni dans A.1 / A.2 / B).*
 
 ### Distribution : site propre et plateformes
 
 Les associés exploiteront un **site de réservation direct** et le pousseront au maximum.  
-Sur ces réservations, **aucune commission** n’est due, contre environ **18 à 20 % TTC** côté hôte sur Airbnb, Abritel ou Booking (Airbnb ≈ 18,6 % TTC en frais uniques ; Booking souvent du même ordre selon le contrat).  
-Le taux de passage par le site n’est pas encore garanti ; l’objectif est de le maximiser.
+Sur ces réservations, **aucune commission** n’est due, contre environ **18 à 20 % TTC** côté hôte sur Airbnb, Abritel ou Booking (Airbnb ≈ 18,6 % TTC en frais uniques, Booking souvent du même ordre selon le contrat).  
+Le taux de passage par le site n’est pas encore garanti, l’objectif est de le maximiser.
 
 ### Compte d’exploitation indicatif (année de croisière)
 
@@ -200,13 +195,13 @@ Cette estimation s’appuie sur les charges réelles de la vendeuse, recalée su
 | Charge                                      | Montant / an | Commentaire                                                                                                                                                                               |
 | ------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Taxe foncière                               | 4 750 €      | Impôt annuel sur la propriété du bien. Montant repris de la vendeuse (≈ 4 732–4 767 €), **à confirmer** avec l’avis d’imposition.                                                          |
-| CFE (Cotisation Foncière des Entreprises)   | 1 650 €      | Taxe locale liée à l’**activité** de location, et non au bâti. Chiffre issu du LMNP vendeur ; la SCI à l’IS aura sa propre CFE, donc **à recalculer** avec le comptable.                  |
+| CFE (Cotisation Foncière des Entreprises)   | 1 650 €      | Taxe locale liée à l’**activité** de location, et non au bâti. Chiffre issu du LMNP vendeur, la SCI à l’IS aura sa propre CFE, donc **à recalculer** avec le comptable.                  |
 | Assurances (immeuble / PNO)                 | 600 €        | Assurance du bâtiment et responsabilité du propriétaire non occupant. Couverture indispensable même sans présence permanente sur place.                                                   |
 | Électricité (EDF)                           | 5 000 €      | Consommation des parties communes et des logements en saisonnier (l’hôte paie souvent l’électricité incluse). Rehaussé par rapport à la vendeuse (≈ 3,7 k€) pour **7 lots** et **12 mois**. |
 | Fuel / chauffage                            | 4 000 €      | Chauffage du domaine et des logements. Même logique : année pleine et davantage de lots que chez la vendeuse (≈ 3,2 k€).                                                                   |
 | Eau (DLVA)                                  | 800 €        | Abonnement et consommation d’eau du site (réseau local DLVA). Légèrement au-dessus du niveau vendeur pour tenir compte des 7 lots.                                                         |
-| Site internet (hébergement)                 | 10 €         | Anthony (développeur) crée et maintient le site ainsi que l’outil de réservation ; seul l’hébergement reste à environ 10 € / an.                                                          |
-| Comptable                                   | 600 €        | Tenue de comptabilité et déclarations de la SCI (IS). Ordre de grandeur ; le devis réel dépendra du cabinet.                                                                              |
+| Site internet (hébergement)                 | 10 €         | Anthony (développeur) crée et maintient le site ainsi que l’outil de réservation, seul l’hébergement reste à environ 10 € / an.                                                          |
+| Comptable                                   | 600 €        | Tenue de comptabilité et déclarations de la SCI (IS). Ordre de grandeur, le devis réel dépendra du cabinet.                                                                              |
 | Fournitures piscine & jardin                | 400 €        | Produits d’entretien, engrais et petit matériel. **Pas de prestataire** : Mickael et Anthony assurent l’entretien eux-mêmes.                                                              |
 | Produits ménage / consommables              | 500 €        | Lessive, produits d’entretien, café et consommables entre deux locataires. Les ménages sont assurés par Anthony.                                                                          |
 | Petits entretiens / clim (contrats, pièces) | 400 €        | Contrats d’entretien clim, petites pièces et dépannages courants — **hors** enveloppe travaux de 50 k€.                                                                                   |
@@ -215,7 +210,7 @@ Cette estimation s’appuie sur les charges réelles de la vendeuse, recalée su
 | **Total charges courantes**                 | **21 360 €** | Somme des lignes ci-dessus.                                                                                                                                                               |
 
 
-*Selon la consommation réelle et le montant définitif de CFE de la SCI, les charges courantes devraient rester dans une fourchette d’environ **20 à 25 k€**. Avec un taux d’emprunt entre **3,6 % et 4 %** sur **650 000 €**, l’excédent avant IS se situe alors autour de **+33 000 à +40 000 €**. Le chiffre d’affaires cible s’appuie sur **≈ 18 000 € / an par T2** (référence du T2 déjà exploité par Anthony Portier à Vinon-sur-Verdon ; PriceLabs Forecast 2026 ≈ **18 257 €**, occupation prévisionnelle **87 %**) et **≈ 21 600 € / an par T3** (+20 %). La capacité affichée est de **4 couchages par T2** et **6 par T3**, avec un supplément de **+5 € / nuit / couchage** au-delà de 2 personnes (voir ci-dessus) — potentiel complémentaire non chiffré dans les 133 000 €.*
+*Selon la consommation réelle et le montant définitif de CFE de la SCI, les charges courantes devraient rester dans une fourchette d’environ **20 à 25 k€**. Avec un taux d’emprunt entre **3,6 % et 4 %** sur **650 000 €**, l’excédent avant IS se situe alors autour de **+33 000 à +40 000 €**. Le chiffre d’affaires cible s’appuie sur **≈ 18 000 € / an par T2** (référence du T2 déjà exploité par Anthony Portier à Vinon-sur-Verdon, PriceLabs Forecast 2026 ≈ **18 257 €**, occupation prévisionnelle **87 %**) et **≈ 21 600 € / an par T3** (+20 %). La capacité affichée est de **4 couchages par T2** et **6 par T3**, avec un supplément de **+5 € / nuit / couchage** au-delà de 2 personnes (voir ci-dessus) — potentiel complémentaire non chiffré dans les 133 000 €.*
 
 ---
 
@@ -286,7 +281,7 @@ Seuil de solvabilité saisonnier (commissions 20 %) : CA brut ≥ **84 825 €**
 
 
 - **T2 :** l’avis MiezImmo donne des fourchettes hors charges par lot (par exemple un T2 de 25–37 m² : 600–730 €). Nous retenons **660 €** par T2, soit une moyenne prudente des milieux de fourchette.  
-- **T3 :** aucune surface figée post-division ne permet encore de différencier les deux lots ; **820 €** se situe au-dessus des annonces basses à Gréoux (≈ 760 €), sous le bas de fourchette MiezImmo du T3/4 du domaine (850–950 €), et sous la moyenne statistique locale d’un T3 d’environ 65 m² (≈ 856 € charges comprises).  
+- **T3 :** aucune surface figée post-division ne permet encore de différencier les deux lots, **820 €** se situe au-dessus des annonces basses à Gréoux (≈ 760 €), sous le bas de fourchette MiezImmo du T3/4 du domaine (850–950 €), et sous la moyenne statistique locale d’un T3 d’environ 65 m² (≈ 856 € charges comprises).  
 - Le détail des sources marché pour les T3 figure dans la note interne du dossier projet.
 
 ### Adaptation des charges au mode « location meublée à l’année »
@@ -297,9 +292,9 @@ Le scénario B retient donc les **règles habituelles de la location meublée à
 ### Bases de ce scénario
 
 - Les **7 logements** sont loués à l’année en meublé, pour un chiffre d’affaires locatif d’environ **59 280 €**.  
-- Les **locataires** paient l’eau, l’électricité et le chauffage ; la SCI conserve surtout la taxe foncière, l’assurance, la comptabilité, la CFE et le petit entretien.  
+- Les **locataires** paient l’eau, l’électricité et le chauffage, la SCI conserve surtout la taxe foncière, l’assurance, la comptabilité, la CFE et le petit entretien.  
 - La rotation est plus faible qu’en saisonnier : il n’y a ni commissions de plateforme ni turnover de type Airbnb, ce qui allège les charges du propriétaire.  
-- L’emprunt est remboursé sur **20 ans** ; **aucune rémunération** n’est versée aux associés en année 1.
+- L’emprunt est remboursé sur **20 ans**, **aucune rémunération** n’est versée aux associés en année 1.
 
 ### Charges propriétaire et charges locataire (important)
 
@@ -310,10 +305,10 @@ Même lorsque le **locataire paie ses fluides** (électricité, eau, chauffage),
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Locataire**                       | Électricité, eau et fuel / chauffage de son appartement                                                                                          |
 | **Propriétaire (SCI)**              | Taxe foncière, assurance immeuble / PNO, comptable, CFE, petites réparations et fournitures                                                      |
-| **Fait en interne (pas de presta)** | Entretien de la **piscine, du jardin et gros entretien** par **Mickael Lezzi et Anthony Portier** (temps associé ; coût SCI ≈ fournitures seules) |
+| **Fait en interne (pas de presta)** | Entretien de la **piscine, du jardin et gros entretien** par **Mickael Lezzi et Anthony Portier** (temps associé, coût SCI ≈ fournitures seules) |
 
 
-Ces postes constituent les **dépenses courantes** de la SCI en tant que propriétaire ; elles restent distinctes du remboursement du prêt et des gros travaux exceptionnels.
+Ces postes constituent les **dépenses courantes** de la SCI en tant que propriétaire, elles restent distinctes du remboursement du prêt et des gros travaux exceptionnels.
 
 Dans ce scénario, nous retenons environ **9 000 € par an** pour ces charges. Le montant reste contenu parce que l’entretien de la piscine, du jardin et le gros entretien sont assurés par les associés eux-mêmes (seules les fournitures restent à la charge de la SCI).
 
@@ -333,8 +328,8 @@ Dans ce scénario, nous retenons environ **9 000 € par an** pour ces charges. 
 
 ### Synthèse du scénario B
 
-- Le modèle prévu reste la location saisonnière (**A**, ou a minima **A.1**) ; le B n’est qu’une **hypothèse alternative**, dans laquelle les **7 logements** seraient loués à l’année en meublé pour un chiffre d’affaires d’environ **59 280 €**.  
-- Les locataires paient leurs consommations ; la SCI conserve les charges propriétaire (environ **9 000 €** / an), un emprunt sur **20 ans**, et **aucune rémunération** des associés en année 1.  
+- Le modèle prévu reste la location saisonnière (**A**, ou a minima **A.1**), le B n’est qu’une **hypothèse alternative**, dans laquelle les **7 logements** seraient loués à l’année en meublé pour un chiffre d’affaires d’environ **59 280 €**.  
+- Les locataires paient leurs consommations, la SCI conserve les charges propriétaire (environ **9 000 €** / an), un emprunt sur **20 ans**, et **aucune rémunération** des associés en année 1.  
 - Dans ces conditions, le résultat avant IS reste **excédentaire** (environ **+3 000 à +4 700 €** selon le taux).  
 - Face à **A.2** (méthode vendeuse sur 7 lots, **non rentable** ≈ −9,6 k€), **B est préférable** : coûts plus légers, fluides locataire, pas de commissions plateforme.
 
@@ -343,7 +338,7 @@ Dans ce scénario, nous retenons environ **9 000 € par an** pour ces charges. 
 ## 7. Pistes d’amélioration — évolution du chiffre d’affaires (horizon ≈ 5 ans)
 
 *Ces phases ultérieures ne sont **pas intégrées** aux prévisionnels du scénario A (**133 000 €**) ni du scénario B (**≈ 59 280 €**).*  
-Après la mise en exploitation des **7 logements** initiaux, nous engagerons ces évolutions pour faire croître le chiffre d’affaires sur un horizon d’environ **5 ans**. Les montants des pistes 1 et 2 s’appuient sur les mêmes bases de chiffre d’affaires par logement que le dossier (A : **≈ 18 000 € / an / T2**, **≈ 21 600 € / an / T3** ; B : T2 **660 € / mois**, T3 **820 € / mois**). Les pistes 3 (conciergerie) et 4 (location de vélos électriques) enrichissent le chiffre d’affaires par des services annexes, sans modifier les CA de base.
+Après la mise en exploitation des **7 logements** initiaux, nous engagerons ces évolutions pour faire croître le chiffre d’affaires sur un horizon d’environ **5 ans**. Les montants des pistes 1 et 2 s’appuient sur les mêmes bases de chiffre d’affaires par logement que le dossier (A : **≈ 18 000 € / an / T2**, **≈ 21 600 € / an / T3**, B : T2 **660 € / mois**, T3 **820 € / mois**). Les pistes 3 (conciergerie) et 4 (location de vélos électriques) enrichissent le chiffre d’affaires par des services annexes, sans modifier les CA de base.
 
 ### Piste 1 — Division du grand 3 pièces (ex-salon) en deux T2
 
@@ -373,7 +368,7 @@ Après la mise en exploitation des **7 logements** initiaux, nous engagerons ces
 | Surfaces / accès | **Hall d’entrée de 9 m²**, accès par une **serre en verre** (atout différenciant) et accès à la **cave**                                     |
 | Projet           | **Studio** atypique : **balnéo dans la serre** et **salle cinéma dans la cave**                                                              |
 | Positionnement   | Offre « expérience » / haut de gamme saisonnier, distincte des T2 et T3 classiques                                                           |
-| Horizon          | Aménagement et mise en location dans les **≈ 5 ans** ; l’investissement travaux sera chiffré en phase projet                                  |
+| Horizon          | Aménagement et mise en location dans les **≈ 5 ans**                                                                                         |
 
 
 **Chiffre d’affaires additionnel (logement neuf, hors parc des 7)**
@@ -416,20 +411,20 @@ Nous déploierons une **application de conciergerie privée** afin de proposer d
 Le domaine se prête naturellement à une **flotte de 10 vélos à assistance électrique** : situation au bord du Verdon, balades et voies douces, **cure thermale** à proximité (séjours longs, activités douces). La location se fera **sur place**, sans déplacement vers le centre-ville — un complément logique à l’hébergement saisonnier.
 
 **Investissement indicatif :** environ **28 000 à 35 000 €** (10 VAE robustes, antivols, casques et recharge simple sur site). Cet investissement est hors emprunt initial et sera financé ultérieurement.  
-**Entretien :** assuré en **régie** par **M. Michaël Lezzi** (associé, magasin de vélos / mécanique cycle) — **pas de prestataire externe** ; le coût courant porte surtout sur les **pièces et consommables**.
+**Entretien :** assuré en **régie** par **M. Michaël Lezzi** — **pas de prestataire externe**, le coût courant porte surtout sur les **pièces et consommables**.
 
 **Chiffre d’affaires additionnel**
 
 | Scénario | Hypothèse | **CA en plus / an** |
 |----------|-----------|--------------------:|
-| **A** saisonnier | **10** VAE × **45 jours** loués / vélo / an × **40 €** / journée (tarif cohérent Verdon / Provence ; référence locale ≈ 38 € la journée) | **+≈ 18 000 €** |
+| **A** saisonnier | **10** VAE × **45 jours** loués / vélo / an × **40 €** / journée (tarif cohérent Verdon / Provence, référence locale ≈ 38 € la journée) | **+≈ 18 000 €** |
 | **B** meublé à l’année | Peu pertinent à l’année (locataires stables, faible demande à la journée) | **0 €** |
 
-*Risques :* l’entretien étant assuré en régie, le coût d’exploitation se limite surtout aux pièces ; les principaux risques restent le **vol** et la **sinistralité**, à couvrir par une assurance flotte adaptée et des antivols renforcés.
+*Risques :* l’entretien étant assuré en régie, le coût d’exploitation se limite surtout aux pièces, les principaux risques restent le **vol** et la **sinistralité**, à couvrir par une assurance flotte adaptée et des antivols renforcés.
 
 ### Synthèse — chiffre d’affaires additionnel (en plus des 133 k€ / ≈ 59 k€)
 
-Ces montants **s’ajoutent** aux chiffres d’affaires des scénarios A (**133 000 €**) et B (**≈ 59 280 €**) ; ils ne les remplacent pas. Une fois les quatre pistes réalisées :
+Ces montants **s’ajoutent** aux chiffres d’affaires des scénarios A (**133 000 €**) et B (**≈ 59 280 €**), ils ne les remplacent pas. Une fois les quatre pistes réalisées :
 
 
 | Piste                                          | CA + / an — A   | CA + / an — B   |
@@ -518,18 +513,3 @@ Ces évolutions renforcent la capacité de croissance du domaine, sans modifier 
 
 
 Nous demandons un emprunt de **650 000 €** pour financer l’intégralité du prix d’achat et des travaux. Les apports de **60 000 €** serviront à régler les frais de notaire.
-
----
-
-## Annexes (disponibles dans le dossier projet)
-
-Les pièces suivantes sont disponibles dans le dossier projet :
-
-- Compromis de vente (9/10/2026)  
-- Diagnostics et DPE  
-- Liasse LMNP 2025 du vendeur  
-- Listes de réservations 2023–2026 et extrait 2027  
-- Dépenses fixes et dépenses 2025  
-- Avis de valeur locative MiezImmo  
-- **Devis menuiseries Alaplast DC3315** ([Devis-menuiseries-DC3315.pdf](/pdfs/Devis-menuiseries-DC3315-Alaplast.pdf)) — 29 624,40 € TTC  
-- **Devis clim Verdon PE DE00000899** ([Devis-clim-DE00000899.pdf](/pdfs/Devis-clim-DE00000899-Verdon.pdf)) — 6 016,80 € TTC  

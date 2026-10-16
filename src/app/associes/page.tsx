@@ -59,9 +59,9 @@ const associates: Associate[] = [
       src: "/associes/michael-lezzi.jpg",
       alt: "Portrait de Michaël Lezzi",
     },
-    bio: "Professionnel du cycle, Michaël a géré une activité saisonnière de location de vélos à Gréoux (accueil, vente, suivi technique). Il apporte à la SCI l’entretien du domaine et la maintenance de la flotte de vélos à assistance électrique, sans prestataire externe.",
+    bio: "Professionnel du vélo, Michaël a géré une activité saisonnière de location de vélos à Gréoux (accueil, vente, suivi technique). Il apporte à la SCI l’entretien du domaine et la maintenance de la flotte de vélos à assistance électrique, sans prestataire externe.",
     bullets: [
-      "Entretien courant du jardin, de la piscine et des abords",
+      "Entretien courant du jardin, de la piscine et des abords (terrain ≈ 5 000 m²)",
       "Gros entretien technique en binôme avec Anthony Portier",
       "Location et maintenance des vélos à assistance électrique en régie",
       "Expérience locale de l’accueil touristique à Gréoux",
@@ -75,14 +75,13 @@ const associates: Associate[] = [
       src: "/associes/anthony-portier.jpg",
       alt: "Portrait d’Anthony Portier",
     },
-    bio: "Développeur web full stack, Anthony exploite déjà avec succès un T2 à Vinon. Sur le domaine, il assure le suivi de chantier et une part des travaux en régie — hors menuiseries et climatisation, confiées à des entreprises. Il prépare un CAP électricien (diplôme prévu juin 2027).",
+    bio: "Développeur web, Anthony exploite déjà avec succès un T2 meublé à Vinon — socle du scénario A*. Sur le domaine, il assure le suivi de chantier et les travaux en régie (menuiseries et clim = entreprises). Il prépare un CAP électricien (diplôme prévu juin 2027).",
     bullets: [
-      "Suivi de chantier et travaux en régie (menuiseries et clim = entreprises externes)",
-      "CAP électricien en cours — diplôme prévu juin 2027",
-      "Exploitation déjà démontrée — socle du scénario A*",
-      "Studio complémentaire bientôt en location meublée non professionnelle",
+      "Exploitation prouvée — T2 Vinon (référence du scénario A*)",
+      "Suivi de chantier et travaux réalisés en interne",
+      "Studio LMNP — mise en location d’ici environ un mois",
       "Ménage et interventions courantes (gros entretien avec Michaël Lezzi)",
-      "Site vitrine, automatisation et canal de réservation direct",
+      "Site, automatisation et canal de réservation directe",
     ],
   },
 ];
@@ -137,31 +136,11 @@ export default function AssociesPage() {
       </Reveal>
 
       <Reveal delay={0.04}>
-        <div className="jalons-resume mt-8 max-w-2xl">
-          <p>
-            <strong>Jalons du projet (état au dossier) :</strong> offre d’achat
-            et compromis de vente — <strong>faits</strong> · création SCI
-            (Maître Lelouard) — <strong>en cours</strong> · financement —{" "}
-            <strong>en recherche</strong> · acte authentique, travaux et mise en
-            exploitation — <strong>à venir</strong>.
-          </p>
-          <p>
-            Détail et frise visuelle : voir le{" "}
-            <Link
-              href="/business-plan"
-              className="text-verdon-800 underline-offset-2 hover:underline"
-              translate="no"
-            >
-              business plan
-            </Link>
-            , section « Jalons du projet et conditions suspensives ».
-          </p>
-        </div>
-        <p className="mt-6 max-w-2xl leading-relaxed text-pierre-700">
+        <p className="mt-8 max-w-2xl leading-relaxed text-pierre-700">
           Les quatre associés sont amis depuis plusieurs années : ils se sont
           rencontrés en voyage et ont toujours voulu créer une entreprise
           ensemble. L’équipe combine accueil, administration et urbanisme,
-          entretien technique / cycle, et exploitation locative / numérique —
+          entretien technique / vélos, et exploitation locative / numérique —
           sans sous-traitance lourde sur les postes critiques du quotidien. Deux
           couples d’associés vivent déjà dans le bassin Verdon (Gréoux et
           Vinon).
@@ -224,8 +203,8 @@ export default function AssociesPage() {
         <p className="mt-8 text-sm leading-relaxed text-pierre-500">
           <sup>*</sup> Scénario A : exploitation en meublé de courte durée des 7
           lots de Gréoux (ouverture 12 mois, séjour d’une nuit, tarification
-          dynamique), avec un chiffre d’affaires cible d’environ 133&nbsp;000&nbsp;€ —
-          voir business plan banque.
+          dynamique), avec un chiffre d’affaires cible d’environ
+          133&nbsp;000&nbsp;€ — voir business plan banque.
         </p>
       </Reveal>
     </div>

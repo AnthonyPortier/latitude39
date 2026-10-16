@@ -119,7 +119,7 @@ Anthony **PORTIER** vit à Vinon-sur-Verdon. Développeur web full stack, il exp
 
 ---
 
-## Synthèse pour la banque
+## Synthèse
 
 | Critère | Lecture |
 | ------- | ------- |

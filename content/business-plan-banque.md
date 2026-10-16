@@ -212,7 +212,7 @@ Cette estimation s’appuie sur les charges réelles de la vendeuse, recalée su
 | Petits entretiens / clim (contrats, pièces) | 400 €        | Contrats d’entretien clim, petites pièces et dépannages courants — **hors** enveloppe travaux de 50 k€.                                                                                   |
 | Linge / renouvellement courant              | 800 €        | Remplacement progressif des draps, serviettes et alèses usés par le turnover saisonnier.                                                                                                  |
 | Divers / imprévus                           | 1 850 €      | Matelas de sécurité pour dératisation, petites réparations, casse et frais annexes non prévus ailleurs.                                                                                   |
-| **Total charges courantes**                 | **21 360 €** | Somme des lignes ci-dessus (estimation de travail destinée à la banque).                                                                                                                  |
+| **Total charges courantes**                 | **21 360 €** | Somme des lignes ci-dessus.                                                                                                                                                               |
 
 
 *Selon la consommation réelle et le montant définitif de CFE de la SCI, les charges courantes devraient rester dans une fourchette d’environ **20 à 25 k€**. Avec un taux d’emprunt entre **3,6 % et 4 %** sur **650 000 €**, l’excédent avant IS se situe alors autour de **+33 000 à +40 000 €**. Le chiffre d’affaires cible s’appuie sur **≈ 18 000 € / an par T2** (référence du T2 déjà exploité par Anthony Portier à Vinon-sur-Verdon ; PriceLabs Forecast 2026 ≈ **18 257 €**, occupation prévisionnelle **87 %**) et **≈ 21 600 € / an par T3** (+20 %). La capacité affichée est de **4 couchages par T2** et **6 par T3**, avec un supplément de **+5 € / nuit / couchage** au-delà de 2 personnes (voir ci-dessus) — potentiel complémentaire non chiffré dans les 133 000 €.*
@@ -453,50 +453,55 @@ Ces évolutions renforcent la capacité de croissance du domaine, sans modifier 
 
 <div class="frise-jalons" role="img" aria-label="Frise des jalons du projet SCI Latitude 39">
   <p class="frise-badge">Étape courante — création SCI + recherche de financement</p>
-  <div class="frise-track">
-    <div class="frise-etape fait">
-      <span class="frise-dot" aria-hidden="true"></span>
-      <span class="frise-titre">Offre<br />d’achat</span>
-      <span class="frise-etat">Fait</span>
-      <span class="frise-detail">Signée</span>
-    </div>
-    <div class="frise-etape fait">
-      <span class="frise-dot" aria-hidden="true"></span>
-      <span class="frise-titre">Compromis</span>
-      <span class="frise-etat">Fait</span>
-      <span class="frise-detail">9/10/2026</span>
-    </div>
-    <div class="frise-etape courante">
-      <span class="frise-dot" aria-hidden="true"></span>
-      <span class="frise-titre">Création<br />SCI</span>
-      <span class="frise-etat">En cours</span>
-      <span class="frise-detail">Maître&nbsp;Lelouard</span>
-    </div>
-    <div class="frise-etape courante">
-      <span class="frise-dot" aria-hidden="true"></span>
-      <span class="frise-titre">Financement</span>
-      <span class="frise-etat">En recherche</span>
-      <span class="frise-detail">Dossier banque</span>
-    </div>
-    <div class="frise-etape avenir">
-      <span class="frise-dot" aria-hidden="true"></span>
-      <span class="frise-titre">Acte<br />authentique</span>
-      <span class="frise-etat">À venir</span>
-      <span class="frise-detail">≤&nbsp;1<sup>er</sup>&nbsp;mars&nbsp;2027</span>
-    </div>
-    <div class="frise-etape avenir">
-      <span class="frise-dot" aria-hidden="true"></span>
-      <span class="frise-titre">Travaux</span>
-      <span class="frise-etat">À venir</span>
-      <span class="frise-detail">Enveloppe 50&nbsp;k€</span>
-    </div>
-    <div class="frise-etape avenir">
-      <span class="frise-dot" aria-hidden="true"></span>
-      <span class="frise-titre">Exploitation</span>
-      <span class="frise-etat">À venir</span>
-      <span class="frise-detail">Lots 1 à 7</span>
-    </div>
-  </div>
+  <table class="frise-table">
+    <tr>
+      <td class="frise-etape fait">
+        <span class="frise-dot" aria-hidden="true"></span>
+        <span class="frise-titre">Offre d’achat</span>
+        <span class="frise-etat">Fait</span>
+        <span class="frise-detail">Signée</span>
+      </td>
+      <td class="frise-etape fait">
+        <span class="frise-dot" aria-hidden="true"></span>
+        <span class="frise-titre">Compromis</span>
+        <span class="frise-etat">Fait</span>
+        <span class="frise-detail">9/10/2026</span>
+      </td>
+      <td class="frise-etape courante">
+        <span class="frise-dot" aria-hidden="true"></span>
+        <span class="frise-titre">Création SCI</span>
+        <span class="frise-etat">En cours</span>
+        <span class="frise-detail">Maître Lelouard</span>
+      </td>
+      <td class="frise-etape courante">
+        <span class="frise-dot" aria-hidden="true"></span>
+        <span class="frise-titre">Financement</span>
+        <span class="frise-etat">En recherche</span>
+        <span class="frise-detail">Dossier banque</span>
+      </td>
+    </tr>
+    <tr>
+      <td class="frise-etape avenir">
+        <span class="frise-dot" aria-hidden="true"></span>
+        <span class="frise-titre">Acte authentique</span>
+        <span class="frise-etat">À venir</span>
+        <span class="frise-detail">≤ 1<sup>er</sup> mars 2027</span>
+      </td>
+      <td class="frise-etape avenir">
+        <span class="frise-dot" aria-hidden="true"></span>
+        <span class="frise-titre">Travaux</span>
+        <span class="frise-etat">À venir</span>
+        <span class="frise-detail">Enveloppe 50 k€</span>
+      </td>
+      <td class="frise-etape avenir">
+        <span class="frise-dot" aria-hidden="true"></span>
+        <span class="frise-titre">Exploitation</span>
+        <span class="frise-etat">À venir</span>
+        <span class="frise-detail">Lots 1 à 7</span>
+      </td>
+      <td class="frise-etape frise-vide" aria-hidden="true"></td>
+    </tr>
+  </table>
   <p class="frise-legende">Vert = validé · ambre = étape courante · gris = à venir. Dates : uniquement celles déjà présentes au dossier.</p>
 </div>
 </div>

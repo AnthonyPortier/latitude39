@@ -456,7 +456,7 @@ Ces évolutions renforcent la capacité de croissance du domaine, sans modifier 
   <div class="frise-track">
     <div class="frise-etape fait">
       <span class="frise-dot" aria-hidden="true"></span>
-      <span class="frise-titre">Offre d’achat</span>
+      <span class="frise-titre">Offre<br />d’achat</span>
       <span class="frise-etat">Fait</span>
       <span class="frise-detail">Signée</span>
     </div>
@@ -464,13 +464,13 @@ Ces évolutions renforcent la capacité de croissance du domaine, sans modifier 
       <span class="frise-dot" aria-hidden="true"></span>
       <span class="frise-titre">Compromis</span>
       <span class="frise-etat">Fait</span>
-      <span class="frise-detail">Signé — 9/10/2026</span>
+      <span class="frise-detail">9/10/2026</span>
     </div>
     <div class="frise-etape courante">
       <span class="frise-dot" aria-hidden="true"></span>
-      <span class="frise-titre">Création SCI</span>
+      <span class="frise-titre">Création<br />SCI</span>
       <span class="frise-etat">En cours</span>
-      <span class="frise-detail">Maître Lelouard</span>
+      <span class="frise-detail">Maître&nbsp;Lelouard</span>
     </div>
     <div class="frise-etape courante">
       <span class="frise-dot" aria-hidden="true"></span>
@@ -480,24 +480,24 @@ Ces évolutions renforcent la capacité de croissance du domaine, sans modifier 
     </div>
     <div class="frise-etape avenir">
       <span class="frise-dot" aria-hidden="true"></span>
-      <span class="frise-titre">Acte authentique</span>
+      <span class="frise-titre">Acte<br />authentique</span>
       <span class="frise-etat">À venir</span>
-      <span class="frise-detail">Au plus tard 1<sup>er</sup> mars 2027</span>
+      <span class="frise-detail">≤&nbsp;1<sup>er</sup>&nbsp;mars&nbsp;2027</span>
     </div>
     <div class="frise-etape avenir">
       <span class="frise-dot" aria-hidden="true"></span>
       <span class="frise-titre">Travaux</span>
       <span class="frise-etat">À venir</span>
-      <span class="frise-detail">Enveloppe 50 k€</span>
+      <span class="frise-detail">Enveloppe 50&nbsp;k€</span>
     </div>
     <div class="frise-etape avenir">
       <span class="frise-dot" aria-hidden="true"></span>
       <span class="frise-titre">Exploitation</span>
       <span class="frise-etat">À venir</span>
-      <span class="frise-detail">Mise en location lots 1 à 7</span>
+      <span class="frise-detail">Lots 1 à 7</span>
     </div>
   </div>
-  <p class="frise-legende">Lecture visuelle : vert = validé · ambre = étape courante · gris = à venir. Aucune date n’est inventée : seules figurent les échéances déjà présentes au dossier.</p>
+  <p class="frise-legende">Vert = validé · ambre = étape courante · gris = à venir. Dates : uniquement celles déjà présentes au dossier.</p>
 </div>
 </div>
 
@@ -513,17 +513,6 @@ Ces évolutions renforcent la capacité de croissance du domaine, sans modifier 
 
 
 Nous demandons un emprunt de **650 000 €** pour financer l’intégralité du prix d’achat et des travaux. Les apports de **60 000 €** serviront à régler les frais de notaire.
-
----
-
-## 9. Points à finaliser
-
-- [ ] Avis de taxe foncière (montant oral ≈ 4 767 € ; fichier fixes 4 732 €)  
-- [ ] Statuts de la SCI Latitude 39 et pacte d’associés  
-- [ ] Accord de principe de la banque (emprunt 650 000 €, taux ≤ 4 %)  
-- [ ] Plan de reprise des réservations 2027 (cession et information des locataires)  
-- [x] **Devis menuiseries** : Alaplast DC3315 joint — **29 624,40 € TTC** ([Devis-menuiseries-DC3315.pdf](/pdfs/Devis-menuiseries-DC3315-Alaplast.pdf))  
-- [x] **Devis clim** : Verdon PE DE00000899 joint — **6 016,80 € TTC** ([Devis-clim-DE00000899.pdf](/pdfs/Devis-clim-DE00000899-Verdon.pdf)) — trois gîtes + salon + cuisine (pas les 7 lots) ; reste enveloppe **14 358,80 €** → division T3
 
 ---
 

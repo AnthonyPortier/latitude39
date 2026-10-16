@@ -27,7 +27,7 @@ Ce document présente chaque lot avec photos et éléments utiles pour le dossie
 **Espaces partagés du domaine :** plus de **5 000 m²**, piscine privée, terrain de pétanque, buanderie commune, jardins. Situation à environ 400 m du centre de Gréoux-les-Bains, en bordure du Verdon.
 
 **Atouts d’exploitation (domaine) :**
-- Accès **à pied aux thermes** de Gréoux (environ 900 m selon l’offre vendeuse).
+- Accès **à pied aux thermes** de Gréoux (environ 900 m).
 - **Stationnements disponibles sur site.**
 - Domaine **clôturé.**
 

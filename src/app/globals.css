@@ -207,3 +207,130 @@ ul.photo-gallery > li {
     padding: 1.5rem 1.5rem 1rem;
   }
 }
+
+/* Frise jalons (business plan) */
+.jalons-bloc {
+  margin: 0 0 1.25rem;
+}
+
+.frise-jalons {
+  margin: 0.75rem 0 0;
+  padding: 0.85rem 0.9rem 0.7rem;
+  border: 1px solid rgba(47, 145, 149, 0.28);
+  background: rgba(32, 76, 80, 0.05);
+}
+
+.frise-badge {
+  display: inline-block;
+  margin: 0 0 0.85rem;
+  padding: 0.2rem 0.55rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #5c3d12;
+  background: #f3e2c4;
+  border: 1px solid #d4b078;
+}
+
+.frise-track {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(5.5rem, 1fr));
+  gap: 0.45rem;
+  margin: 0 0 0.75rem;
+}
+
+.frise-etape {
+  text-align: center;
+  font-size: 0.78rem;
+  line-height: 1.3;
+  color: #333;
+}
+
+.frise-dot {
+  display: block;
+  width: 0.7rem;
+  height: 0.7rem;
+  margin: 0 auto 0.4rem;
+  border-radius: 50%;
+  border: 2px solid #0f3d2e;
+  background: #fff;
+  box-sizing: border-box;
+}
+
+.frise-etape.fait .frise-dot {
+  background: #0f3d2e;
+  border-color: #0f3d2e;
+}
+
+.frise-etape.courante .frise-dot {
+  background: #c47a2c;
+  border-color: #8a5518;
+  box-shadow: 0 0 0 3px #f3e2c4;
+}
+
+.frise-etape.avenir .frise-dot {
+  background: #e6e6e6;
+  border-color: #999;
+}
+
+.frise-titre {
+  display: block;
+  font-weight: 600;
+  font-size: 0.82rem;
+  color: #0f3d2e;
+  margin: 0 0 0.15rem;
+}
+
+.frise-etape.avenir .frise-titre {
+  color: #555;
+}
+
+.frise-etat {
+  display: block;
+  font-weight: 600;
+  font-size: 0.72rem;
+  margin: 0 0 0.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.frise-etape.fait .frise-etat {
+  color: #0f3d2e;
+}
+
+.frise-etape.courante .frise-etat {
+  color: #8a5518;
+}
+
+.frise-etape.avenir .frise-etat {
+  color: #666;
+}
+
+.frise-detail {
+  display: block;
+  font-size: 0.72rem;
+  color: #555;
+}
+
+.frise-legende {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: #555;
+}
+
+.jalons-resume {
+  margin: 1rem 0 1.25rem;
+  padding: 0.75rem 0.9rem;
+  border-left: 3px solid #0f3d2e;
+  background: rgba(32, 76, 80, 0.05);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.jalons-resume p {
+  margin: 0 0 0.4rem;
+}
+
+.jalons-resume p:last-child {
+  margin-bottom: 0;
+}

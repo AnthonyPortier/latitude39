@@ -11,6 +11,11 @@ Documents liés : [Business plan](/business-plan) · [Étude de marché](/etude-
 
 La **SCI Latitude 39** est **en cours de création** par **Maître Lelouard**, notaire de l’équipe. Les formalités sont engagées ; la société sera à l’impôt sur les sociétés, avec quatre associés à parts égales.
 
+<div class="jalons-resume">
+<p><strong>Jalons du projet (état au dossier) :</strong> offre d’achat et compromis de vente — <strong>faits</strong> · création SCI (Maître Lelouard) — <strong>en cours</strong> · financement — <strong>en recherche</strong> · acte authentique, travaux et mise en exploitation — <strong>à venir</strong>.</p>
+<p>Détail et frise visuelle : voir le business plan banque, section « Jalons du projet et conditions suspensives ».</p>
+</div>
+
 Les quatre associés sont amis depuis plusieurs années : ils se sont rencontrés en voyage et ont toujours voulu créer une entreprise ensemble.
 
 ---
@@ -109,7 +114,6 @@ Anthony **PORTIER** vit à Vinon-sur-Verdon. Développeur web full stack, il exp
 - **Studio complémentaire :** un studio sur le même terrain que la résidence principale sera mis en location meublée non professionnelle d’ici environ un mois.
 - **Ménage et interventions courantes :** rôle opérationnel retenu au dossier banque (gros entretien en binôme avec Michaël **LEZZI**).
 - **Compétences numériques :** site vitrine, automatisation et canal de réservation direct.
-
 
 *<sup>*</sup> Scénario A : exploitation en meublé de courte durée des 7 lots de Gréoux (ouverture 12 mois, séjour d’une nuit, tarification dynamique), avec un chiffre d’affaires cible d’environ 133 000 € — voir business plan banque.*
 

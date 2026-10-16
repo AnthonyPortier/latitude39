@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
 import type { Components } from "react-markdown";
 import { PhotoGallery } from "@/components/PhotoGallery";
 import { splitMarkdownGalleries } from "@/lib/markdown-galleries";
@@ -50,7 +51,11 @@ const components: Components = {
 
 function MarkdownBlock({ content }: { content: string }) {
   return (
-    <ReactMarkdown remarkPlugins={[remarkGfm]} components={components}>
+    <ReactMarkdown
+      remarkPlugins={[remarkGfm]}
+      rehypePlugins={[rehypeRaw]}
+      components={components}
+    >
       {content}
     </ReactMarkdown>
   );

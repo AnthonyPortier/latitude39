@@ -137,7 +137,27 @@ export default function AssociesPage() {
       </Reveal>
 
       <Reveal delay={0.04}>
-        <p className="mt-8 max-w-2xl leading-relaxed text-pierre-700">
+        <div className="jalons-resume mt-8 max-w-2xl">
+          <p>
+            <strong>Jalons du projet (état au dossier) :</strong> offre d’achat
+            et compromis de vente — <strong>faits</strong> · création SCI
+            (Maître Lelouard) — <strong>en cours</strong> · financement —{" "}
+            <strong>en recherche</strong> · acte authentique, travaux et mise en
+            exploitation — <strong>à venir</strong>.
+          </p>
+          <p>
+            Détail et frise visuelle : voir le{" "}
+            <Link
+              href="/business-plan"
+              className="text-verdon-800 underline-offset-2 hover:underline"
+              translate="no"
+            >
+              business plan
+            </Link>
+            , section « Jalons du projet et conditions suspensives ».
+          </p>
+        </div>
+        <p className="mt-6 max-w-2xl leading-relaxed text-pierre-700">
           Les quatre associés sont amis depuis plusieurs années : ils se sont
           rencontrés en voyage et ont toujours voulu créer une entreprise
           ensemble. L’équipe combine accueil, administration et urbanisme,

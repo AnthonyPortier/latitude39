@@ -446,13 +446,67 @@ Ces évolutions renforcent la capacité de croissance du domaine, sans modifier 
 
 ---
 
-## 8. Conditions suspensives et calendrier
+## 8. Jalons du projet et conditions suspensives
 
+<div class="jalons-bloc">
+<p><strong>Où en est le projet :</strong> l’<strong>offre d’achat</strong> et le <strong>compromis de vente</strong> sont <strong>signés</strong> (étapes passées). L’étape courante combine la <strong>création de la SCI Latitude 39</strong> (Maître Lelouard) et la <strong>recherche de financement</strong> auprès des banques. Viennent ensuite, dans le calendrier déjà fixé au dossier : l’<strong>acte authentique</strong>, les <strong>travaux</strong>, puis la <strong>mise en exploitation</strong> des lots 1 à 7.</p>
 
-| Échéance         | Action                                                                                      |
+<div class="frise-jalons" role="img" aria-label="Frise des jalons du projet SCI Latitude 39">
+  <p class="frise-badge">Étape courante — création SCI + recherche de financement</p>
+  <div class="frise-track">
+    <div class="frise-etape fait">
+      <span class="frise-dot" aria-hidden="true"></span>
+      <span class="frise-titre">Offre d’achat</span>
+      <span class="frise-etat">Fait</span>
+      <span class="frise-detail">Signée</span>
+    </div>
+    <div class="frise-etape fait">
+      <span class="frise-dot" aria-hidden="true"></span>
+      <span class="frise-titre">Compromis</span>
+      <span class="frise-etat">Fait</span>
+      <span class="frise-detail">Signé — 9/10/2026</span>
+    </div>
+    <div class="frise-etape courante">
+      <span class="frise-dot" aria-hidden="true"></span>
+      <span class="frise-titre">Création SCI</span>
+      <span class="frise-etat">En cours</span>
+      <span class="frise-detail">Maître Lelouard</span>
+    </div>
+    <div class="frise-etape courante">
+      <span class="frise-dot" aria-hidden="true"></span>
+      <span class="frise-titre">Financement</span>
+      <span class="frise-etat">En recherche</span>
+      <span class="frise-detail">Dossier banque</span>
+    </div>
+    <div class="frise-etape avenir">
+      <span class="frise-dot" aria-hidden="true"></span>
+      <span class="frise-titre">Acte authentique</span>
+      <span class="frise-etat">À venir</span>
+      <span class="frise-detail">Au plus tard 1<sup>er</sup> mars 2027</span>
+    </div>
+    <div class="frise-etape avenir">
+      <span class="frise-dot" aria-hidden="true"></span>
+      <span class="frise-titre">Travaux</span>
+      <span class="frise-etat">À venir</span>
+      <span class="frise-detail">Enveloppe 50 k€</span>
+    </div>
+    <div class="frise-etape avenir">
+      <span class="frise-dot" aria-hidden="true"></span>
+      <span class="frise-titre">Exploitation</span>
+      <span class="frise-etat">À venir</span>
+      <span class="frise-detail">Mise en location lots 1 à 7</span>
+    </div>
+  </div>
+  <p class="frise-legende">Lecture visuelle : vert = validé · ambre = étape courante · gris = à venir. Aucune date n’est inventée : seules figurent les échéances déjà présentes au dossier.</p>
+</div>
+</div>
+
+| État / échéance  | Action                                                                                      |
 | ---------------- | ------------------------------------------------------------------------------------------- |
+| Fait             | Offre d’achat signée                                                                        |
 | Fait — 9/10/2026 | Compromis de vente signé                                                                    |
-| En cours         | Création de la **SCI Latitude 39**                                                          |
+| En cours         | Création de la **SCI Latitude 39** (Maître Lelouard)                                        |
+| En cours         | **Financement** — recherche d’emprunt (**650 000 €**, taux ≤ 4 %)                           |
 | ≤ 29/01/2027     | Condition suspensive — vente du bien Pénicaud / Portier (**147 000 €**)                     |
 | ≤ 01/03/2027     | Acte authentique                                                                            |
 | Post-acte        | Travaux de 50 k€, puis mise en location des lots 1 à 7                                      |

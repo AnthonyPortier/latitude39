@@ -282,7 +282,7 @@ Seuil de solvabilité saisonnier (commissions 20 %) : CA brut ≥ **84 825 €**
 
 - **T2 :** l’avis MiezImmo du **20/10/2026** donne des fourchettes hors charges par lot (T2 de 22–37 m² : 600–730 €). Nous retenons **660 €** par T2, soit une moyenne prudente des milieux de fourchette.  
 - **T3 :** l’avis estime les deux T3 (Apt 6 ≈ 50 m² et Apt 7 T3/4 mezzanine) dans la fourchette **850–950 € HC**. Nous retenons le **bas de fourchette : 850 €** par T3, base unique pour les deux lots.  
-- Document source : [`AVIS_DE_VALEUR_LOCATIF.pdf`](/pdfs/AVIS_DE_VALEUR_LOCATIF.pdf).
+- Document source : `AVIS_DE_VALEUR_LOCATIF.pdf`.
 
 ### Adaptation des charges au mode « location meublée à l’année »
 

@@ -37,10 +37,6 @@ const PDFS: PdfEntry[] = [
     name: "SCI-Latitude39-presentation-associes.pdf",
     label: "Présentation des associés",
   },
-  {
-    name: "AVIS_DE_VALEUR_LOCATIF.pdf",
-    label: "Avis de valeur locative (MiezImmo)",
-  },
 ];
 
 function formatBytes(bytes: number) {

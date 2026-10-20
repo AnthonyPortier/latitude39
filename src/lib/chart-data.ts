@@ -77,7 +77,7 @@ export const scenariosCa = [
   { name: "A", montant: 133000 },
   { name: "A.1", montant: 107949 },
   { name: "A.2", montant: 72866 },
-  { name: "B", montant: 59280 },
+  { name: "B", montant: 60000 },
 ];
 
 export const financement = [

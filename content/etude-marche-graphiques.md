@@ -188,6 +188,6 @@ Complément volume comité régional du tourisme / LightHouse :
 | A saisonnier (Anthony) | 133 000 € | 7 | Rentable (cible) |
 | A.1 AirDNA | 107 948,75 € | 7 | Rentable |
 | A.2 méthode vendeuse | 72 866,32 € | 7 | **Non rentable** → B |
-| B année | 59 280 € | 7 | Filet rentable |
+| B année | 60 000 € | 7 | Filet rentable |
 | Unitaire T2 (ancre) | ≈ 18 000 € | — | — |
 | Prévision PriceLabs Vinon | 18 257 € | 1 annonce | — |

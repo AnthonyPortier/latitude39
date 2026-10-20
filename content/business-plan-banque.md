@@ -131,7 +131,7 @@ Dans **A, A.1 et A.2**, le parc est **5 T2 + 2 T3**, capacité **4 / 6**, multi-
 | **A** | Méthode Anthony (12 mois, 1 nuit, prix dynamiques) | **133 000 €** | 20 % | **+38 140 €** | Saisonnier **rentable** — meilleur cas |
 | **A.1** | Moyennes AirDNA (65 € × 65 % × 365 × 7) | **107 948,75 €** | 20 % | **+18 499 €** | Saisonnier **rentable** |
 | **A.2** | Méthode vendeuse (≈ 10 mois, min. 1 semaine, tarifs historiques) sur **7 lots** | **72 866,32 €** | 20 % | **−9 566,94 €** | **Non rentable** → bascule vers **B** |
-| **B** | Meublé à l’année | **59 280 €** | 0 % | **+4 680 / +2 980 €** | **Filet rentable** (si pas A / A.1) |
+| **B** | Meublé à l’année | **60 000 €** | 0 % | **+5 400 / +3 700 €** | **Filet rentable** (si pas A / A.1) |
 
 **Conclusion banque :** si l’on exploite le projet **comme la vendeuse**, on **n’est pas rentable**, dans ce cas, **mieux vaut le scénario B**.
 
@@ -275,23 +275,23 @@ Seuil de solvabilité saisonnier (commissions 20 %) : CA brut ≥ **84 825 €**
 
 | Typologie     | Nb    | Loyer mensuel HC | Total annuel | Source                                                                                                                              |
 | ------------- | ----- | ---------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| T2 (2 pièces) | 5     | **660 €**        | **39 600 €** | Avis MiezImmo 15/07/2026 — milieu des fourchettes T2 du domaine (environ 600–730 € selon surface)                                   |
-| T3 (3 pièces) | 2     | **820 €**        | **19 680 €** | Estimation marché meublé à l’année Gréoux / bassin (annonces + loyer médian local) — base unique pour les 2 T3 issus de la division |
-| **Total**     | **7** | **4 940 €**      | **59 280 €** |                                                                                                                                     |
+| T2 (2 pièces) | 5     | **660 €**        | **39 600 €** | Avis MiezImmo 20/10/2026 — moyenne prudente des fourchettes T2 du domaine (600–730 € selon surface)                                   |
+| T3 (3 pièces) | 2     | **850 €**        | **20 400 €** | Avis MiezImmo 20/10/2026 — bas de fourchette des 2 T3 (Apt 6 et Apt 7 : 850–950 € HC chacun) |
+| **Total**     | **7** | **5 000 €**      | **60 000 €** |                                                                                                                                     |
 
 
-- **T2 :** l’avis MiezImmo donne des fourchettes hors charges par lot (par exemple un T2 de 25–37 m² : 600–730 €). Nous retenons **660 €** par T2, soit une moyenne prudente des milieux de fourchette.  
-- **T3 :** aucune surface figée post-division ne permet encore de différencier les deux lots, **820 €** se situe au-dessus des annonces basses à Gréoux (≈ 760 €), sous le bas de fourchette MiezImmo du T3/4 du domaine (850–950 €), et sous la moyenne statistique locale d’un T3 d’environ 65 m² (≈ 856 € charges comprises).  
-- Le détail des sources marché pour les T3 figure dans la note interne du dossier projet.
+- **T2 :** l’avis MiezImmo du **20/10/2026** donne des fourchettes hors charges par lot (T2 de 22–37 m² : 600–730 €). Nous retenons **660 €** par T2, soit une moyenne prudente des milieux de fourchette.  
+- **T3 :** l’avis estime les deux T3 (Apt 6 ≈ 50 m² et Apt 7 T3/4 mezzanine) dans la fourchette **850–950 € HC**. Nous retenons le **bas de fourchette : 850 €** par T3, base unique pour les deux lots.  
+- Document source : [`AVIS_DE_VALEUR_LOCATIF.pdf`](/pdfs/AVIS_DE_VALEUR_LOCATIF.pdf).
 
 ### Adaptation des charges au mode « location meublée à l’année »
 
-Si l’on reprenait telles quelles les charges d’un modèle saisonnier (fluides inclus, environ 20 k€), avec une annuité sur 20 ans (environ 46–47 k€) et un chiffre d’affaires locatif classique (environ 59 k€), l’équilibre serait insuffisant.  
+Si l’on reprenait telles quelles les charges d’un modèle saisonnier (fluides inclus, environ 20 k€), avec une annuité sur 20 ans (environ 46–47 k€) et un chiffre d’affaires locatif classique (environ 60 k€), l’équilibre serait insuffisant.  
 Le scénario B retient donc les **règles habituelles de la location meublée à l’année** : les locataires paient leurs consommations (eau, électricité, chauffage), et la SCI ne conserve que les charges structurelles du propriétaire — taxe foncière, assurance immeuble et entretien courant.
 
 ### Bases de ce scénario
 
-- Les **7 logements** sont loués à l’année en meublé, pour un chiffre d’affaires locatif d’environ **59 280 €**.  
+- Les **7 logements** sont loués à l’année en meublé, pour un chiffre d’affaires locatif d’environ **60 000 €**.  
 - Les **locataires** paient l’eau, l’électricité et le chauffage, la SCI conserve surtout la taxe foncière, l’assurance, la comptabilité, la CFE et le petit entretien.  
 - La rotation est plus faible qu’en saisonnier : il n’y a ni commissions de plateforme ni turnover de type Airbnb, ce qui allège les charges du propriétaire.  
 - L’emprunt est remboursé sur **20 ans**, **aucune rémunération** n’est versée aux associés en année 1.
@@ -314,31 +314,31 @@ Dans ce scénario, nous retenons environ **9 000 € par an** pour ces charges. 
 
 ### Compte de résultat B (emprunt 20 ans)
 
-**Hypothèses retenues :** chiffre d’affaires de **59 280 €** · charges propriétaire de **9 000 €** · prêt de **650 000 €** · durée de **20 ans**.
+**Hypothèses retenues :** chiffre d’affaires de **60 000 €** · charges propriétaire de **9 000 €** · prêt de **650 000 €** · durée de **20 ans**.
 
 
 | Poste                                  | À 3,60 %       | À 4,00 %       |
 | -------------------------------------- | -------------- | -------------- |
-| CA location meublée à l’année (7 lots) | 59 280 €       | 59 280 €       |
+| CA location meublée à l’année (7 lots) | 60 000 €       | 60 000 €       |
 | Charges propriétaire (hors prêt)       | −9 000 €       | −9 000 €       |
 | Annuité emprunt 20 ans                 | −45 600 €      | −47 300 €      |
 | Rémunérations                          | 0 €            | 0 €            |
-| **Résultat avant IS**                  | **≈ +4 680 €** | **≈ +2 980 €** |
+| **Résultat avant IS**                  | **≈ +5 400 €** | **≈ +3 700 €** |
 
 
 ### Synthèse du scénario B
 
-- Le modèle prévu reste la location saisonnière (**A**, ou a minima **A.1**), le B n’est qu’une **hypothèse alternative**, dans laquelle les **7 logements** seraient loués à l’année en meublé pour un chiffre d’affaires d’environ **59 280 €**.  
+- Le modèle prévu reste la location saisonnière (**A**, ou a minima **A.1**), le B n’est qu’une **hypothèse alternative**, dans laquelle les **7 logements** seraient loués à l’année en meublé pour un chiffre d’affaires d’environ **60 000 €**.  
 - Les locataires paient leurs consommations, la SCI conserve les charges propriétaire (environ **9 000 €** / an), un emprunt sur **20 ans**, et **aucune rémunération** des associés en année 1.  
-- Dans ces conditions, le résultat avant IS reste **excédentaire** (environ **+3 000 à +4 700 €** selon le taux).  
+- Dans ces conditions, le résultat avant IS reste **excédentaire** (environ **+3 700 à +5 400 €** selon le taux).  
 - Face à **A.2** (méthode vendeuse sur 7 lots, **non rentable** ≈ −9,6 k€), **B est préférable** : coûts plus légers, fluides locataire, pas de commissions plateforme.
 
 ---
 
 ## 7. Pistes d’amélioration — évolution du chiffre d’affaires (horizon ≈ 5 ans)
 
-*Ces phases ultérieures ne sont **pas intégrées** aux prévisionnels du scénario A (**133 000 €**) ni du scénario B (**≈ 59 280 €**).*  
-Après la mise en exploitation des **7 logements** initiaux, nous engagerons ces évolutions pour faire croître le chiffre d’affaires sur un horizon d’environ **5 ans**. Les montants des pistes 1 et 2 s’appuient sur les mêmes bases de chiffre d’affaires par logement que le dossier (A : **≈ 18 000 € / an / T2**, **≈ 21 600 € / an / T3**, B : T2 **660 € / mois**, T3 **820 € / mois**). Les pistes 3 (conciergerie) et 4 (location de vélos électriques) enrichissent le chiffre d’affaires par des services annexes, sans modifier les CA de base.
+*Ces phases ultérieures ne sont **pas intégrées** aux prévisionnels du scénario A (**133 000 €**) ni du scénario B (**≈ 60 000 €**).*  
+Après la mise en exploitation des **7 logements** initiaux, nous engagerons ces évolutions pour faire croître le chiffre d’affaires sur un horizon d’environ **5 ans**. Les montants des pistes 1 et 2 s’appuient sur les mêmes bases de chiffre d’affaires par logement que le dossier (A : **≈ 18 000 € / an / T2**, **≈ 21 600 € / an / T3**, B : T2 **660 € / mois**, T3 **850 € / mois**). Les pistes 3 (conciergerie) et 4 (location de vélos électriques) enrichissent le chiffre d’affaires par des services annexes, sans modifier les CA de base.
 
 ### Piste 1 — Division du grand 3 pièces (ex-salon) en deux T2
 
@@ -357,7 +357,7 @@ Après la mise en exploitation des **7 logements** initiaux, nous engagerons ces
 | Scénario               | Avant (1× T3)      | Après (2× T2)           | **CA en plus / an** |
 | ---------------------- | ------------------ | ----------------------- | ------------------- |
 | **A** saisonnier       | 21 600 €           | 36 000 € (2 × 18 000)   | **+≈ 14 400 €**     |
-| **B** meublé à l’année | 9 840 € (820 × 12) | 15 840 € (2 × 660 × 12) | **+≈ 6 000 €**      |
+| **B** meublé à l’année | 10 200 € (850 × 12) | 15 840 € (2 × 660 × 12) | **+≈ 5 640 €**      |
 
 
 ### Piste 2 — Hall d’entrée (9 m²), serre et cave → logement atypique
@@ -422,19 +422,19 @@ Le domaine se prête naturellement à une **flotte de 10 vélos à assistance é
 
 *Risques :* l’entretien étant assuré en régie, le coût d’exploitation se limite surtout aux pièces, les principaux risques restent le **vol** et la **sinistralité**, à couvrir par une assurance flotte adaptée et des antivols renforcés.
 
-### Synthèse — chiffre d’affaires additionnel (en plus des 133 k€ / ≈ 59 k€)
+### Synthèse — chiffre d’affaires additionnel (en plus des 133 k€ / ≈ 60 k€)
 
-Ces montants **s’ajoutent** aux chiffres d’affaires des scénarios A (**133 000 €**) et B (**≈ 59 280 €**), ils ne les remplacent pas. Une fois les quatre pistes réalisées :
+Ces montants **s’ajoutent** aux chiffres d’affaires des scénarios A (**133 000 €**) et B (**≈ 60 000 €**), ils ne les remplacent pas. Une fois les quatre pistes réalisées :
 
 
 | Piste                                          | CA + / an — A   | CA + / an — B   |
 | ---------------------------------------------- | --------------- | --------------- |
-| 1 — T3 → 2× T2                                 | +≈ 14 400 €     | +≈ 6 000 €      |
+| 1 — T3 → 2× T2                                 | +≈ 14 400 €     | +≈ 5 640 €      |
 | 2 — Studio atypique (hall 9 m² + serre + cave) | +≈ 24 000 €     | +≈ 6 000 €      |
 | 3 — Conciergerie privée (application)          | +≈ 8 000 €      | 0 €             |
 | 4 — Location 10 VAE                            | +≈ 18 000 €     | 0 €             |
-| **Total additionnel (horizon ≈ 5 ans)**         | **+≈ 64 400 €** | **+≈ 12 000 €** |
-| **CA total avec pistes (indicatif)**           | **≈ 197 400 €** | **≈ 71 280 €**  |
+| **Total additionnel (horizon ≈ 5 ans)**         | **+≈ 64 400 €** | **+≈ 11 640 €** |
+| **CA total avec pistes (indicatif)**           | **≈ 197 400 €** | **≈ 71 640 €**  |
 
 
 Ces évolutions renforcent la capacité de croissance du domaine, sans modifier la demande de financement ni les comptes d’exploitation de la mise en service initiale (7 lots).

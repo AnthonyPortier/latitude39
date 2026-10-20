@@ -365,7 +365,7 @@ Les scénarios **A / A.1 / A.2 / B** et leurs chiffres sont détaillés dans le 
 
 Gréoux-les-Bains offre un **marché d’hébergement structurellement porteur**. Le thermalisme (≈ 26 000 curistes / an), le Verdon, la lavande, la pêche, le vélo et les sports nautiques, la saison des mariages et le pôle Cadarache–ITER (plusieurs milliers de personnes sur site, horizon opérations 2034+) créent une **demande diversifiée** et une saison longue. Les pouvoirs publics (agglomération, offices de tourisme, congrès, thermes, événementiel) agissent explicitement pour **lisser la saison creuse**.
 
-AirDNA confirme un marché local **profond** : **555** annonces actives à Gréoux, occupation **65 %**, score de demande **85/100**. PriceLabs ancre la performance unitaire du projet à ≈ **18 257 €** et **87 %** d’occupation sur un T2 comparable. Le chiffre d’affaires cible **A** de **133 000 €** (7 lots) reste **crédible**, **A.1** (≈ 108 k€) reste rentable, **A.2** (≈ 73 k€) est **non rentable** et pousse vers **B** (environ **59 k€**, encore solvable).
+AirDNA confirme un marché local **profond** : **555** annonces actives à Gréoux, occupation **65 %**, score de demande **85/100**. PriceLabs ancre la performance unitaire du projet à ≈ **18 257 €** et **87 %** d’occupation sur un T2 comparable. Le chiffre d’affaires cible **A** de **133 000 €** (7 lots) reste **crédible**, **A.1** (≈ 108 k€) reste rentable, **A.2** (≈ 73 k€) est **non rentable** et pousse vers **B** (**60 000 €**, encore solvable — avis MiezImmo 20/10/2026).
 
 **En synthèse :** marché porteur, demande multi-moteurs, données AirDNA et PriceLabs convergentes, prévisionnel cohérent — **A / A.1** pour le saisonnier rentable, **B** si l’on refuse la méthode Anthony, **pas A.2**.
 
@@ -388,4 +388,4 @@ AirDNA confirme un marché local **profond** : **555** annonces actives à Gréo
 - **Agence de développement des Alpes-de-Haute-Provence / FFVélo** — label Territoire Vélo, Boucles du Verdon (cyclosportive, départ Gréoux), Tour de la Provence.
 - **Communauté d’agglomération Durance Luberon Verdon** — schéma de développement économique / tourisme, office de tourisme communautaire.
 - **Observatoire économique du secteur thermal, édition 2025** / études clientèles thermales, presse La Provence, Dauphiné, Haute Provence Info (thermes, lavande, ITER).
-- **Business plan banque** — scénarios A 133 k€ · A.1 107 948,75 € · A.2 72 866,32 € (non rentable) · B 59 280 € · historique vendeur · pipeline 2027.
+- **Business plan banque** — scénarios A 133 k€ · A.1 107 948,75 € · A.2 72 866,32 € (non rentable) · B 60 000 € (avis MiezImmo 20/10/2026) · historique vendeur · pipeline 2027.

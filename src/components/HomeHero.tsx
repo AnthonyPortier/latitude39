@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
 
@@ -13,14 +12,18 @@ export function HomeHero() {
         animate={{ scale: 1 }}
         transition={{ duration: 1.5, ease: [0.22, 1, 0.36, 1] }}
       >
-        <Image
-          src="/photos/hero-facade.webp"
-          alt="Façade du domaine à Gréoux-les-Bains"
-          fill
-          priority
-          className="object-cover object-[50%_40%]"
-          sizes="100vw"
-        />
+        <video
+          className="absolute inset-0 h-full w-full object-cover object-[50%_40%]"
+          autoPlay
+          muted
+          loop
+          playsInline
+          preload="auto"
+          poster="/photos/hero-facade.webp"
+          aria-label="Vidéo du domaine à Gréoux-les-Bains"
+        >
+          <source src="/media/hero-domaine.mp4" type="video/mp4" />
+        </video>
       </motion.div>
 
       {/* Voile bas uniquement — lisibilité du texte, pas d’overlay décoratif */}
